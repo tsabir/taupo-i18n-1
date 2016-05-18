@@ -312,7 +312,7 @@
     "context": "This is the help page article body describing in detail how to report a person or pet."
   },
   "pageAboutTextAbout": {
-    "message": "Trang web này được cung cấp bởi National Library of Medicine ở Bethesda, Maryland. NLM là một phần của Viện Y tế Quốc gia, Bộ Y tế và Dịch Vụ Nhân Sinh của Hoa Kỳ, và sứ mệnh của chúng tôi là phát triển và điều phối các công nghệ truyền thông để cải thiện việc cung cấp các dịch vụ y tế. Trang web này được cung cấp cho các mục đích nghiên cứu công dụng của các công cụ như vậy trong viec ứng phó với thiên tai. Các công nghệ cơ bản được phát triển thông qua các dự án Lost Person Finder, một phần đóng góp của NLM cho Bethesda Hospitals' Emergency Preparedness Partnership. Sự hợp tác này đã nhận được tài trợ liên bang ban đầu cho LPF và dự án NLM CNTT khác trong năm 2008. Dự án LPF hiện đang được hỗ trợ bởi Chương trình nghiên cứu nội của NIH, thông qua Trung tâm Quốc gia Lister Hill NLM cho khoa Biomedical Communications. Phát triển phần mềm đứng đầu boi Chi nhánh Kỹ thuật Truyền thông LHNCBC, với nội dung bổ sung từ Chi nhánh LHNCBC của  khoa Khoa học Máy tính và Trung tâm Nghiên cứu Quản lý thông tin ve thiên tai, một phần của Dịch vụ Thông tin chuyên ngành NLM.",
+    "message": "Trang web này được cung cấp bởi Thư viện Y khoa Quốc gia ở Bethesda, Maryland. NLM là một phần của Viện Y khoa Quốc gia, Bộ Y tế và Dịch Vụ Nhân Sinh của Hoa Kỳ, và sứ mệnh của chúng tôi là phát triển và điều phối các công nghệ truyền thông để cải thiện việc cung cấp các dịch vụ y tế. Trang web này được cung cấp cho các mục đích nghiên cứu công dụng của các công cụ như vậy trong viec ứng phó với thiên tai. Các công nghệ cơ bản được phát triển thông qua các dự án Lost Person Finder, một phần đóng góp của NLM cho Bethesda Hospitals' Emergency Preparedness Partnership. Sự hợp tác này đã nhận được tài trợ liên bang ban đầu cho LPF và dự án NLM CNTT khác trong năm 2008. Dự án LPF hiện đang được hỗ trợ bởi Chương trình nghiên cứu nội của NIH, thông qua Trung tâm Quốc gia Lister Hill NLM cho khoa Biomedical Communications. Phát triển phần mềm đứng đầu boi Chi nhánh Kỹ thuật Truyền thông LHNCBC, với nội dung bổ sung từ Chi nhánh LHNCBC của  khoa Khoa học Máy tính và Trung tâm Nghiên cứu Quản lý thông tin ve thiên tai, một phần của Dịch vụ Thông tin chuyên ngành NLM.",
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
   "pageAboutTextBrowser": {
@@ -468,35 +468,35 @@
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
   },
   "seoTitle1": {
-    "message": "Find or report persons from",
+    "message": "Tìm hoặc báo cáo người từ",
     "context": "Part 1 of HTML title and description tags for the home page (e.g. Find or report persons from Ecuador Earthquake)."
   },
   "seoTitle2": {
-    "message": "a disaster",
+    "message": "một thảm họa",
     "context": "Part 2 of HTML title and description tags for the home page if no active event (e.g. Find or report persons from a disaster)."
   },
   "seoTitle3": {
-    "message": "Report missing persons from",
+    "message": "Báo cáo người mất tích từ",
     "context": "HTML title tags for the report page (e.g. Report persons from Ecuador Earthquake)."
   },
   "seoTitle4": {
-    "message": "Find missing persons from",
+    "message": "Tìm người mất tích từ",
     "context": "HTML title and description tags for the search page (e.g. Find missing persons from Ecuador Earthquake)."
   },
   "seoTitle5": {
-    "message": "Help finding and reporting missing persons",
+    "message": "Giúp việc tìm kiếm và báo cáo người mất tích",
     "context": "HTML title tag for the help page."
   },
   "seoTitle6": {
-    "message": "About finding and reporting missing persons",
+    "message": "Về việc tìm kiếm và báo cáo người mất tích",
     "context": "HTML title tag for the about page."
   },
   "seoTitle7": {
-    "message": "Privacy considerations for finding and reporting missing persons",
+    "message": "Cân nhắc bảo mật cho việc tìm kiếm và báo cáo người mất tích",
     "context": "HTML title tag for the privacy page."
   },
   "seoTitle8": {
-    "message": "Resources for finding and reporting missing persons",
+    "message": "Nguồn lực cho việc tìm kiếm và báo cáo người mất tích",
     "context": "HTML title tag for the resources page."
   },
   "seoTitle9": {
@@ -504,19 +504,19 @@
     "context": "Part 1 of HTML title tag for the full record page (e.g. Record for John Doe)."
   },
   "seoTitle10": {
-    "message": "from",
+    "message": "từ",
     "context": "Part 2 of HTML title tag for the full record page (e.g. from Ecuador Earthquake)."
   },
   "seoDescription1": {
-    "message": "Report missing or found persons from the",
+    "message": "Báo cáo những người thất lạc hoặc tìm thấy từ các",
     "context": "HTML description tag for the report page (e.g. Report missing or found persons from the Ecuador Earthquake)."
   },
   "seoDescription2": {
-    "message": "Help instructions for finding and reporting missing persons",
+    "message": "Giúp hướng dẫn cho việc tìm kiếm và báo cáo người mất tích",
     "context": "HTML description tag for the help page."
   },
   "seoDescription3": {
-    "message": "About using People Locator to find and report missing persons",
+    "message": "Về sử dụng People Locator để tìm và báo cáo người mất tích",
     "context": "HTML description tag for the about page."
   },
   "seoDescription4": {
@@ -524,27 +524,27 @@
     "context": "HTML description tag for the privacy page."
   },
   "seoDescription5": {
-    "message": "Other resources for finding and reporting missing persons",
+    "message": "Các nguồn lực khác cho việc tìm kiếm và báo cáo người mất tích",
     "context": "HTML description tag for the resources page."
   },
   "seoDescription6": {
-    "message": "View and update record for",
+    "message": "Xem và cập nhật hồ sơ cho",
     "context": "Part 1 of HTML description tag for the full record page (e.g. View and update record for John Doe)."
   },
   "seoDescription7": {
-    "message": "from the",
+    "message": "từ",
     "context": "Part 2 of HTML description tag for the full record page (e.g. from the Ecuador Earthquake)."
   },
   "seoAlt1": {
-    "message": "Photo of",
+    "message": "ảnh của",
     "context": "Part 1 of HTML alt tag for a personal photo (e.g. Photo of John Doe)"
   },
   "seoAlt2": {
-    "message": "person",
+    "message": "một người",
     "context": "Part 2 of HTML alt tag for a personal photo (e.g. missing person)"
   },
   "seoAlt3": {
-    "message": "reported in",
+    "message": "báo cáo trong",
     "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
   }
 }
