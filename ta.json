@@ -151,10 +151,6 @@
     "message": "Logged in.",
     "context": "This notification will appear after the user successfully logs in."
   },
-  "notifyLoginAdmin": {
-    "message": "Login successful, to access privileged events or modules please reload the page.",
-    "context": "This notification will appear after an administrator successfully logs in."
-  },
   "notifyRegister": {
     "message": "You are now registered and logged in.",
     "context": "This notification will appear after the user newly registers and is automatically logged in."

@@ -151,10 +151,6 @@
     "message": "Đăng nhập.",
     "context": "This notification will appear after the user successfully logs in."
   },
-  "notifyLoginAdmin": {
-    "message": "Đăng nhập thành công, để truy cập vào các sự kiện đặc quyền hoặc ứng dụng xin vui lòng tải lại trang.",
-    "context": "This notification will appear after an administrator successfully logs in."
-  },
   "notifyRegister": {
     "message": "Bạn đã được đăng ký và đăng nhập.",
     "context": "This notification will appear after the user newly registers and is automatically logged in."

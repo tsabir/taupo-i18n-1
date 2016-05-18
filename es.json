@@ -151,10 +151,6 @@
     "message": "Conectado.",
     "context": "This notification will appear after the user successfully logs in."
   },
-  "notifyLoginAdmin": {
-    "message": "Ingresar con éxito, para acceder a los eventos privilegiados o módulos Vuelve a cargar la página.",
-    "context": "This notification will appear after an administrator successfully logs in."
-  },
   "notifyRegister": {
     "message": "Ahora está registrado y conectado.",
     "context": "This notification will appear after the user newly registers and is automatically logged in."
