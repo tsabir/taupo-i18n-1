@@ -28,7 +28,7 @@
     "context": "The link text for the About link."
   },
   "linkPrivacy": {
-    "message": "Intimidad",
+    "message": "Privacidad",
     "context": "The link text for the Privacy link."
   },
   "linkAccessibility": {
@@ -52,11 +52,11 @@
     "context": "The link text for the Follow Us link."
   },
   "linkTrademark": {
-    "message": "Marca",
+    "message": "Marca Registrada",
     "context": "The link text for the Trademark link."
   },
   "textTrademark": {
-    "message": "PEOPLE LOCATOR, ReUnite y TriagePic son marcas comerciales registradas del Departamento de Salud y Servicios Humanos de Estados Unidos.",
+    "message": "PEOPLE LOCATOR, ReUnite y TriagePic son marcas comerciales registradas del Departamento de Salud y Servicios Humanos de los Estados Unidos.",
     "context": "Verbiage describing the three registered trademarks we hold on People Locator."
   },
   "expirationDate": {
@@ -72,7 +72,7 @@
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "plusError6": {
-    "message": "Error: un usuario ya existe con el proporcionado la dirección de correo electrónico proporcionada",
+    "message": "Error: un usuario ya existe con la dirección de correo electrónico proporcionada",
     "context": "Error message presented when user tries to use an email address already in use."
   },
   "plusError7": {
@@ -80,11 +80,11 @@
     "context": "Error message presented when a user attempts to register with a username that is already in use by another user."
   },
   "plusError8": {
-    "message": "Error: la dirección de email no es válida",
+    "message": "Error: la dirección de correo electrónico no es válida",
     "context": "Error message presented when a user provides an invalid email address."
   },
   "plusError9": {
-    "message": "Error: la contraseña debe tener 8-16 caracteres de longitud, debe tener al menos una mayúscula, una minúscula y un carácter numérico",
+    "message": "Error: la contraseña debe tener 8-16 caracteres de longitud, debe tener al menos una letra mayúscula, una minúscula y un carácter numérico",
     "context": "Error message presented when user enters an invalid password."
   },
   "plusError11": {
@@ -128,15 +128,15 @@
     "context": "Error message presented when user attempts to follow a record they have no permission to access."
   },
   "plusError601": {
-    "message": "Error: No se puede seguir este registro ya que ya está siguiendo",
+    "message": "Error: No se puede seguir este registro, ya lo está siguiendo",
     "context": "Error message presented when attempting to follow a record the user is already following."
   },
   "plusError602": {
-    "message": "Error: No se puede dejar de seguir este registro ya que no están actualmente siguiendo lo",
+    "message": "Error: No se puede dejar de seguir este registro ya que no están actualmente siguiendolo",
     "context": "Error message presented when "
   },
   "plusError9999": {
-    "message": "Un error desconocido a ocurrido.",
+    "message": "Un error desconocido ha ocurrido.",
     "context": "Error message presented when an unknown error has occurred."
   },
   "errorGettingSubscription": {
@@ -152,7 +152,7 @@
     "context": "This notification will appear after the user successfully logs in."
   },
   "notifyLoginAdmin": {
-    "message": "Ingresar con éxito, para acceder a los eventos privilegiados o módulos Vuelve a cargar la página.",
+    "message": "Ingreso con éxito, para acceder a los eventos privilegiados o módulos Vuelve a cargar la página.",
     "context": "This notification will appear after an administrator successfully logs in."
   },
   "notifyRegister": {
@@ -208,11 +208,11 @@
     "context": "This is the placeholder text for the username input."
   },
   "pad1loginPasswordPlaceholder": {
-    "message": "Clave",
+    "message": "Contraseña",
     "context": "This is the placeholder text for the password input."
   },
   "pad1registerEmailPlaceholder": {
-    "message": "Email",
+    "message": "Correo electrónico",
     "context": "This is the placeholder text for the email input."
   },
   "pad1registerText": {
@@ -224,7 +224,7 @@
     "context": "This is the first word of the OMB notice."
   },
   "pad2submission": {
-    "message": "Presentación de la información es de carácter voluntario. Toda la información presentada se pondrá a disposición del público.",
+    "message": "La presentación de la información es de carácter voluntario. Toda la información presentada se pondrá a disposición del público.",
     "context": "These are the first two sentences of the OMB notice."
   },
   "pad2text": {
@@ -256,7 +256,7 @@
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
   "pad3subStatusUnsubscribed": {
-    "message": "UNSUBSCRIBED",
+    "message": "NO SUBSCRITO",
     "context": "This text label tells the status of the user's subscription to recieve notifications."
   },
   "pad3subStatusSubscribed": {
@@ -300,7 +300,7 @@
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "helpFindTitle": {
-    "message": "Ayudar a encontrar a una persona o animal doméstico",
+    "message": "Ayudar a buscar a una persona o animal doméstico",
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
@@ -308,7 +308,7 @@
     "context": "This is the help page article body describing in detail how to find/search for a person or pet."
   },
   "helpReportTitle": {
-    "message": "Informes ayudar a una persona o animal doméstico",
+    "message": "Informes para ayudar a una persona o animal doméstico",
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
@@ -336,7 +336,7 @@
     "context": "Frequently Asked Questions link title on About page."
   },
   "pagePrivacyText1": {
-    "message": "A menos que se indique lo contrario, los datos basados en la comunidad contenidas en este sitio Web están disponibles al público y se pueden buscar por todos los visitantes del sitio Web. Los datos pueden ser recibidas de diversas fuentes, como se indica en los registros individuales de la notificación directa a través de la NLM :",
+    "message": "A menos que se indique lo contrario, los datos basados en la comunidad contenidas en este sitio Web están disponibles al público y se pueden ser buscados por todos los visitantes del sitio Web. Los datos pueden ser recibidos de diversas fuentes, como se indica en los registros individuales de la notificación directa a través de la NLM :",
     "context": "This is the first text paragraph on the Privacy page describing how user data is handled."
   },
   "pagePrivacyText2a": {
@@ -376,7 +376,7 @@
     "context": "The word the."
   },
   "backButton": {
-    "message": "ESPALDA",
+    "message": "ATRAS",
     "context": "The text label for all buttons allowing the user to navigate back."
   },
   "pagePrivacyBullet1": {
@@ -432,7 +432,7 @@
     "context": "Second bullet link on the Disaster section of the Resource page."
   },
   "pageResourcesDisaster3": {
-    "message": "Cruz Roja ofrece un espacio y Alimentación",
+    "message": "Cruz Roja ofrece  espacio y alimentación",
     "context": "Third buller link on the Disaster section of the Resource page."
   },
   "pageResourcesFromMedlinePlus": {
@@ -440,7 +440,7 @@
     "context": "Text label for several links to Medline Plus on the Resource page."
   },
   "followUs": {
-    "message": "Siga con nosotros...",
+    "message": "Siguenos...",
     "context": "Used to prompt user to follow us on a social network of their choice."
   },
   "and": {
@@ -448,7 +448,7 @@
     "context": "The word and used between two nouns."
   },
   "trademarkText": {
-    "message": "son marcas comerciales registradas de el Departamento de Salud y Servicios Humanos de EE.UU.",
+    "message": "son marcas comerciales registradas de el Departamento de Salud y Servicios Humanos de los EE.UU.",
     "context": "The second half of the trademark sentence."
   },
   "tabDisasterEvents": {
@@ -456,7 +456,7 @@
     "context": "The title of the 1st tab allowing the selection of particular Disaster Events."
   },
   "tabFind": {
-    "message": "Encontrar",
+    "message": "Buscar",
     "context": "The title of the 2nd tab allowing someone to Find a person or pet."
   },
   "tabReport": {
@@ -472,83 +472,83 @@
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
   },
   "seoTitle1": {
-    "message": "Find or report persons from",
+    "message": "Busque o informe acerca de personas de",
     "context": "Part 1 of HTML title and description tags for the home page (e.g. Find or report persons from Ecuador Earthquake)."
   },
   "seoTitle2": {
-    "message": "a disaster",
+    "message": "un desastre",
     "context": "Part 2 of HTML title and description tags for the home page if no active event (e.g. Find or report persons from a disaster)."
   },
   "seoTitle3": {
-    "message": "Report missing persons from",
+    "message": "Informe acerca de personas desaparecidas de",
     "context": "HTML title tags for the report page (e.g. Report persons from Ecuador Earthquake)."
   },
   "seoTitle4": {
-    "message": "Find missing persons from",
+    "message": "Busque personas desaparecidas de",
     "context": "HTML title and description tags for the search page (e.g. Find missing persons from Ecuador Earthquake)."
   },
   "seoTitle5": {
-    "message": "Help finding and reporting missing persons",
+    "message": "Ayude a reportar o a buscar personas desaparecidas de",
     "context": "HTML title tag for the help page."
   },
   "seoTitle6": {
-    "message": "About finding and reporting missing persons",
+    "message": "Acerca de reportar y buscar personas desaparecidas de",
     "context": "HTML title tag for the about page."
   },
   "seoTitle7": {
-    "message": "Privacy considerations for finding and reporting missing persons",
+    "message": "Consideraciones acerca de la privacidad para reportar o buscar personas desaparecidas",
     "context": "HTML title tag for the privacy page."
   },
   "seoTitle8": {
-    "message": "Resources for finding and reporting missing persons",
+    "message": "Recursos para buscar o reportar personas desaparecidas",
     "context": "HTML title tag for the resources page."
   },
   "seoTitle9": {
-    "message": "Record for",
+    "message": "Registro de",
     "context": "Part 1 of HTML title tag for the full record page (e.g. Record for John Doe)."
   },
   "seoTitle10": {
-    "message": "from",
+    "message": "de",
     "context": "Part 2 of HTML title tag for the full record page (e.g. from Ecuador Earthquake)."
   },
   "seoDescription1": {
-    "message": "Report missing or found persons from the",
+    "message": "Reporte personas desaparecidas o encontradas del",
     "context": "HTML description tag for the report page (e.g. Report missing or found persons from the Ecuador Earthquake)."
   },
   "seoDescription2": {
-    "message": "Help instructions for finding and reporting missing persons",
+    "message": "Instrucciones de ayuda para reportar o buscar personas desaparecidas",
     "context": "HTML description tag for the help page."
   },
   "seoDescription3": {
-    "message": "About using People Locator to find and report missing persons",
+    "message": "Acerca de la utilización del People Locator para buscar o reportar personas desaparecidas",
     "context": "HTML description tag for the about page."
   },
   "seoDescription4": {
-    "message": "Privacy considerations for using People Locator to find and report missing persons",
+    "message": "Consideraciones acerca de la privacidad en el uso de People Locator para reportar o buscar personas desaparecidas",
     "context": "HTML description tag for the privacy page."
   },
   "seoDescription5": {
-    "message": "Other resources for finding and reporting missing persons",
+    "message": "Otros recursos para buscar o reportar personas desaparecidas",
     "context": "HTML description tag for the resources page."
   },
   "seoDescription6": {
-    "message": "View and update record for",
+    "message": "Visualize o actualize el registro de",
     "context": "Part 1 of HTML description tag for the full record page (e.g. View and update record for John Doe)."
   },
   "seoDescription7": {
-    "message": "from the",
+    "message": "del",
     "context": "Part 2 of HTML description tag for the full record page (e.g. from the Ecuador Earthquake)."
   },
   "seoAlt1": {
-    "message": "Photo of",
+    "message": "Foto de",
     "context": "Part 1 of HTML alt tag for a personal photo (e.g. Photo of John Doe)"
   },
   "seoAlt2": {
-    "message": "person",
+    "message": "persona",
     "context": "Part 2 of HTML alt tag for a personal photo (e.g. missing person)"
   },
   "seoAlt3": {
-    "message": "reported in",
+    "message": "reportada en",
     "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
   }
 }
