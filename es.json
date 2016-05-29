@@ -546,5 +546,9 @@
   "seoAlt3": {
     "message": "reportada en",
     "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
+  },
+  "eventListFindReportButton": {
+    "message": "Encontrar / Report a persona o animal",
+    "context": "This is the button text on the home page to Find or Report a person or animal."
   }
 }
