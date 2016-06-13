@@ -1,7 +1,7 @@
 {
   "languageSelector": {
     "message": "Language",
-    "context": "Language as a single word used in the langiage selection menu."
+    "context": "Language as a single word used in the language selection menu."
   },
   "chosenLanguage": {
     "message": "English",
@@ -72,7 +72,7 @@
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "plusError6": {
-    "message": "Error: a user already exists with provided the provided email address",
+    "message": "Error: a user already exists with the provided email address",
     "context": "Error message presented when user tries to use an email address already in use."
   },
   "plusError7": {
