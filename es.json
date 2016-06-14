@@ -550,5 +550,157 @@
   "eventListFindReportButton": {
     "message": "Encontrar / Report a persona o animal",
     "context": "This is the button text on the home page to Find or Report a person or animal."
+  },
+  "searchPlaceholder": {
+    "message": "Buscar",
+    "context": "The search box starts off with this text to inform the user what the element is used for."
+  },
+  "records": {
+    "message": "archivos",
+    "context": "When a search is performed this word is prefixed with the number of results, ie. 17 records"
+  },
+  "moreDetails": {
+    "message": "Más Detalles",
+    "context": "When search results are displayed, a user can click on the more details link to open the record displaying all record data."
+  },
+  "sexMale": {
+    "message": "Masculino",
+    "context": "Sex = Male"
+  },
+  "sexFemale": {
+    "message": "Hembra",
+    "context": "Sex = Female"
+  },
+  "sexOther": {
+    "message": "Otro",
+    "context": "Sex = Other"
+  },
+  "statusMissing": {
+    "message": "Perdido",
+    "context": "Status is Missing"
+  },
+  "statusFound": {
+    "message": "Encontró",
+    "context": "Status is Found"
+  }  ,
+  "statusDeceased": {
+    "message": "Fallecido",
+    "context": "Status is Deceased"
+  },
+  "statusInjured": {
+    "message": "Lesionado",
+    "context": "Status is Injured"
+  },
+  "statusAlive": {
+    "message": "Vivo y Bien",
+    "context": "Status is Alive and Well"
+  },
+  "statusUnknown": {
+    "message": "Desconocido",
+    "context": "Status, Location, or other attribute is Unknown"
+  },
+  "age": {
+    "message": "Edad",
+    "context": "Age of person or animal"
+  },
+  "comments": {
+    "message": "Comentarios",
+    "context": "Comments that others may add to a person or animal record."
+  },
+  "addComment": {
+    "message": "Añadir un comentario",
+    "context": "The label for a button allowing a user to add a comment to a record."
+  }, 
+  "addCommentLabel": {
+    "message": "Añadir cualquier información adicional acerca de este registro es posible que tenga",
+    "context": "This is the label below the add comment button explaining to a user what it does."
+  },
+  "followButton": {
+    "message": "Vigilar",
+    "context": "A button allows a user to follow record updates."
+  },
+  "followButtonLabel": {
+    "message": "Recibe todas las actualizaciones a esta persona a través de correo electrónico",
+    "context": "This is the label below the follow button explaining to a user what it does."
+  },
+  "name": {
+    "message": "Nombre",
+    "context": "This label is displayed under the person or animal name."
+  },
+  "status": {
+    "message": "Estado",
+    "context": "This label is displayed below the person or animal missing / found status."
+  },
+  "lastUpdated": {
+    "message": "Última actualización",
+    "context": "This label is displayed under the date / time of when a record was last updated."
+  },
+  "gender": {
+    "message": "Género",
+    "context": "This is a label below the displayed gender of a person or animal."
+  },
+  "lastKnownLocation": {
+    "message": "Última ubicación conocida",
+    "context": "This is a label displayed below a text box showing a person or animal last known location."
+  },
+  "lastKnownInformation": {
+    "message": "Última información conocida",
+    "context": "This is a label displayed below a text box showing a person or animal last known information in text form."
+  },
+  "otherInformation": {
+    "message": "Otra información",
+    "context": "This is a label displayed below a text box showing other information about a person or animal."
+  },
+  "newReport": {
+    "message": "Nuevo reporte",
+    "context": "This is the window title when a new person or animal is being reported."
+  },
+  "reportChoicePA": {
+    "message": "¿Quieres reportar una persona o un animal?",
+    "context": "This is the text option displayed for a user to choose and fill out either a person or animal report."
+  },
+  "person": {
+    "message": "Persona",
+    "context": "This is the text label on a button a user presses to choose a person report."
+  },
+  "animal": {
+    "message": "Animal",
+    "context": "This is the text label on a button a user presses to choose an animal report."
+  },
+  "reportChoiceStatus": {
+    "message": "Por favor indicar el estado de la persona que está reportando.",
+    "context": "This is the text option displayed for a user to choose the status of the person they are reporting."
+  },  
+  "explainMissing": {
+    "message": "persona se cree que falta",
+    "context": "The label next to the status selection button for missing."
+  },
+  "explainFound": {
+    "message": "persona ha sido declarada la salud desconocida",
+    "context": "The label next to the status selection button for found."
+  },
+  "explainAlive": {
+    "message": "persona ha sido encontrado y está bien",
+    "context": "The label next to the status selection button for alive & well."
+  },
+  "explainInjured": {
+    "message": "persona ha sido encontrado y se lesionó",
+    "context": "The label next to the status selection button for injured."
+  },
+  "explainDeceased": {
+    "message": "persona se ha encontrado y ha fallecido",
+    "context": "The label next to the status selection button for deceased."
+  },
+  "explainUnknown": {
+    "message": "se busca información sobre la persona",
+    "context": "The label next to the status selection button for unknown."
+  },  
+  "location": {
+    "message": "Ubicación",
+    "context": "Text label for Location."
+  },
+  "photo": {
+    "message": "Foto",
+    "context": "Text label for Photo."
   }
 }
