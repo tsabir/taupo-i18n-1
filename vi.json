@@ -20,7 +20,7 @@
     "context": "A label for a button allowing a user to access the Administraion module."
   },
   "linkHelp": {
-    "message": "Help",
+    "message": "Cứu giúp",
     "context": "This is the text for a link to the Help page."
   },
   "linkAbout": {
@@ -56,7 +56,7 @@
     "context": "The link text for the Trademark link."
   },
   "textTrademark": {
-    "message": "PEOPLE LOCATOR, ReUnite, và TriagePic là Thương Hiệu đăng ký  của Sở Y Tế và Dịch vụ Nhân sinh Hoa Kỳ.",
+    "message": "PEOPLE LOCATOR, ReUnite, và TriagePic là Thương Hiệu đăng ký  của Sở Y Tế và Dịch Vụ Nhân sinh Hoa Kỳ.",
     "context": "Verbiage describing the three registered trademarks we hold on People Locator."
   },
   "expirationDate": {
@@ -288,7 +288,7 @@
     "context": "This is the placeholder text for the new password again input."
   },
     "pushNotificationsUnsupported": {
-    "message": "Trình duyệt của bạn không chức năng push notifications.",
+    "message": "Trình duyệt của bạn không chức năng 'push notifications'.",
     "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
@@ -460,7 +460,7 @@
     "context": "The title of the 3rd tab allowing someone to Report a new person or pet."
   },
   "tagline": {
-    "message": "Tìm và báo cáo mất tích gia đình, bạn bè, và vật nuôi trong thiên tai.",
+    "message": "Tìm và báo cáo mất tích gia đình, bạn bè, và thú nuôi trong thiên tai.",
     "context": "The tagline is the summary of what the application is for."
   },
   "eventRetired": {
@@ -500,7 +500,7 @@
     "context": "HTML title tag for the resources page."
   },
   "seoTitle9": {
-    "message": "Record for",
+    "message": "Hồ sơ cho",
     "context": "Part 1 of HTML title tag for the full record page (e.g. Record for John Doe)."
   },
   "seoTitle10": {
@@ -516,11 +516,11 @@
     "context": "HTML description tag for the help page."
   },
   "seoDescription3": {
-    "message": "Về sử dụng People Locator để tìm và báo cáo người mất tích",
+    "message": "Về việc sử dụng People Locator để tìm và báo cáo người mất tích",
     "context": "HTML description tag for the about page."
   },
   "seoDescription4": {
-    "message": "Privacy considerations for using People Locator to find and report missing persons",
+    "message": "Cân nhắc bảo mật cho việc sử dụng People Locator để tìm và báo cáo người mất tích",
     "context": "HTML description tag for the privacy page."
   },
   "seoDescription5": {
@@ -548,159 +548,159 @@
     "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
   },
   "eventListFindReportButton": {
-    "message": "Find / Report a Person or Animal",
+    "message": "Tìm / Báo cáo một người hoặc thú nuôi",
     "context": "This is the button text on the home page to Find or Report a person or animal."
   },
   "searchPlaceholder": {
-    "message": "Search",
+    "message": Tìm",
     "context": "The search box starts off with this text to inform the user what the element is used for."
   },
   "records": {
-    "message": "records",
+    "message": "hồ sơ",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 17 records"
   },
   "moreDetails": {
-    "message": "More Details",
+    "message": "Xem chi tiết",
     "context": "When search results are displayed, a user can click on the more details link to open the record displaying all record data."
   },
   "sexMale": {
-    "message": "Male",
+    "message": "Nam giới",
     "context": "Sex = Male"
   },
   "sexFemale": {
-    "message": "Female",
+    "message": "Phụ nữ",
     "context": "Sex = Female"
   },
   "sexOther": {
-    "message": "Other",
+    "message": "Giới tính khác",
     "context": "Sex = Other"
   },
   "statusMissing": {
-    "message": "Missing",
+    "message": "Mất tích",
     "context": "Status is Missing"
   },
   "statusFound": {
-    "message": "Found",
+    "message": "Tìm thấy",
     "context": "Status is Found"
   }  ,
   "statusDeceased": {
-    "message": "Deceased",
+    "message": "đã qua đời",
     "context": "Status is Deceased"
   },
   "statusInjured": {
-    "message": "Injured",
+    "message": "Bị thương",
     "context": "Status is Injured"
   },
   "statusAlive": {
-    "message": "Alive & Well",
+    "message": "Còn sống & khoẻ mạnh",
     "context": "Status is Alive and Well"
   },
   "statusUnknown": {
-    "message": "Unknown",
+    "message": "Không xác định",
     "context": "Unknown"
   },
   "age": {
-    "message": "Age",
+    "message": "Tuổi",
     "context": "Age of person or animal"
   },
   "comments": {
-    "message": "Comments",
+    "message": "Bình luận",
     "context": "Comments that others may add to a person or animal record."
   },
   "addComment": {
-    "message": "Add a comment",
+    "message": "Thêm một lời bình luận",
     "context": "The label for a button allowing a user to add a comment to a record."
   }, 
   "addCommentLabel": {
-    "message": "Add any additional information about this record you may have",
+    "message": "Thêm bất kỳ thông tin bổ sung về hồ sơ này, nếu bạn có",
     "context": "This is the label below the add comment button explaining to a user what it does."
   },
   "followButton": {
-    "message": "Follow",
+    "message": "Theo dõi",
     "context": "A button allows a user to follow record updates."
   },
   "followButtonLabel": {
-    "message": "Recieve all updates to this person via email",
+    "message": "Nhận được tất cả các bản cập nhật cho người này qua email",
     "context": "This is the label below the follow button explaining to a user what it does."
   },
   "name": {
-    "message": "Name",
+    "message": "Tên",
     "context": "This label is displayed under the person or animal name."
   },
   "status": {
-    "message": "Status",
+    "message": "Trạng thái",
     "context": "This label is displayed below the person or animal missing / found status."
   },
   "lastUpdated": {
-    "message": "Last Updated",
+    "message": "Cập nhật mới nhất",
     "context": "This label is displayed under the date / time of when a record was last updated."
   },
   "gender": {
-    "message": "Gender",
+    "message": "Giới tính",
     "context": "This is a label below the displayed gender of a person or animal."
   },
   "lastKnownLocation": {
-    "message": "Last Known Location",
+    "message": "Vị trí cuối cùng được nhìn thấy",
     "context": "This is a label displayed below a text box showing a person or animal last known location."
   },
   "lastKnownInformation": {
-    "message": "Last Known Information",
+    "message": "Thông tin cuối cùng được nhìn thấy",
     "context": "This is a label displayed below a text box showing a person or animal last known information in text form."
   },
   "otherInformation": {
-    "message": "Other Information",
+    "message": "Thông tin khác",
     "context": "This is a label displayed below a text box showing other information about a person or animal."
   },
   "newReport": {
-    "message": "New Report",
+    "message": "Báo cáo mới",
     "context": "This is the window title when a new person or animal is being reported."
   },
   "reportChoicePA": {
-    "message": "Would you like to report a Person or an Animal?",
+    "message": "Bạn có muốn báo cáo một người hay một thú nuôi?",
     "context": "This is the text option displayed for a user to choose and fill out either a person or animal report."
   },
   "person": {
-    "message": "Person",
+    "message": "Người",
     "context": "This is the text label on a button a user presses to choose a person report."
   },
   "animal": {
-    "message": "Animal",
+    "message": "Thú nuôi",
     "context": "This is the text label on a button a user presses to choose an animal report."
   },
   "reportChoiceStatus": {
-    "message": "Please indicate the status of the person you are reporting.",
+    "message": "Xin cho biết tình trạng của người bạn đang báo cáo.",
     "context": "This is the text option displayed for a user to choose the status of the person they are reporting."
   },  
   "explainMissing": {
-    "message": "person is believed to be missing",
+    "message": "người được cho là mất tích",
     "context": "The label next to the status selection button for missing."
   },
   "explainFound": {
-    "message": "person has been found health unknown",
+    "message": "người đã được tìm thấy sức khỏe chưa biết",
     "context": "The label next to the status selection button for found."
   },
   "explainAlive": {
-    "message": "person has been found and is well",
+    "message": "người đã được tìm thấy vẫn mạnh khỏe",
     "context": "The label next to the status selection button for alive & well."
   },
   "explainInjured": {
-    "message": "person has been found and is injured",
+    "message": "người đã được tìm thấy đang bị thương",
     "context": "The label next to the status selection button for injured."
   },
   "explainDeceased": {
-    "message": "person has been found and is deceased",
+    "message": "người đã được tìm thấy đã qua đời",
     "context": "The label next to the status selection button for deceased."
   },
   "explainUnknown": {
-    "message": "information is sought about the person",
+    "message": "thông tin được tìm về người",
     "context": "The label next to the status selection button for unknown."
   },  
   "location": {
-    "message": "Location",
+    "message": "Vị trí",
     "context": "Text label for Location."
   },
   "photo": {
-    "message": "Photo",
+    "message": "Hình ảnh",
     "context": "Text label for Photo."
   }
 }
