@@ -552,7 +552,7 @@
     "context": "This is the button text on the home page to Find or Report a person or animal."
   },
   "searchPlaceholder": {
-    "message": Tìm",
+    "message": "Tìm",
     "context": "The search box starts off with this text to inform the user what the element is used for."
   },
   "records": {
