@@ -84,11 +84,11 @@
     "context": "Error message presented when a user provides an invalid email address."
   },
   "plusError9": {
-    "message": "रुटि: पासवर्ड लंबाई में 8-16 अक्षर में होना चाहिए, कम से कम एक अपरकेस, लोअरकेस एक है, और एक संख्यात्मक चरित्र "होना चाहिए",
+    "message": "रुटि: पासवर्ड लंबाई में 8-16 अक्षर में होना चाहिए, कम से कम एक अपरकेस, लोअरकेस एक है, और एक संख्यात्मक चरित्र होना चाहिए",
     "context": "Error message presented when user enters an invalid password."
   },
   "plusError11": {
-    "message": "रुटि: ईमेल पता प्रदान की किसी भी उपयोगकर्ता खाते के साथ संबद्ध नहीं है",",
+    "message": "रुटि: ईमेल पता प्रदान की किसी भी उपयोगकर्ता खाते के साथ संबद्ध नहीं है",
     "context": "Error message presented when user attempts to reset password with an unregistered email address."
   },
   "plusError14": {
