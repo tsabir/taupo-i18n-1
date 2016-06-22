@@ -136,7 +136,7 @@
     "context": "Error message presented when attempting to unfollow a record the user is already following"
   },
   "plusError9999": {
-    "message": "एक अज्ञात त्रुटि उत्पन्न हुई । "
+    "message": "एक अज्ञात त्रुटि उत्पन्न हुई । ",
     "context": "Error message presented when an unknown error has occurred."
   },
   "errorGettingSubscription": {
