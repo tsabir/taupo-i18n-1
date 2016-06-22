@@ -260,7 +260,7 @@
     "context": "This text label tells the status of the user being subscribed to recieve notifications."
   },
   "pad3subscribeTo": {
-    "message": "सूचनाओं की सदस्यता ली"",
+    "message": "सूचनाओं की सदस्यता ली",
     "context": "This is the title text to the section that allows a user to opt-in to recieve push notifications."
   },
   "pad3Time": {
