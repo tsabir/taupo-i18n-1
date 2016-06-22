@@ -268,7 +268,7 @@
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3changePasswordButton": {
-    "message": "पासवर्ड बदल करें,
+    "message": "पासवर्ड बदल करें",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3passwordRequirements": {
