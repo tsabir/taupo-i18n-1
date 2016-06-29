@@ -528,67 +528,67 @@
     "context": "HTML description tag for the resources page."
   },
   "seoDescription6": {
-    "message": "View and update record for",
+    "message": "பார்வையிட்டுத் மேம்படுத்தல் சாதனை",
     "context": "Part 1 of HTML description tag for the full record page (e.g. View and update record for John Doe)."
   },
   "seoDescription7": {
-    "message": "from the",
+    "message": "இருந்து",
     "context": "Part 2 of HTML description tag for the full record page (e.g. from the Ecuador Earthquake)."
   },
   "seoAlt1": {
-    "message": "Photo of",
+    "message": "புகைப்பட",
     "context": "Part 1 of HTML alt tag for a personal photo (e.g. Photo of John Doe)"
   },
   "seoAlt2": {
-    "message": "person",
+    "message": "நபர்",
     "context": "Part 2 of HTML alt tag for a personal photo (e.g. missing person)"
   },
   "seoAlt3": {
-    "message": "reported in",
+    "message": "அறிக்கை",
     "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
   },
   "eventListFindReportButton": {
-    "message": "Find / Report a Person or Animal",
+    "message": "கண்டுபிடி / ஒரு நபர் அல்லது விலங்கு தெரிவியுங்கள்",
     "context": "This is the button text on the home page to Find or Report a person or animal."
   },
   "searchPlaceholder": {
-    "message": "Search",
+    "message": "தேடல்",
     "context": "The search box starts off with this text to inform the user what the element is used for."
   },
   "records": {
-    "message": "records",
+    "message": "பதிவுகள்",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 17 records"
   },
   "moreDetails": {
-    "message": "More Details",
+    "message": "கூடுதல் தகவல்கள்",
     "context": "When search results are displayed, a user can click on the more details link to open the record displaying all record data."
   },
   "sexMale": {
-    "message": "Male",
+    "message": "ஆண்",
     "context": "Sex = Male"
   },
   "sexFemale": {
-    "message": "Female",
+    "message": "பெண்",
     "context": "Sex = Female"
   },
   "sexOther": {
-    "message": "Other",
+    "message": "பிற",
     "context": "Sex = Other"
   },
   "statusMissing": {
-    "message": "Missing",
+    "message": "காணாமல்",
     "context": "Status is Missing"
   },
   "statusFound": {
-    "message": "Found",
+    "message": "கண்டறியப்பட்டது",
     "context": "Status is Found"
   }  ,
   "statusDeceased": {
-    "message": "Deceased",
+    "message": "இறந்தவர்",
     "context": "Status is Deceased"
   },
   "statusInjured": {
-    "message": "Injured",
+    "message": "காயமடைந்த",
     "context": "Status is Injured"
   },
   "statusAlive": {
@@ -596,39 +596,39 @@
     "context": "Status is Alive and Well"
   },
   "statusUnknown": {
-    "message": "Unknown",
+    "message": "தெரியாத",
     "context": "Status, Location, or other attribute is Unknown"
   },
   "age": {
-    "message": "Age",
+    "message": "வயது",
     "context": "Age of person or animal"
   },
   "comments": {
-    "message": "Comments",
+    "message": "கருத்துரைகள்",
     "context": "Comments that others may add to a person or animal record."
   },
   "addComment": {
-    "message": "Add a comment",
+    "message": "ஒரு கருத்தை சேர்க்க",
     "context": "The label for a button allowing a user to add a comment to a record."
   }, 
   "addCommentLabel": {
-    "message": "Add any additional information about this record you may have",
+    "message": "இந்த சாதனையை உங்களிடம் பற்றி எந்த கூடுதல் தகவல் சேர்",
     "context": "This is the label below the add comment button explaining to a user what it does."
   },
   "followButton": {
-    "message": "Follow",
+    "message": "பின்பற்றவும்",
     "context": "A button allows a user to follow record updates."
   },
     "followButtonLabel": {
-    "message": "Recieve all updates to this person via email",
+    "message": "இந்த நபர் மின்னஞ்சல் வழியாக செல்லும் அனைத்து மேம்படுத்தல்கள் பெறுக",
     "context": "This is the label below the follow button explaining to a user what it does."
   },
   "name": {
-    "message": "Name",
+    "message": "பெயர்",
     "context": "This label is displayed under the person or animal name."
   },
   "status": {
-    "message": "Status",
+    "message": "நிலைமை",
     "context": "This label is displayed below the person or animal missing / found status."
   },
   "lastUpdated": {
@@ -636,71 +636,71 @@
     "context": "This label is displayed under the date / time of when a record was last updated."
   },
   "gender": {
-    "message": "Gender",
+    "message": "பாலினம்",
     "context": "This is a label below the displayed gender of a person or animal."
   },
   "lastKnownLocation": {
-    "message": "Last Known Location",
+    "message": "கடைசியாகப் பார்த்த இடம்",
     "context": "This is a label displayed below a text box showing a person or animal last known location."
   },
   "lastKnownInformation": {
-    "message": "Last Known Information",
+    "message": "கடைசியாக அறியப்பட்ட தகவல்",
     "context": "This is a label displayed below a text box showing a person or animal last known information in text form."
   },
   "otherInformation": {
-    "message": "Other Information",
+    "message": "பிற தகவல்",
     "context": "This is a label displayed below a text box showing other information about a person or animal."
   },
   "newReport": {
-    "message": "New Report",
+    "message": "புதிய அறிக்கை",
     "context": "This is the window title when a new person or animal is being reported."
   },
   "reportChoicePA": {
-    "message": "Would you like to report a Person or an Animal?",
+    "message": "நீங்கள் ஒரு நபர் அல்லது ஒரு விலங்கு புகாரளிக்க விரும்புகிறீர்களா?",
     "context": "This is the text option displayed for a user to choose and fill out either a person or animal report."
   },
   "person": {
-    "message": "Person",
+    "message": "நபர்",
     "context": "This is the text label on a button a user presses to choose a person report."
   },
   "animal": {
-    "message": "Animal",
+    "message": "விலங்குகள்",
     "context": "This is the text label on a button a user presses to choose an animal report."
   },
   "reportChoiceStatus": {
-    "message": "Please indicate the status of the person you are reporting.",
+    "message": "நீங்கள் புகார் கூறும் நபர் என்ற அறிவிப்பைப் தயவு செய்து.",
     "context": "This is the text option displayed for a user to choose the status of the person they are reporting."
   },  
   "explainMissing": {
-    "message": "person is believed to be missing",
+    "message": "நபர் காணாமல் இருக்கும் என்று நம்பப்படுகிறது",
     "context": "The label next to the status selection button for missing."
   },
   "explainFound": {
-    "message": "person has been found health unknown",
+    "message": "நபர் சுகாதார தெரியவில்லை கண்டறியப்பட்டுள்ளது",
     "context": "The label next to the status selection button for found."
   },
   "explainAlive": {
-    "message": "person has been found and is well",
+    "message": "நபர் காணப்படும் மற்றும் நன்கு உள்ளது",
     "context": "The label next to the status selection button for alive & well."
   },
   "explainInjured": {
-    "message": "person has been found and is injured",
+    "message": "நபர் கண்டறியப்பட்டுள்ளது மற்றும் காயம் உள்ளது",
     "context": "The label next to the status selection button for injured."
   },
   "explainDeceased": {
-    "message": "person has been found and is deceased",
+    "message": "நபர் கண்டறியப்பட்டுள்ளது மற்றும் இறந்துவிட்டார் வருகிறது",
     "context": "The label next to the status selection button for deceased."
   },
   "explainUnknown": {
-    "message": "information is sought about the person",
+    "message": "தகவல் நபர் பற்றி முயன்றது",
     "context": "The label next to the status selection button for unknown."
   },  
   "location": {
-    "message": "Location",
+    "message": "இடம்",
     "context": "Text label for Location."
   },
   "photo": {
-    "message": "Photo",
+    "message": "நிழற்படம்",
     "context": "Text label for Photo."
   }
 }
