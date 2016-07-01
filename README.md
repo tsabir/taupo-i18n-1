@@ -12,7 +12,7 @@ If you would like to help us by proposing a translation then please follow the b
 <tr><td><a href="https://github.com/LostPersonFinder/taupo-i18n/blob/master/es.json" target="_blank">es.json</a></td><td>Spanish</td></tr>
 <tr><td><a href="https://github.com/LostPersonFinder/taupo-i18n/blob/master/fr.json" target="_blank">fr.json</a></td><td>French</td></tr>
 <tr><td><a href="https://github.com/LostPersonFinder/taupo-i18n/blob/master/hi.json" target="_blank">hi.json</a></td><td>Hindi</td></tr>
-<tr><td><a href="https://github.com/LostPersonFinder/taupo-i18n/blob/master/ja.json" target="_blank">hi.json</a></td><td>Japanese</td></tr>
+<tr><td><a href="https://github.com/LostPersonFinder/taupo-i18n/blob/master/ja.json" target="_blank">ja.json</a></td><td>Japanese</td></tr>
 <tr><td><a href="https://github.com/LostPersonFinder/taupo-i18n/blob/master/ta.json" target="_blank">ta.json</a></td><td>Tamil</td></tr>
 <tr><td><a href="https://github.com/LostPersonFinder/taupo-i18n/blob/master/ur.json" target="_blank">ur.json</a></td><td>Urdu</td></tr>
 <tr><td><a href="https://github.com/LostPersonFinder/taupo-i18n/blob/master/vi.json" target="_blank">vi.json</a></td><td>Vietnamese</td></tr>
