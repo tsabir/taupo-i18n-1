@@ -184,7 +184,7 @@
     "context": "This is the name of the first tab of the user dialog allowing a user to login."
   },
   "pad1register": {
-    "message": ”登録",
+    "message": "登録",
     "context": "This is the name of the second tab of the user dialog allowing a user to register."
   },
   "pad1forgotText": {
@@ -232,7 +232,7 @@
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
-    "message": ”次のレコード",
+    "message": "次のレコード",
     "context": "This is the name of the first tab of user preferences that shows which records a user is following."
   },
   "pad3settings": {
@@ -656,7 +656,7 @@
     "context": "This is the window title when a new person or animal is being reported."
   },
   "reportChoicePA": {
-    "message": "人・動物について報告したいですか？",
+    "message": "人・動物について報告したいですか?",
     "context": "This is the text option displayed for a user to choose and fill out either a person or animal report."
   },
   "person": {
@@ -704,5 +704,6 @@
     "context": "Text label for Photo."
   }
 }
+
 
 
