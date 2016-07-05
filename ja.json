@@ -28,7 +28,7 @@
     "context": "The link text for the About link."
   },
   "linkPrivacy": {
-    "message": ”プライバシー",
+    "message": "プライバシー",
     "context": "The link text for the Privacy link."
   },
   "linkAccessibility": {
@@ -60,7 +60,7 @@
     "context": "Verbiage describing the three registered trademarks we hold on People Locator."
   },
   "expirationDate": {
-    "message": ”失効日付",
+    "message": "失効日付",
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
   "plusError1": {
@@ -444,7 +444,7 @@
     "context": "The word and used between two nouns."
   },
   "trademarkText": {
-    "message": ”は米国保健福祉省の商標として登録されています。",
+    "message": "は米国保健福祉省の商標として登録されています。",
     "context": "The second half of the trademark sentence."
   },
   "tabDisasterEvents": {
@@ -704,4 +704,5 @@
     "context": "Text label for Photo."
   }
 }
+
 
