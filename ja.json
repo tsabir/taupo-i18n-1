@@ -465,7 +465,7 @@
   },
   "eventRetired": {
     "message": "リクエストされた災害イベントは終了いたしました。",
-    "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open.」
+    "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open"
   },
   "seoTitle1": {
     "message": "から失踪人の検索・報告",
