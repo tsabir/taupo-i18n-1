@@ -15,6 +15,7 @@ If you would like to help us by proposing a translation then please follow the b
 <tr><td><a href="https://github.com/LostPersonFinder/taupo-i18n/blob/master/ja.json" target="_blank">ja.json</a></td><td>Japanese</td></tr>
 <tr><td><a href="https://github.com/LostPersonFinder/taupo-i18n/blob/master/ta.json" target="_blank">ta.json</a></td><td>Tamil</td></tr>
 <tr><td><a href="https://github.com/LostPersonFinder/taupo-i18n/blob/master/ur.json" target="_blank">ur.json</a></td><td>Urdu</td></tr>
+<tr><td><a href="https://github.com/LostPersonFinder/taupo-i18n/blob/master/ru.json" target="_blank">ur.json</a></td><td>Russian</td></tr>
 <tr><td><a href="https://github.com/LostPersonFinder/taupo-i18n/blob/master/vi.json" target="_blank">vi.json</a></td><td>Vietnamese</td></tr>
 <tr><td><a href="https://github.com/LostPersonFinder/taupo-i18n/blob/master/zh_CN.json" target="_blank">zh_CN.json</a></td><td>Mandarin / China</td></tr>
 <tr><td><a href="https://github.com/LostPersonFinder/taupo-i18n/blob/master/zh_TW.json" target="_blank">zh_TW.json</a></td><td>Mandarin / Taiwan</td></tr>
