@@ -667,31 +667,31 @@
     "message": "動物",
     "context": "This is the text label on a button a user presses to choose an animal report."
   },
-  "reportChoiceStatus": {
+  "reportChoiceStatusP": {
     "message": "報告される人の状況を示してください。",
     "context": "This is the text option displayed for a user to choose the status of the person they are reporting."
   },  
-  "explainMissing": {
+  "explainMissingP": {
     "message": "人は、不明と思われている。",
     "context": "The label next to the status selection button for missing."
   },
-  "explainFound": {
+  "explainFoundP": {
     "message": "人の健康状態は不明",
     "context": "The label next to the status selection button for found."
   },
-  "explainAlive": {
+  "explainAliveP": {
     "message": "見つかった人は健康です",
     "context": "The label next to the status selection button for alive & well."
   },
-  "explainInjured": {
+  "explainInjuredP": {
     "message": "見つかった人は負傷しています",
     "context": "The label next to the status selection button for injured."
   },
-  "explainDeceased": {
+  "explainDeceasedP": {
     "message": "見つかった人は亡くなっていました。",
     "context": "The label next to the status selection button for deceased."
   },
-  "explainUnknown": {
+  "explainUnknownP": {
     "message": "その人についての情報が求め得られています",
     "context": "The label next to the status selection button for unknown."
   },  
@@ -890,7 +890,11 @@
   "submit": {
     "message": "Submit",
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report."
-  },  
+  },
+  "submitAnon": {
+    "message": "Submit Anonymously",
+    "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report anonymously."
+  },
   "reportChoiceInformation": {
     "message": "Last Known Information",
     "context": "This is the section title for allowing the user to enter free text information about the person/animal."

@@ -667,31 +667,31 @@
     "message": "Animal",
     "context": "This is the text label on a button a user presses to choose an animal report."
   },
-  "reportChoiceStatus": {
+  "reportChoiceStatusP": {
     "message": "Por favor indicar el estado de la persona que está reportando.",
     "context": "This is the text option displayed for a user to choose the status of the person they are reporting."
   },  
-  "explainMissing": {
+  "explainMissingP": {
     "message": "persona se cree que falta",
     "context": "The label next to the status selection button for missing."
   },
-  "explainFound": {
+  "explainFoundP": {
     "message": "persona ha sido declarada la salud desconocida",
     "context": "The label next to the status selection button for found."
   },
-  "explainAlive": {
+  "explainAliveP": {
     "message": "persona ha sido encontrado y está bien",
     "context": "The label next to the status selection button for alive & well."
   },
-  "explainInjured": {
+  "explainInjuredP": {
     "message": "persona ha sido encontrado y se lesionó",
     "context": "The label next to the status selection button for injured."
   },
-  "explainDeceased": {
+  "explainDeceasedP": {
     "message": "persona se ha encontrado y ha fallecido",
     "context": "The label next to the status selection button for deceased."
   },
-  "explainUnknown": {
+  "explainUnknownP": {
     "message": "se busca información sobre la persona",
     "context": "The label next to the status selection button for unknown."
   },  
@@ -890,7 +890,11 @@
   "submit": {
     "message": "Enviar",
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report."
-  },  
+  },
+  "submitAnon": {
+    "message": "Presentar de forma anónima",
+    "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report anonymously."
+  },
   "reportChoiceInformation": {
     "message": "Última información conocida",
     "context": "This is the section title for allowing the user to enter free text information about the person/animal."

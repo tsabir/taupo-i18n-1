@@ -667,31 +667,31 @@
     "message": "Thú nuôi",
     "context": "This is the text label on a button a user presses to choose an animal report."
   },
-  "reportChoiceStatus": {
+  "reportChoiceStatusP": {
     "message": "Xin cho biết tình trạng của người bạn đang báo cáo.",
     "context": "This is the text option displayed for a user to choose the status of the person they are reporting."
   },  
-  "explainMissing": {
+  "explainMissingP": {
     "message": "người được cho là mất tích",
     "context": "The label next to the status selection button for missing."
   },
-  "explainFound": {
+  "explainFoundP": {
     "message": "người đã được tìm thấy sức khỏe chưa biết",
     "context": "The label next to the status selection button for found."
   },
-  "explainAlive": {
+  "explainAliveP": {
     "message": "người đã được tìm thấy vẫn mạnh khỏe",
     "context": "The label next to the status selection button for alive & well."
   },
-  "explainInjured": {
+  "explainInjuredP": {
     "message": "người đã được tìm thấy đang bị thương",
     "context": "The label next to the status selection button for injured."
   },
-  "explainDeceased": {
+  "explainDeceasedP": {
     "message": "người đã được tìm thấy đã qua đời",
     "context": "The label next to the status selection button for deceased."
   },
-  "explainUnknown": {
+  "explainUnknownP": {
     "message": "thông tin được tìm về người",
     "context": "The label next to the status selection button for unknown."
   },  
@@ -890,7 +890,11 @@
   "submit": {
     "message": "Submit",
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report."
-  },  
+  },
+  "submitAnon": {
+    "message": "Submit Anonymously",
+    "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report anonymously."
+  },
   "reportChoiceInformation": {
     "message": "Last Known Information",
     "context": "This is the section title for allowing the user to enter free text information about the person/animal."
