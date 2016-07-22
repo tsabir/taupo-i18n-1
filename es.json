@@ -702,5 +702,249 @@
   "photo": {
     "message": "Foto",
     "context": "Text label for Photo."
+  },
+  "reportChoiceStatusA": {
+    "message": "Por favor indicar el estado del animal que está reportando.",
+    "context": "This is the text option displayed for a user to choose the status of the animal they are reporting."
+  },
+  "explainMissingA": {
+    "message": "animales se cree que falta",
+    "context": "The label next to the status selection button for missing."
+  },
+  "explainFoundA": {
+    "message": "animal se ha encontrado la salud desconocida",
+    "context": "The label next to the status selection button for found."
+  },
+  "explainAliveA": {
+    "message": "animal se ha encontrado y está bien",
+    "context": "The label next to the status selection button for alive & well."
+  },
+  "explainInjuredA": {
+    "message": "animal se ha encontrado y se lesionó",
+    "context": "The label next to the status selection button for injured."
+  },
+  "explainDeceasedA": {
+    "message": "animal se ha encontrado y ha fallecido",
+    "context": "The label next to the status selection button for deceased."
+  },
+  "explainUnknownA": {
+    "message": "se busca información sobre el animal",
+    "context": "The label next to the status selection button for unknown."
+  },
+  "reportChoiceSexP": {
+    "message": "Por favor indicar el sexo de la persona que está reportando.",
+    "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
+  },
+  "reportChoiceSexA": {
+    "message": "Por favor indicar el sexo de la persona que está reportando.",
+    "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
+  },
+  "explainSexMaleP": {
+    "message": "el género de la persona es de sexo masculino",
+    "context": "The label next to the person sex selection button for male."
+  },
+  "explainSexFemaleP": {
+    "message": "el género de la persona es de sexo femenino",
+    "context": "The label next to the person sex selection button for female."
+  },
+  "explainSexOtherP": {
+    "message": "el género de la persona es otra",
+    "context": "The label next to the person sex selection button for other."
+  },
+  "explainSexUnknownP": {
+    "message": "Se desconoce el género de la persona",
+    "context": "The label next to the person sex selection button for unknown."
+  },
+  "explainSexMaleA": {
+    "message": "género del animal es macho",
+    "context": "The label next to the animal sex selection button for male."
+  },
+  "explainSexFemaleA": {
+    "message": "género del animal es hembra",
+    "context": "The label next to the animal sex selection button for female."
+  },
+  "explainSexOtherA": {
+    "message": "sexo de los animales es otra",
+    "context": "The label next to the animal sex selection button for other."
+  },
+  "explainSexUnknownA": {
+    "message": "Se desconoce el género de los animales",
+    "context": "The label next to the animal sex selection button for unknown."
+  },
+  "reportChoiceAgeP": {
+    "message": "Por favor seleccione la edad aproximada de la persona que está reportando",
+    "context": "This is the text option displayed for a user to choose the age of the person they are reporting."
+  },
+  "reportChoiceAgeA": {
+    "message": "Por favor seleccione la edad aproximada del animal que está reportando",
+    "context": "This is the text option displayed for a user to choose the age of the animal they are reporting."
+  },
+  "reportChoiceAgeUnknown": {
+    "message": "Si no está seguro de la edad, por favor seleccione desconocido.",
+    "context": "The label next to the status selection button for unknown."
+  },
+  "explainAgeUnknownP": {
+    "message": "edad de la persona es desconocida",
+    "context": "The label next to the person age selection button for unknown."
+  },
+  "explainAgeUnknownA": {
+    "message": "edad de los animales es desconocido",
+    "context": "The label next to the animal age selection button for unknown."
+  },
+  "continue": {
+    "message": "continuar",
+    "context": "The label of a button to continue to the next step."
+  },
+  "reportChoiceNameP": {
+    "message": "Por favor, introduzca el nombre de la persona que está reportando.",
+    "context": "This is the section title displayed for a user to enter the name of the person they are reporting."
+  },
+  "reportChoiceNameA": {
+    "message": "Por favor, introduzca el nombre y / o un compañero de número de identificación del animal que está reportando.",
+    "context": "This is the section title displayed for a user to enter the name and/or the buddy identification number of the animal they are reporting."
+  },
+  "explainNameP": {
+    "message": "nombre de la persona",
+    "context": "The text label for name entry of a person."
+  },
+  "explainNameA": {
+    "message": "Nombre del animal",
+    "context": "The text label for name entry of an animal."
+  },
+  "explainBuddyA": {
+    "message": "compinche número de identificación de animales",
+    "context": "The text label for buddty identification number entry of an animal."
+  },
+  "reportChoiceNameUnknownP": {
+    "message": "Si no está seguro del nombre, por favor seleccione desconocido.",
+    "context": "This is the section title displayed for the use to choose name unknown."
+  },
+  "reportChoiceNameUnknownA": {
+    "message": "Si no está seguro del nombre y número de identificación de amigos, por favor seleccione desconocido.",
+    "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
+  },
+  "explainNameUnknownP": {
+    "message": "nombre de la persona es desconocida",
+    "context": "The label next to the person name selection button for unknown."
+  },
+  "explainNameUnknownA": {
+    "message": "nombrar y Buddy número de identificación del animal es desconocida",
+    "context": "The label next to the animal name selection button for unknown."
+  },
+  "cameraError": {
+    "message": "Ninguna cámara detecta por el navegador web. Tiene la opción de utilizar su aplicación de la cámara en su lugar.",
+    "context": "This toast notification is displayed when there is an error detecting the camera on the user device."
+  },
+  "browserLimitation": {
+    "message": "Su navegador no soporta esta característica.",
+    "context": "This toast notification is displayed when a user attempts to use a feature that their web browser does not support."
+  },
+  "photoOnly": {
+    "message": "JPG, GIF, PNG y sólo de archivos.",
+    "context": "This toast notification is displayed when a user attempts to use an unsupported image file format."
+  },
+  "reportChoicePhotoP": {
+    "message": "Puede añadir opcionalmente una foto para mejorar la identificación de esta persona.",
+    "context": "Section titled telling user that they can add a photo for identification purposes."
+  },
+  "reportChoicePhotoA": {
+    "message": "Puede añadir opcionalmente una foto para mejorar la identificación de este animal.",
+    "context": "Section titled telling user that they can add a photo for identification purposes."
+  },
+  "reportChoicePhotoCapture": {
+    "message": "Capturar",
+    "context": "This is the button label used to capture a photograph using the device camera."
+  },
+  "reportChoicePhotoSelectFile": {
+    "message": "Seleccione Archivo",
+    "context": "This is the button label used to select an image file from local device storage."
+  },
+  "reportChoicePhotoTake": {
+    "message": "Tomar una foto",
+    "context": "This is the button label used to open the device camera before capturing an image."
+  },
+  "reportChoicePhotoDelete": {
+    "message": "Borrar",
+    "context": "This is the button label used to delete an image the user has already submitted."
+  },
+  "reportChoicePhotoHelp": {
+    "message": "Recortar o rotar la imagen si es necesario.",
+    "context": "This is the help text displayed below image manipulation controls informing the user how to alter the already submitted image."
+  },
+  "reportChoiceMapP": {
+    "message": "Opcionalmente, puede especificar un punto del mapa para ayudar a otros en la localización de esta persona.",
+    "context": "This is the section header above the map used to specify a last known location."
+  },
+  "reportChoiceMapA": {
+    "message": "Opcionalmente, puede especificar un punto del mapa para ayudar a otros en la localización de este animal.",
+    "context": "This is the section header above the map used to specify a last known location."
+  },
+  "reportChoiceMapHelp": {
+    "message": "Arrastre el marcador del mapa a la última ubicación conocida.",
+    "context": "This is the help text below the last know location map informing a user what to do."
+  },
+  "information": {
+    "message": "Información",
+    "context": "This a label for a tab in the reporting wizard where a user enters free text about Last Known Information."
+  },
+  "submit": {
+    "message": "Enviar",
+    "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report."
+  },  
+  "reportChoiceInformation": {
+    "message": "Última información conocida",
+    "context": "This is the section title for allowing the user to enter free text information about the person/animal."
+  },
+  "reportChoiceInformationHelpP": {
+    "message": "Usted puede proporcionar opcionalmente cualquier información adicional que usted considere que puede ayudar a otros a identificar o localizar a esta persona.",
+    "context": "This is help text informing the user that the information they enter will assist in locating or identifying the person."
+  },
+  "reportChoiceInformationHelpA": {
+    "message": "Usted puede proporcionar opcionalmente cualquier información adicional que usted considere que puede ayudar a otros a identificar o localizar a este animal.",
+    "context": "This is help text informing the user that the information they enter will assist in locating or identifying the animal."
+  },
+  "reportBeingSubmittedToast": {
+    "message": "Informe que se presentó ...",
+    "context": "This toast notification will be displayed while the report is being sent in."
+  },
+  "reportSubmit": {
+    "message": "Enviar reporte",
+    "context": "This is the section title on the last page of the reporting wizard. The user will choose how to submit the report."
+  },
+  "explainSignInP": {
+    "message": "Si desea que se le notifique cuando la información adicional sobre esta persona vuelve a estar disponible, inicia sesión antes de enviar el informe.",
+    "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
+  },
+  "explainSignInA": {
+    "message": "Si desea que se le notifique cuando la información adicional acerca de este animal esté disponible, inicia sesión antes de enviar el informe.",
+    "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
+  },
+  "explainSubmitP": {
+    "message": "Si desea que se le notifique cuando la información adicional sobre esta persona vuelve a estar disponible, optar por presentar el informe ahora.",
+    "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
+  },
+  "explainSubmitA": {
+    "message": "Si desea que se le notifique cuando la información adicional acerca de este animal esté disponible, optar por presentar el informe ahora.",
+    "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
+  },
+  "explainAnonP": {
+    "message": "Presentar de forma anónima y no se le notificará cuando haya más información acerca de esta persona esté disponible.",
+    "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
+  },
+  "explainAnonA": {
+    "message": "Presentar de forma anónima y no se le notificará cuando haya más información sobre este animal se encuentre disponible.",
+    "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
+  },
+  "reportComplete": {
+    "message": "Informe Completo",
+    "context": "This is the section title on the final page of the reporting wizard. The report has been completed."
+  },
+  "explainCopy1": {
+    "message": "Esta es la URL de su informe completo. Usted puede volver a esta URL en un momento posterior para ver las actualizaciones y / o comentarios realizados a este registro.",
+    "context": "We inform the user of the URL that corresponds to the report they just completed so that they may bookkmark or share it for later."
+  },
+  "explainCopy2": {
+    "message": "Copia esta URL en el portapapeles para que pueda compartir o marcarlo.",
+    "context": "This is the text below the copy to clipboard button informing the user what the button does."
   }
 }

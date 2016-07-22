@@ -4,7 +4,7 @@
     "context": "Language as a single word used in the language selection menu."
   },
   "chosenLanguage": {
-    "message": "English",
+    "message": "日本語",
     "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
   },
   "signIn": {
@@ -702,8 +702,249 @@
   "photo": {
     "message": "写真",
     "context": "Text label for Photo."
+  },
+  "reportChoiceStatusA": {
+    "message": "Please indicate the status of the animal you are reporting.",
+    "context": "This is the text option displayed for a user to choose the status of the animal they are reporting."
+  },
+  "explainMissingA": {
+    "message": "animal is believed to be missing",
+    "context": "The label next to the status selection button for missing."
+  },
+  "explainFoundA": {
+    "message": "animal has been found health unknown",
+    "context": "The label next to the status selection button for found."
+  },
+  "explainAliveA": {
+    "message": "animal has been found and is well",
+    "context": "The label next to the status selection button for alive & well."
+  },
+  "explainInjuredA": {
+    "message": "animal has been found and is injured",
+    "context": "The label next to the status selection button for injured."
+  },
+  "explainDeceasedA": {
+    "message": "animal has been found and is deceased",
+    "context": "The label next to the status selection button for deceased."
+  },
+  "explainUnknownA": {
+    "message": "information is sought about the animal",
+    "context": "The label next to the status selection button for unknown."
+  },
+  "reportChoiceSexP": {
+    "message": "Please indicate the gender of the person you are reporting.",
+    "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
+  },
+  "reportChoiceSexA": {
+    "message": "Please indicate the gender of the person you are reporting.",
+    "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
+  },
+  "explainSexMaleP": {
+    "message": "gender of person is male",
+    "context": "The label next to the person sex selection button for male."
+  },
+  "explainSexFemaleP": {
+    "message": "gender of person is female",
+    "context": "The label next to the person sex selection button for female."
+  },
+  "explainSexOtherP": {
+    "message": "gender of person is other",
+    "context": "The label next to the person sex selection button for other."
+  },
+  "explainSexUnknownP": {
+    "message": "gender of person is unknown",
+    "context": "The label next to the person sex selection button for unknown."
+  },
+  "explainSexMaleA": {
+    "message": "gender of animal is male",
+    "context": "The label next to the animal sex selection button for male."
+  },
+  "explainSexFemaleA": {
+    "message": "gender of animal is female",
+    "context": "The label next to the animal sex selection button for female."
+  },
+  "explainSexOtherA": {
+    "message": "gender of animal is other",
+    "context": "The label next to the animal sex selection button for other."
+  },
+  "explainSexUnknownA": {
+    "message": "gender of animal is unknown",
+    "context": "The label next to the animal sex selection button for unknown."
+  },
+  "reportChoiceAgeP": {
+    "message": "Please select the approximate age of the person you are reporting",
+    "context": "This is the text option displayed for a user to choose the age of the person they are reporting."
+  },
+  "reportChoiceAgeA": {
+    "message": "Please select the approximate age of the animal you are reporting",
+    "context": "This is the text option displayed for a user to choose the age of the animal they are reporting."
+  },
+  "reportChoiceAgeUnknown": {
+    "message": "If unsure the age, please select unknown.",
+    "context": "The label next to the status selection button for unknown."
+  },
+  "explainAgeUnknownP": {
+    "message": "age of person is unknown",
+    "context": "The label next to the person age selection button for unknown."
+  },
+  "explainAgeUnknownA": {
+    "message": "age of animal is unknown",
+    "context": "The label next to the animal age selection button for unknown."
+  },
+  "continue": {
+    "message": "continue",
+    "context": "The label of a button to continue to the next step."
+  },
+  "reportChoiceNameP": {
+    "message": "Please enter the name of the person you are reporting.",
+    "context": "This is the section title displayed for a user to enter the name of the person they are reporting."
+  },
+  "reportChoiceNameA": {
+    "message": "Please enter the name and/or buddy identification number of the animal you are reporting.",
+    "context": "This is the section title displayed for a user to enter the name and/or the buddy identification number of the animal they are reporting."
+  },
+  "explainNameP": {
+    "message": "name of person",
+    "context": "The text label for name entry of a person."
+  },
+  "explainNameA": {
+    "message": "name of animal",
+    "context": "The text label for name entry of an animal."
+  },
+  "explainBuddyA": {
+    "message": "buddy identification number of animal",
+    "context": "The text label for buddty identification number entry of an animal."
+  },
+  "reportChoiceNameUnknownP": {
+    "message": "If unsure the name, please select unknown.",
+    "context": "This is the section title displayed for the use to choose name unknown."
+  },
+  "reportChoiceNameUnknownA": {
+    "message": "If unsure the name and buddy identification number, please select unknown.",
+    "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
+  },
+  "explainNameUnknownP": {
+    "message": "name of person is unknown",
+    "context": "The label next to the person name selection button for unknown."
+  },
+  "explainNameUnknownA": {
+    "message": "name and buddy identification number of animal is unknown",
+    "context": "The label next to the animal name selection button for unknown."
+  },
+  "cameraError": {
+    "message": "No camera detected by your web browser. You may opt to use your camera app instead.",
+    "context": "This toast notification is displayed when there is an error detecting the camera on the user device."
+  },
+  "browserLimitation": {
+    "message": "Your web browser does not support this feature.",
+    "context": "This toast notification is displayed when a user attempts to use a feature that their web browser does not support."
+  },
+  "photoOnly": {
+    "message": "JPG, GIF, and PNG files only.",
+    "context": "This toast notification is displayed when a user attempts to use an unsupported image file format."
+  },
+  "reportChoicePhotoP": {
+    "message": "You may optionally add a photo to improve identification of this person.",
+    "context": "Section titled telling user that they can add a photo for identification purposes."
+  },
+  "reportChoicePhotoA": {
+    "message": "You may optionally add a photo to improve identification of this animal.",
+    "context": "Section titled telling user that they can add a photo for identification purposes."
+  },
+  "reportChoicePhotoCapture": {
+    "message": "Capture",
+    "context": "This is the button label used to capture a photograph using the device camera."
+  },
+  "reportChoicePhotoSelectFile": {
+    "message": "Select File",
+    "context": "This is the button label used to select an image file from local device storage."
+  },
+  "reportChoicePhotoTake": {
+    "message": "Take a Photo",
+    "context": "This is the button label used to open the device camera before capturing an image."
+  },
+  "reportChoicePhotoDelete": {
+    "message": "Delete",
+    "context": "This is the button label used to delete an image the user has already submitted."
+  },
+  "reportChoicePhotoHelp": {
+    "message": "Crop or rotate the photo if necessary.",
+    "context": "This is the help text displayed below image manipulation controls informing the user how to alter the already submitted image."
+  },
+  "reportChoiceMapP": {
+    "message": "You may optionally specify a map point to assist others in locating this person.",
+    "context": "This is the section header above the map used to specify a last known location."
+  },
+  "reportChoiceMapA": {
+    "message": "You may optionally specify a map point to assist others in locating this animal.",
+    "context": "This is the section header above the map used to specify a last known location."
+  },
+  "reportChoiceMapHelp": {
+    "message": "Drag the map marker to the last known location.",
+    "context": "This is the help text below the last know location map informing a user what to do."
+  },
+  "information": {
+    "message": "Information",
+    "context": "This a label for a tab in the reporting wizard where a user enters free text about Last Known Information."
+  },
+  "submit": {
+    "message": "Submit",
+    "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report."
+  },  
+  "reportChoiceInformation": {
+    "message": "Last Known Information",
+    "context": "This is the section title for allowing the user to enter free text information about the person/animal."
+  },
+  "reportChoiceInformationHelpP": {
+    "message": "You may optionally provide any additional information that you feel would assist others in identifying or locating this person.",
+    "context": "This is help text informing the user that the information they enter will assist in locating or identifying the person."
+  },
+  "reportChoiceInformationHelpA": {
+    "message": "You may optionally provide any additional information that you feel would assist others in identifying or locating this animal.",
+    "context": "This is help text informing the user that the information they enter will assist in locating or identifying the animal."
+  },
+  "reportBeingSubmittedToast": {
+    "message": "Report being submitted ...",
+    "context": "This toast notification will be displayed while the report is being sent in."
+  },
+  "reportSubmit": {
+    "message": "Submit Report",
+    "context": "This is the section title on the last page of the reporting wizard. The user will choose how to submit the report."
+  },
+  "explainSignInP": {
+    "message": "If you would like to be notified when additional information about this person becomes available, please sign in before submitting the report.",
+    "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
+  },
+  "explainSignInA": {
+    "message": "If you would like to be notified when additional information about this animal becomes available, please sign in before submitting the report.",
+    "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
+  },
+  "explainSubmitP": {
+    "message": "If you would like to be notified when additional information about this person becomes available, choose to submit the report now.",
+    "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
+  },
+  "explainSubmitA": {
+    "message": "If you would like to be notified when additional information about this animal becomes available, choose to submit the report now.",
+    "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
+  },
+  "explainAnonP": {
+    "message": "Submit anonymously and you will not be notified when more information about this person becomes available.",
+    "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
+  },
+  "explainAnonA": {
+    "message": "Submit anonymously and you will not be notified when more information about this animal becomes available.",
+    "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
+  },
+  "reportComplete": {
+    "message": "Report Complete",
+    "context": "This is the section title on the final page of the reporting wizard. The report has been completed."
+  },
+  "explainCopy1": {
+    "message": "This is the URL for your completed report. You may return to this URL at a later time to view updates and/or comments made to this record.",
+    "context": "We inform the user of the URL that corresponds to the report they just completed so that they may bookkmark or share it for later."
+  },
+  "explainCopy2": {
+    "message": "Copy this URL to your clipboard so that you can share or bookmark it.",
+    "context": "This is the text below the copy to clipboard button informing the user what the button does."
   }
 }
-
-
-
