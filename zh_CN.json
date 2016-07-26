@@ -464,31 +464,31 @@
     "context": "The tagline is the summary of what the application is for."
   },
   "eventRetired": {
-    "message": "您需要的事件不再有效。",
+    "message": "您需要的事件已经过期。",
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
   },
   "seoTitle1": {
-    "message": "Find or report persons from",
+    "message": "由此查找或报告失踪人员",
     "context": "Part 1 of HTML title and description tags for the home page (e.g. Find or report persons from Ecuador Earthquake)."
   },
   "seoTitle2": {
-    "message": "a disaster",
+    "message": "灾难",
     "context": "Part 2 of HTML title and description tags for the home page if no active event (e.g. Find or report persons from a disaster)."
   },
   "seoTitle3": {
-    "message": "Report missing persons from",
+    "message": "由此报告失踪人员",
     "context": "HTML title tags for the report page (e.g. Report persons from Ecuador Earthquake)."
   },
   "seoTitle4": {
-    "message": "Find missing persons from",
+    "message": "由此查找失踪人员",
     "context": "HTML title and description tags for the search page (e.g. Find missing persons from Ecuador Earthquake)."
   },
   "seoTitle5": {
-    "message": "Help finding and reporting missing persons",
+    "message": "求助如何查找与报告失踪人员",
     "context": "HTML title tag for the help page."
   },
   "seoTitle6": {
-    "message": "About finding and reporting missing persons",
+    "message": "关于查找与报告失踪人员",
     "context": "HTML title tag for the about page."
   },
   "seoTitle7": {
