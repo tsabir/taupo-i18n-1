@@ -500,15 +500,15 @@
     "context": "HTML title tag for the resources page."
   },
   "seoTitle9": {
-    "message": "Record for",
+    "message": "详细记录",
     "context": "Part 1 of HTML title tag for the full record page (e.g. Record for John Doe)."
   },
   "seoTitle10": {
-    "message": "from",
+    "message": "从",
     "context": "Part 2 of HTML title tag for the full record page (e.g. from Ecuador Earthquake)."
   },
   "seoDescription1": {
-    "message": "Report missing or found persons from the",
+    "message": "报告失踪或已寻获人员",
     "context": "HTML description tag for the report page (e.g. Report missing or found persons from the Ecuador Earthquake)."
   },
   "seoDescription2": {
