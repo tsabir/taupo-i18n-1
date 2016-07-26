@@ -20,7 +20,7 @@
     "context": "A label for a button allowing a user to access the Administraion module."
   },
   "linkHelp": {
-    "message": "Help",
+    "message": "帮助",
     "context": "This is the text for a link to the Help page."
   },
   "linkAbout": {
@@ -452,7 +452,7 @@
     "context": "The title of the 1st tab allowing the selection of particular Disaster Events."
   },
   "tabFind": {
-    "message": "搜寻",
+    "message": "查找",
     "context": "The title of the 2nd tab allowing someone to Find a person or pet."
   },
   "tabReport": {
@@ -460,11 +460,11 @@
     "context": "The title of the 3rd tab allowing someone to Report a new person or pet."
   },
   "tagline": {
-    "message": "Find and report missing family, friends, and pets during disasters.",
+    "message": "查找和报告灾害中失踪的家人，朋友和宠物。",
     "context": "The tagline is the summary of what the application is for."
   },
   "eventRetired": {
-    "message": "The event you requested is no longer active.",
+    "message": "您请求的事件不再有效。",
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
   },
   "seoTitle1": {
