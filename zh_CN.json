@@ -296,7 +296,7 @@
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
    "helpFindTitle": {
-    "message": "Help Finding a Person or Pet",
+    "message": "求助有关寻找人与宠物的信息",
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
@@ -360,11 +360,11 @@
     "context": "Text for the link to NLM's privacy policy page."
   },
   "pagePrivacyText5": {
-    "message": "Freedom of Information Act",
+    "message": "信息自由法案",
     "context": "Text for the link to the Freedom of Information Act site."
   },
   "forMore": {
-    "message": "For More",
+    "message": "其它",
     "context": "The title for a subsection on the Privacy page with links to more topics."
   },
   "the": {
@@ -464,7 +464,7 @@
     "context": "The tagline is the summary of what the application is for."
   },
   "eventRetired": {
-    "message": "您请求的事件不再有效。",
+    "message": "您需要的事件不再有效。",
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
   },
   "seoTitle1": {
