@@ -949,6 +949,6 @@
   },
   "explainCopy2": {
     "message": "Copia esta URL en el portapapeles para que pueda compartir o marcarlo.",
-    "context": "This is the text below the copy to clipboard button informing the user what the button does."
+    "context": "This is the text below the copy to clipboard button informing the user what the button does.."
   }
 }
