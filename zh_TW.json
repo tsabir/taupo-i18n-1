@@ -20,11 +20,11 @@
     "context": "A label for a button allowing a user to access the Administraion module."
   },
   "linkHelp": {
-    "message": "Help",
+    "message": "幫助",
     "context": "This is the text for a link to the Help page."
   },
   "linkAbout": {
-    "message": "關於",
+    "message": "關于",
     "context": "The link text for the About link."
   },
   "linkPrivacy": {
@@ -56,7 +56,7 @@
     "context": "The link text for the Trademark link."
   },
   "textTrademark": {
-    "message": "PEOPLE LOCATOR®，ReUnite® 和 TriagePic® 是美國衛生與公眾服務部(HHS)的注冊商標。",
+    "message": "PEOPLE LOCATOR®，ReUnite® 和 TriagePic® 是美國衛生與公衆服務部(HHS)的注冊商標。",
     "context": "Verbiage describing the three registered trademarks we hold on People Locator."
   },
   "expirationDate": {
@@ -68,15 +68,15 @@
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "plusError2": {
-    "message": "錯誤：因為登錄多次失敗，賬戶暫時關閉，請稍后再試",
+    "message": "錯誤：因爲登錄多次失敗，賬戶暫時關閉，請稍後再試",
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "plusError6": {
-    "message": "錯誤：所輸入的郵箱地址已被佔用",
+    "message": "錯誤：所輸入的郵箱地址已被占用",
     "context": "Error message presented when user tries to use an email address already in use."
   },
   "plusError7": {
-    "message": "錯誤：所輸入的用戶名已被佔用",
+    "message": "錯誤：所輸入的用戶名已被占用",
     "context": "Error message presented when a user attempts to register with a username that is already in use by another user."
   },
   "plusError8": {
@@ -92,11 +92,11 @@
     "context": "Error message presented when user attempts to reset password with an unregistered email address."
   },
   "plusError14": {
-    "message": "錯誤：驗証結果有錯誤，請重新輸入",
+    "message": "錯誤：驗證結果有錯誤，請重新輸入",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
   "plusError15": {
-    "message": "錯誤：驗証碼失效，請刷新頁面再試",
+    "message": "錯誤：驗證碼失效，請刷新頁面再試",
     "context": "Error message presented when the reCaptcha session has expired and the user must reload the page to continue."
   },
   "plusError16": {
@@ -124,11 +124,11 @@
     "context": "Error message presented when there is a network / internet issue."
   },
   "plusError600": {
-    "message": "錯誤：您所尋找的數據不存在，或因為您沒有相應的權限查詢",
+    "message": "錯誤：您所尋找的數據不存在，或因爲您沒有相應的權限查詢",
     "context": "Error message presented when user attempts to follow a record they have no permission to access."
   },
   "plusError601": {
-    "message": "錯誤：無法連接，因為您已進入此數據的連接裡",
+    "message": "錯誤：無法連接，因爲您已進入此數據的連接裏",
     "context": "Error message presented when attempting to follow a record the user is already following."
   },
   "plusError602": {
@@ -212,7 +212,7 @@
     "context": "This is the placeholder text for the email input."
   },
   "pad1registerText": {
-    "message": "輸入的密碼中至少要有一個數字， 一個小寫字母， 一個大寫字母，密碼的長度為8至16個字符。",
+    "message": "輸入的密碼中至少要有一個數字， 一個小寫字母， 一個大寫字母，密碼的長度爲8至16個字符。",
     "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
   },
   "pad2notice": {
@@ -220,11 +220,11 @@
     "context": "This is the first word of the OMB notice."
   },
   "pad2submission": {
-    "message": "上傳信息都是個人自願行為，所上傳的信息全部都將向公眾全部公開。",
+    "message": "上傳信息都是個人自願行爲，所上傳的信息全部都將向公衆全部公開。",
     "context": "These are the first two sentences of the OMB notice."
   },
   "pad2text": {
-    "message": "公眾從輸入信息開始到完成提交報告，大約需要三分鐘。這三分鐘裡，包括了查看指令，收集和輸入數據所需的時間。除非標有美國行政管理和預算局(OMB)的有效編號，任何部門不得組織，或資助搜集此類信息，任何個人也無須而為。如果您有任何有關提交報告所需時間，或者任何有關搜集信息的建議，請送:",
+    "message": "公衆從輸入信息開始到完成提交報告，大約需要三分鍾。這三分鍾裏，包括了查看指令，收集和輸入數據所需的時間。除非標有美國行政管理和預算局(OMB)的有效編號，任何部門不得組織，或資助搜集此類信息，任何個人也無須而爲。如果您有任何有關提交報告所需時間，或者任何有關搜集信息的建議，請送:",
     "context": "This is the main paragraph of the OMB notice."
   },
   "pad2sub": {
@@ -272,7 +272,7 @@
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3passwordRequirements": {
-    "message": "輸入的密碼至少要有一個數字， 一個小寫之母，一個大寫字母，密碼的長度為8至16個字符。",
+    "message": "輸入的密碼至少要有一個數字， 一個小寫之母，一個大寫字母，密碼的長度爲8至16個字符。",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3oldPasswordPlaceholder": {
@@ -288,15 +288,15 @@
     "context": "This is the placeholder text for the new password again input."
   },
     "pushNotificationsUnsupported": {
-    "message": "您的瀏覽器不支持推送通知。",
+    "message": "您的浏覽器不支持推送通知。",
     "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
     "message": "本網頁無法顯示推送通知，如要顯示，您需要在設置中改變權限。",
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
-  "helpFindTitle": {
-    "message": "Help Finding a Person or Pet",
+   "helpFindTitle": {
+    "message": "求助有關尋找人與寵物的信息",
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
@@ -304,7 +304,7 @@
     "context": "This is the help page article body describing in detail how to find/search for a person or pet."
   },
   "helpReportTitle": {
-    "message": "Help Reporting a Person or Pet",
+    "message": "求助如何報告一個人或寵物",
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
@@ -312,15 +312,15 @@
     "context": "This is the help page article body describing in detail how to report a person or pet."
   },
   "pageAboutTextAbout": {
-    "message": "本網站是由位於美國馬裡蘭州貝塞斯達市的美國國家醫學圖書館(NLM)提供，NLM隸屬美國衛生及公共服務部(HHS)美國國立衛生研究院(NIH)，其使命在於提高通信技術的發展和協調，促進醫療服務。本網站目的在於研究應對災害的工具及功能。網站由LPF(Lost and Founder) 項目團隊開發，其中一部分是針對Bethesda醫院的BHEPP(Bethesda Hospitals' Emergency Preparedness Partnership)而開發的。自2008年起，LPF和NLM的IT部門開始獲得聯邦政府的資助。LPF目前是NIH的院內研究項目（Intramural Research Program），由NLM的LHNCBC(Lister Hill National Center for Biomedical Communications）資助。軟件開發由LHNCBC下屬的CEB(Communication Engineering Branch)領導，網站部分內容來自於LHNCBC 的CSB(Computer Science Branch)和DIMRC(Disaster Information Management Research Center)，該部門也屬NLM的SIS(Specialized Information Services)管轄。",
+    "message": "本網站是由位于美國馬裏蘭州貝塞斯達市的美國國家醫學圖書館(NLM)提供，NLM隸屬美國衛生及公共服務部(HHS)美國國立衛生研究院(NIH)，其使命在于提高通信技術的發展和協調，促進醫療服務。本網站目的在于研究應對災害的工具及功能。網站由LPF(Lost and Founder) 項目團隊開發，其中一部分是針對Bethesda醫院的BHEPP(Bethesda Hospitals' Emergency Preparedness Partnership)而開發的。自2008年起，LPF和NLM的IT部門開始獲得聯邦政府的資助。LPF目前是NIH的院內研究項目（Intramural Research Program），由NLM的LHNCBC(Lister Hill National Center for Biomedical Communications）資助。軟件開發由LHNCBC下屬的CEB(Communication Engineering Branch)領導，網站部分內容來自于LHNCBC 的CSB(Computer Science Branch)和DIMRC(Disaster Information Management Research Center)，該部門也屬NLM的SIS(Specialized Information Services)管轄。",
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
   "pageAboutTextBrowser": {
-    "message": "您必須在瀏覽器中啟用cookie和JavaScript。同時，您必須安裝有下列一至兩個最新版本的瀏覽器：Chrome, Firefox, Safari, Opera, Edge, or Internet Explorer。",
+    "message": "您必須在浏覽器中啓用cookie和JavaScript。同時，您必須安裝有下列一至兩個最新版本的浏覽器：Chrome, Firefox, Safari, Opera, Edge, or Internet Explorer。",
     "context": "This is the text on the About page describing web browsers support."
   },
   "pageAboutHeaderBrowser": {
-    "message": "本網站支持的瀏覽器",
+    "message": "本網站支持的浏覽器",
     "context": "On the About page, section header title Browser Support."
   },
   "pageAboutHeaderFAQ": {
@@ -332,7 +332,7 @@
     "context": "Frequently Asked Questions link title on About page."
   },
   "pagePrivacyText1": {
-    "message": "除非另有說明，基於社區交流的數據由本網站向公眾發布，並允許任何訪問者進行搜索。 綜上所述，我們的此數據來自各種途徑，由NLM匯集而成:",
+    "message": "除非另有說明，基于社區交流的數據由本網站向公衆發布，並允許任何訪問者進行搜索。 綜上所述，我們的此數據來自各種途徑，由NLM彙集而成:",
     "context": "This is the first text paragraph on the Privacy page describing how user data is handled."
   },
   "pagePrivacyText2a": {
@@ -344,7 +344,7 @@
     "context": "Large portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText2c": {
-    "message": "請轉發給其他機關，機構和組織協助努力尋找失蹤的人，包括但不局限於",
+    "message": "請轉發給其他機關，機構和組織協助努力尋找失蹤的人，包括但不局限于",
     "context": "End portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText3a": {
@@ -360,11 +360,11 @@
     "context": "Text for the link to NLM's privacy policy page."
   },
   "pagePrivacyText5": {
-    "message": "Freedom of Information Act",
+    "message": "信息自由法案",
     "context": "Text for the link to the Freedom of Information Act site."
   },
   "forMore": {
-    "message": "For More",
+    "message": "其它",
     "context": "The title for a subsection on the Privacy page with links to more topics."
   },
   "the": {
@@ -444,511 +444,511 @@
     "context": "The word and used between two nouns."
   },
   "trademarkText": {
-    "message": "是美國衛生與公眾服務部(HHS)的注冊商標。",
+    "message": "是美國衛生與公衆服務部(HHS)的注冊商標。",
     "context": "The second half of the trademark sentence."
   },
   "tabDisasterEvents": {
-    "message": "Disaster Events",
+    "message": "災難事件",
     "context": "The title of the 1st tab allowing the selection of particular Disaster Events."
   },
   "tabFind": {
-    "message": "Find",
+    "message": "查找",
     "context": "The title of the 2nd tab allowing someone to Find a person or pet."
   },
   "tabReport": {
-    "message": "Report",
+    "message": "報告",
     "context": "The title of the 3rd tab allowing someone to Report a new person or pet."
   },
   "tagline": {
-    "message": "Find and report missing family, friends, and pets during disasters.",
+    "message": "查找和報告災害中失蹤的家人，朋友和寵物。",
     "context": "The tagline is the summary of what the application is for."
   },
   "eventRetired": {
-    "message": "The event you requested is no longer active.",
+    "message": "您需要的事件已經過期。",
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
   },
   "seoTitle1": {
-    "message": "Find or report persons from",
+    "message": "由此查找或報告失蹤人員",
     "context": "Part 1 of HTML title and description tags for the home page (e.g. Find or report persons from Ecuador Earthquake)."
   },
   "seoTitle2": {
-    "message": "a disaster",
+    "message": "災難",
     "context": "Part 2 of HTML title and description tags for the home page if no active event (e.g. Find or report persons from a disaster)."
   },
   "seoTitle3": {
-    "message": "Report missing persons from",
+    "message": "由此報告失蹤人員",
     "context": "HTML title tags for the report page (e.g. Report persons from Ecuador Earthquake)."
   },
   "seoTitle4": {
-    "message": "Find missing persons from",
+    "message": "由此查找失蹤人員",
     "context": "HTML title and description tags for the search page (e.g. Find missing persons from Ecuador Earthquake)."
   },
   "seoTitle5": {
-    "message": "Help finding and reporting missing persons",
+    "message": "求助如何查找與報告失蹤人員",
     "context": "HTML title tag for the help page."
   },
   "seoTitle6": {
-    "message": "About finding and reporting missing persons",
+    "message": "關于查找與報告失蹤人員",
     "context": "HTML title tag for the about page."
   },
   "seoTitle7": {
-    "message": "Privacy considerations for finding and reporting missing persons",
+    "message": "有關查找和報告失蹤人員的隱私注意事項",
     "context": "HTML title tag for the privacy page."
   },
   "seoTitle8": {
-    "message": "Resources for finding and reporting missing persons",
+    "message": "有關用于查找和報告失蹤人員的資源",
     "context": "HTML title tag for the resources page."
   },
   "seoTitle9": {
-    "message": "Record for",
+    "message": "詳細記錄",
     "context": "Part 1 of HTML title tag for the full record page (e.g. Record for John Doe)."
   },
   "seoTitle10": {
-    "message": "from",
+    "message": "從",
     "context": "Part 2 of HTML title tag for the full record page (e.g. from Ecuador Earthquake)."
   },
   "seoDescription1": {
-    "message": "Report missing or found persons from the",
+    "message": "報告失蹤或已尋獲人員",
     "context": "HTML description tag for the report page (e.g. Report missing or found persons from the Ecuador Earthquake)."
   },
   "seoDescription2": {
-    "message": "Help instructions for finding and reporting missing persons",
+    "message": "幫助查找和報告失蹤人員的指令",
     "context": "HTML description tag for the help page."
   },
   "seoDescription3": {
-    "message": "About using People Locator to find and report missing persons",
+    "message": "關于使用People Locator來查找和報告失蹤人員",
     "context": "HTML description tag for the about page."
   },
   "seoDescription4": {
-    "message": "Privacy considerations for using People Locator to find and report missing persons",
+    "message": "關于使用People Locator查找和報告失蹤人員的隱私注意事項",
     "context": "HTML description tag for the privacy page."
   },
   "seoDescription5": {
-    "message": "Other resources for finding and reporting missing persons",
+    "message": "尋找和報告失蹤人員的其他資源",
     "context": "HTML description tag for the resources page."
   },
   "seoDescription6": {
-    "message": "View and update record for",
+    "message": "查看和更新記錄",
     "context": "Part 1 of HTML description tag for the full record page (e.g. View and update record for John Doe)."
   },
   "seoDescription7": {
-    "message": "from the",
+    "message": "從",
     "context": "Part 2 of HTML description tag for the full record page (e.g. from the Ecuador Earthquake)."
   },
   "seoAlt1": {
-    "message": "Photo of",
+    "message": "照片",
     "context": "Part 1 of HTML alt tag for a personal photo (e.g. Photo of John Doe)"
   },
   "seoAlt2": {
-    "message": "person",
+    "message": "個人",
     "context": "Part 2 of HTML alt tag for a personal photo (e.g. missing person)"
   },
   "seoAlt3": {
-    "message": "reported in",
+    "message": "報道",
     "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
   },
   "eventListFindReportButton": {
-    "message": "Find / Report a Person or Animal",
+    "message": "查找/報告的失蹤的人員或動物",
     "context": "This is the button text on the home page to Find or Report a person or animal."
   },
   "searchPlaceholder": {
-    "message": "Search",
+    "message": "查找",
     "context": "The search box starts off with this text to inform the user what the element is used for."
   },
   "records": {
-    "message": "records",
+    "message": "報告",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 17 records"
   },
   "moreDetails": {
-    "message": "More Details",
+    "message": "更多細節",
     "context": "When search results are displayed, a user can click on the more details link to open the record displaying all record data."
   },
   "sexMale": {
-    "message": "Male",
+    "message": "男",
     "context": "Sex = Male"
   },
   "sexFemale": {
-    "message": "Female",
+    "message": "女",
     "context": "Sex = Female"
   },
   "sexOther": {
-    "message": "Other",
+    "message": "其他",
     "context": "Sex = Other"
   },
   "statusMissing": {
-    "message": "Missing",
+    "message": "失蹤",
     "context": "Status is Missing"
   },
   "statusFound": {
-    "message": "Found",
+    "message": "尋獲",
     "context": "Status is Found"
   }  ,
   "statusDeceased": {
-    "message": "Deceased",
+    "message": "死亡",
     "context": "Status is Deceased"
   },
   "statusInjured": {
-    "message": "Injured",
+    "message": "受傷",
     "context": "Status is Injured"
   },
   "statusAlive": {
-    "message": "Alive & Well",
+    "message": "活著安好",
     "context": "Status is Alive and Well"
   },
   "statusUnknown": {
-    "message": "Unknown",
-    "context": "Unknown"
+    "message": "未知",
+    "context": "Status, Location, or other attribute is Unknown"
   },
   "age": {
-    "message": "Age",
+    "message": "年齡",
     "context": "Age of person or animal"
   },
   "comments": {
-    "message": "Comments",
+    "message": "評論",
     "context": "Comments that others may add to a person or animal record."
   },
   "addComment": {
-    "message": "Add a comment",
+    "message": "添加評論",
     "context": "The label for a button allowing a user to add a comment to a record."
   }, 
   "addCommentLabel": {
-    "message": "Add any additional information about this record you may have",
+    "message": "添加有關信息",
     "context": "This is the label below the add comment button explaining to a user what it does."
   },
   "followButton": {
-    "message": "Follow",
+    "message": "跟隨",
     "context": "A button allows a user to follow record updates."
   },
   "followButtonLabel": {
-    "message": "Recieve all updates to this person via email",
+    "message": "通過電子郵件接收有關此人的更新信息",
     "context": "This is the label below the follow button explaining to a user what it does."
   },
   "name": {
-    "message": "Name",
+    "message": "名字",
     "context": "This label is displayed under the person or animal name."
   },
   "status": {
-    "message": "Status",
+    "message": "狀態",
     "context": "This label is displayed below the person or animal missing / found status."
   },
   "lastUpdated": {
-    "message": "Last Updated",
+    "message": "最近更新",
     "context": "This label is displayed under the date / time of when a record was last updated."
   },
   "gender": {
-    "message": "Gender",
+    "message": "性別",
     "context": "This is a label below the displayed gender of a person or animal."
   },
   "lastKnownLocation": {
-    "message": "Last Known Location",
+    "message": "最後的已知的位置",
     "context": "This is a label displayed below a text box showing a person or animal last known location."
   },
   "lastKnownInformation": {
-    "message": "Last Known Information",
+    "message": "最後的已知信息",
     "context": "This is a label displayed below a text box showing a person or animal last known information in text form."
   },
   "otherInformation": {
-    "message": "Other Information",
+    "message": "其他信息",
     "context": "This is a label displayed below a text box showing other information about a person or animal."
   },
   "newReport": {
-    "message": "New Report",
+    "message": "新報告",
     "context": "This is the window title when a new person or animal is being reported."
   },
   "reportChoicePA": {
-    "message": "Would you like to report a Person or an Animal?",
+    "message": "你想報告的失蹤的人或寵物嗎？",
     "context": "This is the text option displayed for a user to choose and fill out either a person or animal report."
   },
   "person": {
-    "message": "Person",
+    "message": "人",
     "context": "This is the text label on a button a user presses to choose a person report."
   },
   "animal": {
-    "message": "Animal",
+    "message": "寵物",
     "context": "This is the text label on a button a user presses to choose an animal report."
   },
   "reportChoiceStatusP": {
-    "message": "Please indicate the status of the person you are reporting.",
+    "message": "請注明您所報告的人的狀態",
     "context": "This is the text option displayed for a user to choose the status of the person they are reporting."
   },  
   "explainMissingP": {
-    "message": "person is believed to be missing",
+    "message": "人已失蹤",
     "context": "The label next to the status selection button for missing."
   },
   "explainFoundP": {
-    "message": "person has been found health unknown",
+    "message": "人狀態未知",
     "context": "The label next to the status selection button for found."
   },
   "explainAliveP": {
-    "message": "person has been found and is well",
+    "message": "人已被找到，狀態安好",
     "context": "The label next to the status selection button for alive & well."
   },
   "explainInjuredP": {
-    "message": "person has been found and is injured",
+    "message": "人已被找到，受傷",
     "context": "The label next to the status selection button for injured."
   },
   "explainDeceasedP": {
-    "message": "person has been found and is deceased",
+    "message": "人已被找到，已死亡",
     "context": "The label next to the status selection button for deceased."
   },
   "explainUnknownP": {
-    "message": "information is sought about the person",
+    "message": "已經獲得有關此人的信息",
     "context": "The label next to the status selection button for unknown."
   },  
   "location": {
-    "message": "Location",
+    "message": "位置",
     "context": "Text label for Location."
   },
   "photo": {
-    "message": "Photo",
+    "message": "照片",
     "context": "Text label for Photo."
   },
   "reportChoiceStatusA": {
-    "message": "Please indicate the status of the animal you are reporting.",
+    "message": "請說明您要報告的動物的狀態。",
     "context": "This is the text option displayed for a user to choose the status of the animal they are reporting."
   },
   "explainMissingA": {
-    "message": "animal is believed to be missing",
+    "message": "寵物已失蹤",
     "context": "The label next to the status selection button for missing."
   },
   "explainFoundA": {
-    "message": "animal has been found health unknown",
+    "message": "寵物狀態未知",
     "context": "The label next to the status selection button for found."
   },
   "explainAliveA": {
-    "message": "animal has been found and is well",
+    "message": "寵物已被找到，狀態安好",
     "context": "The label next to the status selection button for alive & well."
   },
   "explainInjuredA": {
-    "message": "animal has been found and is injured",
+    "message": "寵物已被找到，受傷",
     "context": "The label next to the status selection button for injured."
   },
   "explainDeceasedA": {
-    "message": "animal has been found and is deceased",
+    "message": "寵物已被找到，已死亡",
     "context": "The label next to the status selection button for deceased."
   },
   "explainUnknownA": {
-    "message": "information is sought about the animal",
+    "message": "已經獲得有關此寵物的信息",
     "context": "The label next to the status selection button for unknown."
   },
   "reportChoiceSexP": {
-    "message": "Please indicate the gender of the person you are reporting.",
+    "message": "請注明您所報告的人的性別。",
     "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
   },
   "reportChoiceSexA": {
-    "message": "Please indicate the gender of the person you are reporting.",
+    "message": "請注明您所報告的人的性別。",
     "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
   },
   "explainSexMaleP": {
-    "message": "gender of person is male",
+    "message": "性別是男性",
     "context": "The label next to the person sex selection button for male."
   },
   "explainSexFemaleP": {
-    "message": "gender of person is female",
+    "message": "性別是女性",
     "context": "The label next to the person sex selection button for female."
   },
   "explainSexOtherP": {
-    "message": "gender of person is other",
+    "message": "性別是其他",
     "context": "The label next to the person sex selection button for other."
   },
   "explainSexUnknownP": {
-    "message": "gender of person is unknown",
+    "message": "性別是未知",
     "context": "The label next to the person sex selection button for unknown."
   },
   "explainSexMaleA": {
-    "message": "gender of animal is male",
+    "message": "寵物是公的",
     "context": "The label next to the animal sex selection button for male."
   },
   "explainSexFemaleA": {
-    "message": "gender of animal is female",
+    "message": "寵物是母的",
     "context": "The label next to the animal sex selection button for female."
   },
   "explainSexOtherA": {
-    "message": "gender of animal is other",
+    "message": "寵物性別是其他",
     "context": "The label next to the animal sex selection button for other."
   },
   "explainSexUnknownA": {
-    "message": "gender of animal is unknown",
+    "message": "寵物性別是未知",
     "context": "The label next to the animal sex selection button for unknown."
   },
   "reportChoiceAgeP": {
-    "message": "Please select the approximate age of the person you are reporting",
+    "message": "請選擇您所報告的人的大致年齡",
     "context": "This is the text option displayed for a user to choose the age of the person they are reporting."
   },
   "reportChoiceAgeA": {
-    "message": "Please select the approximate age of the animal you are reporting",
+    "message": "請選擇您要報告寵物的大致年齡",
     "context": "This is the text option displayed for a user to choose the age of the animal they are reporting."
   },
   "reportChoiceAgeUnknown": {
-    "message": "If unsure the age, please select unknown.",
+    "message": "如果不確定年齡，請選擇未知。",
     "context": "The label next to the status selection button for unknown."
   },
   "explainAgeUnknownP": {
-    "message": "age of person is unknown",
+    "message": "人年齡未知",
     "context": "The label next to the person age selection button for unknown."
   },
   "explainAgeUnknownA": {
-    "message": "age of animal is unknown",
+    "message": "動物年齡未知",
     "context": "The label next to the animal age selection button for unknown."
   },
   "continue": {
-    "message": "continue",
+    "message": "繼續",
     "context": "The label of a button to continue to the next step."
   },
   "reportChoiceNameP": {
-    "message": "Please enter the name of the person you are reporting.",
+    "message": "請輸入您要報告的人的名字。",
     "context": "This is the section title displayed for a user to enter the name of the person they are reporting."
   },
   "reportChoiceNameA": {
-    "message": "Please enter the name and/or buddy identification number of the animal you are reporting.",
+    "message": "請輸入您要報告的動物的名字和\/或標識號碼。",
     "context": "This is the section title displayed for a user to enter the name and/or the buddy identification number of the animal they are reporting."
   },
   "explainNameP": {
-    "message": "name of person",
+    "message": "人名字",
     "context": "The text label for name entry of a person."
   },
   "explainNameA": {
-    "message": "name of animal",
+    "message": "寵物名字",
     "context": "The text label for name entry of an animal."
   },
   "explainBuddyA": {
-    "message": "buddy identification number of animal",
+    "message": "動物的標識號碼",
     "context": "The text label for buddty identification number entry of an animal."
   },
   "reportChoiceNameUnknownP": {
-    "message": "If unsure the name, please select unknown.",
+    "message": "如果不確定人名字，請選擇未知。",
     "context": "This is the section title displayed for the use to choose name unknown."
   },
   "reportChoiceNameUnknownA": {
-    "message": "If unsure the name and buddy identification number, please select unknown.",
+    "message": "如果不確定寵物名字和識別編號，請選擇未知。",
     "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
-    "message": "name of person is unknown",
+    "message": "人的名字未知",
     "context": "The label next to the person name selection button for unknown."
   },
   "explainNameUnknownA": {
-    "message": "name and buddy identification number of animal is unknown",
+    "message": "寵物名稱和標識號碼未知",
     "context": "The label next to the animal name selection button for unknown."
   },
   "cameraError": {
-    "message": "No camera detected by your web browser. You may opt to use your camera app instead.",
+    "message": "浏覽器檢測到攝像頭。您可以選擇使用相機應用程式。",
     "context": "This toast notification is displayed when there is an error detecting the camera on the user device."
   },
   "browserLimitation": {
-    "message": "Your web browser does not support this feature.",
+    "message": "您的浏覽器不支持此功能",
     "context": "This toast notification is displayed when a user attempts to use a feature that their web browser does not support."
   },
   "photoOnly": {
-    "message": "JPG, GIF, and PNG files only.",
+    "message": "只能使用JPG，GIF和PNG文件。",
     "context": "This toast notification is displayed when a user attempts to use an unsupported image file format."
   },
   "reportChoicePhotoP": {
-    "message": "You may optionally add a photo to improve identification of this person.",
+    "message": "您可以選擇添加照片來提高對這個人的識別。",
     "context": "Section titled telling user that they can add a photo for identification purposes."
   },
   "reportChoicePhotoA": {
-    "message": "You may optionally add a photo to improve identification of this animal.",
+    "message": "您可以選擇添加照片來提高對這個寵物的識別。",
     "context": "Section titled telling user that they can add a photo for identification purposes."
   },
   "reportChoicePhotoCapture": {
-    "message": "Capture",
+    "message": "拍照",
     "context": "This is the button label used to capture a photograph using the device camera."
   },
   "reportChoicePhotoSelectFile": {
-    "message": "Select File",
+    "message": "選擇文件",
     "context": "This is the button label used to select an image file from local device storage."
   },
   "reportChoicePhotoTake": {
-    "message": "Take a Photo",
+    "message": "拍照",
     "context": "This is the button label used to open the device camera before capturing an image."
   },
   "reportChoicePhotoDelete": {
-    "message": "Delete",
+    "message": "刪除",
     "context": "This is the button label used to delete an image the user has already submitted."
   },
   "reportChoicePhotoHelp": {
-    "message": "Crop or rotate the photo if necessary.",
+    "message": "如有必要，您可以裁剪或旋轉照片，。",
     "context": "This is the help text displayed below image manipulation controls informing the user how to alter the already submitted image."
   },
   "reportChoiceMapP": {
-    "message": "You may optionally specify a map point to assist others in locating this person.",
+    "message": "您可以選擇指定地圖位置，幫助別人尋找此人。",
     "context": "This is the section header above the map used to specify a last known location."
   },
   "reportChoiceMapA": {
-    "message": "You may optionally specify a map point to assist others in locating this animal.",
+    "message": "您可以選擇指定地圖位置，幫助別人尋找該寵物。",
     "context": "This is the section header above the map used to specify a last known location."
   },
   "reportChoiceMapHelp": {
-    "message": "Drag the map marker to the last known location.",
+    "message": "將地圖標記拖移到已知的最新位置。",
     "context": "This is the help text below the last know location map informing a user what to do."
   },
   "information": {
-    "message": "Information",
+    "message": "信息",
     "context": "This a label for a tab in the reporting wizard where a user enters free text about Last Known Information."
   },
   "submit": {
-    "message": "Submit",
+    "message": "提交",
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report."
   },
   "submitAnon": {
-    "message": "Submit Anonymously",
+    "message": "匿名提交",
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report anonymously."
   },
   "reportChoiceInformation": {
-    "message": "Last Known Information",
+    "message": "最新的信息",
     "context": "This is the section title for allowing the user to enter free text information about the person/animal."
   },
   "reportChoiceInformationHelpP": {
-    "message": "You may optionally provide any additional information that you feel would assist others in identifying or locating this person.",
+    "message": "您可以選擇提供任何更多有用的信息，以便于他人識別或尋找這個人。",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the person."
   },
   "reportChoiceInformationHelpA": {
-    "message": "You may optionally provide any additional information that you feel would assist others in identifying or locating this animal.",
+    "message": "您可以選擇提供任何更多有用的信息，以便于他人識別或尋找這個寵物",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the animal."
   },
   "reportBeingSubmittedToast": {
-    "message": "Report being submitted ...",
+    "message": "正在提交報告...",
     "context": "This toast notification will be displayed while the report is being sent in."
   },
   "reportSubmit": {
-    "message": "Submit Report",
+    "message": "提交報告",
     "context": "This is the section title on the last page of the reporting wizard. The user will choose how to submit the report."
   },
   "explainSignInP": {
-    "message": "If you would like to be notified when additional information about this person becomes available, please sign in before submitting the report.",
+    "message": "以後我們有關于這個人的最新消息時，如果你想要得到及時的通知，請在提交報告之前簽字認可。",
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSignInA": {
-    "message": "If you would like to be notified when additional information about this animal becomes available, please sign in before submitting the report.",
+    "message": "以後我們有關于這個寵物的最新消息時，如果你想要得到及時的通知，請在提交報告之前簽字認可。",
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSubmitP": {
-    "message": "If you would like to be notified when additional information about this person becomes available, choose to submit the report now.",
+    "message": "以後我們有關于這個人的最新消息時，如果你想要得到及時的通知，請提交報告。",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainSubmitA": {
-    "message": "If you would like to be notified when additional information about this animal becomes available, choose to submit the report now.",
+    "message": "以後我們有關于這個寵物的最新消息時，如果你想要得到及時的通知，請提交報告。",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainAnonP": {
-    "message": "Submit anonymously and you will not be notified when more information about this person becomes available.",
+    "message": "以後我們有關于這個人的最新消息時，如果您選擇匿名提交，我們將不會通知您。",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "explainAnonA": {
-    "message": "Submit anonymously and you will not be notified when more information about this animal becomes available.",
+    "message": "以後我們有關于這個寵物的最新消息時，如果您選擇匿名提交，我們將不會通知您。",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
-    "message": "Report Complete",
+    "message": "報告完成",
     "context": "This is the section title on the final page of the reporting wizard. The report has been completed."
   },
   "explainCopy1": {
-    "message": "This is the URL for your completed report. You may return to this URL at a later time to view updates and/or comments made to this record.",
+    "message": "這是您已經提交報告的URL。以後，如果您要查看任何更新的信息以及評論，可用此URL返回。",
     "context": "We inform the user of the URL that corresponds to the report they just completed so that they may bookkmark or share it for later."
   },
   "explainCopy2": {
-    "message": "Copy this URL to your clipboard so that you can share or bookmark it.",
+    "message": "將此網址複制到剪貼板，這樣您就可以共享或書簽它。",
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
   }
 }
