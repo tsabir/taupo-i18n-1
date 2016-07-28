@@ -928,7 +928,7 @@
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainSubmitA": {
-    "message": "以后我们有关于这个宠物的最新消息时，如果你想要得到及时的通知，请提交报告。
+    "message": "以后我们有关于这个宠物的最新消息时，如果你想要得到及时的通知，请提交报告。",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainAnonP": {
