@@ -736,8 +736,8 @@
     "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
   },
   "reportChoiceSexA": {
-    "message": "Please indicate the gender of the person you are reporting.",
-    "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
+    "message": "Please indicate the gender of the animal you are reporting.",
+    "context": "This is the text option displayed for a user to choose the gender of the animal they are reporting."
   },
   "explainSexMaleP": {
     "message": "gender of person is male",
