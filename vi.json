@@ -704,139 +704,139 @@
     "context": "Text label for Photo."
   },
   "reportChoiceStatusA": {
-    "message": "Please indicate the status of the animal you are reporting.",
+    "message": "Xin cho biết tình trạng của vật nuôi bạn đang báo cáo.",
     "context": "This is the text option displayed for a user to choose the status of the animal they are reporting."
   },
   "explainMissingA": {
-    "message": "animal is believed to be missing",
+    "message": "vật nuôi được cho là mất tích",
     "context": "The label next to the status selection button for missing."
   },
   "explainFoundA": {
-    "message": "animal has been found health unknown",
+    "message": "vật nuôi đã được tìm thấy có sức khỏe chưa biết",
     "context": "The label next to the status selection button for found."
   },
   "explainAliveA": {
-    "message": "animal has been found and is well",
+    "message": "vật nuôi đã được tìm thấy và vẫn khỏe mạnh",
     "context": "The label next to the status selection button for alive & well."
   },
   "explainInjuredA": {
-    "message": "animal has been found and is injured",
+    "message": "vật nuôi đã được tìm thấy và bị thương",
     "context": "The label next to the status selection button for injured."
   },
   "explainDeceasedA": {
-    "message": "animal has been found and is deceased",
+    "message": "vật nuôi đã được tìm thấy và đã chết",
     "context": "The label next to the status selection button for deceased."
   },
   "explainUnknownA": {
-    "message": "information is sought about the animal",
+    "message": "thông tin được tìm về vật nuôi",
     "context": "The label next to the status selection button for unknown."
   },
   "reportChoiceSexP": {
-    "message": "Please indicate the gender of the person you are reporting.",
+    "message": "Vui lòng cho biết giới tính của người mà bạn đang báo cáo.",
     "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
   },
   "reportChoiceSexA": {
-    "message": "Please indicate the gender of the person you are reporting.",
+    "message": "Vui lòng cho biết giới tính của người mà bạn đang báo cáo.",
     "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
   },
   "explainSexMaleP": {
-    "message": "gender of person is male",
+    "message": "giới tính của người là nam",
     "context": "The label next to the person sex selection button for male."
   },
   "explainSexFemaleP": {
-    "message": "gender of person is female",
+    "message": "giới tính của người là nữ",
     "context": "The label next to the person sex selection button for female."
   },
   "explainSexOtherP": {
-    "message": "gender of person is other",
+    "message": "giới tính của người là giới tính khác",
     "context": "The label next to the person sex selection button for other."
   },
   "explainSexUnknownP": {
-    "message": "gender of person is unknown",
+    "message": "giới tính của người chưa biết",
     "context": "The label next to the person sex selection button for unknown."
   },
   "explainSexMaleA": {
-    "message": "gender of animal is male",
+    "message": "giới tính của vật nuôi là giống đực",
     "context": "The label next to the animal sex selection button for male."
   },
   "explainSexFemaleA": {
-    "message": "gender of animal is female",
+    "message": "giới tính của vật nuôi là giống cái",
     "context": "The label next to the animal sex selection button for female."
   },
   "explainSexOtherA": {
-    "message": "gender of animal is other",
+    "message": "giới tính của vật nuôi là giống khác",
     "context": "The label next to the animal sex selection button for other."
   },
   "explainSexUnknownA": {
-    "message": "gender of animal is unknown",
+    "message": "giới tính của vật nuôi là không rõ",
     "context": "The label next to the animal sex selection button for unknown."
   },
   "reportChoiceAgeP": {
-    "message": "Please select the approximate age of the person you are reporting",
+    "message": "Vui lòng chọn tuổi gần đúng của người bạn đang báo cáo",
     "context": "This is the text option displayed for a user to choose the age of the person they are reporting."
   },
   "reportChoiceAgeA": {
-    "message": "Please select the approximate age of the animal you are reporting",
+    "message": "Vui lòng chọn tuổi gần đúng của các vật nuôi bạn đang báo cáo",
     "context": "This is the text option displayed for a user to choose the age of the animal they are reporting."
   },
   "reportChoiceAgeUnknown": {
-    "message": "If unsure the age, please select unknown.",
+    "message": "Nếu không chắc chắn tuổi , xin vui lòng chọn không rõ.",
     "context": "The label next to the status selection button for unknown."
   },
   "explainAgeUnknownP": {
-    "message": "age of person is unknown",
+    "message": "tuổi của người chưa biết",
     "context": "The label next to the person age selection button for unknown."
   },
   "explainAgeUnknownA": {
-    "message": "age of animal is unknown",
+    "message": "tuổi của vật nuôi không rõ",
     "context": "The label next to the animal age selection button for unknown."
   },
   "continue": {
-    "message": "continue",
+    "message": "tiếp tục",
     "context": "The label of a button to continue to the next step."
   },
   "reportChoiceNameP": {
-    "message": "Please enter the name of the person you are reporting.",
+    "message": "Vui lòng nhập tên của người mà bạn đang báo cáo.",
     "context": "This is the section title displayed for a user to enter the name of the person they are reporting."
   },
   "reportChoiceNameA": {
-    "message": "Please enter the name and/or buddy identification number of the animal you are reporting.",
+    "message": "Vui lòng nhập tên và / hoặc mã số của vật nuôi bạn đang báo cáo",
     "context": "This is the section title displayed for a user to enter the name and/or the buddy identification number of the animal they are reporting."
   },
   "explainNameP": {
-    "message": "name of person",
+    "message": "Tên người",
     "context": "The text label for name entry of a person."
   },
   "explainNameA": {
-    "message": "name of animal",
+    "message": "Tên của vật nuôi",
     "context": "The text label for name entry of an animal."
   },
   "explainBuddyA": {
-    "message": "buddy identification number of animal",
+    "message": "mã số của vật nuôi",
     "context": "The text label for buddty identification number entry of an animal."
   },
   "reportChoiceNameUnknownP": {
-    "message": "If unsure the name, please select unknown.",
+    "message": "Nếu không chắc chắn tên, xin vui lòng chọn không rõ.",
     "context": "This is the section title displayed for the use to choose name unknown."
   },
   "reportChoiceNameUnknownA": {
-    "message": "If unsure the name and buddy identification number, please select unknown.",
+    "message": "Nếu không chắc chắn tên và mã số, xin vui lòng chọn không rõ.",
     "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
-    "message": "name of person is unknown",
+    "message": "Tên của người chưa biết",
     "context": "The label next to the person name selection button for unknown."
   },
   "explainNameUnknownA": {
-    "message": "name and buddy identification number of animal is unknown",
+    "message": "tên và mã số của vật nuôi không rõ",
     "context": "The label next to the animal name selection button for unknown."
   },
   "cameraError": {
-    "message": "No camera detected by your web browser. You may opt to use your camera app instead.",
+    "message": "Không phát hiện máy ảnh  bởi trình duyệt web của bạn . Bạn có thể chọn để sử dụng ứng dụng máy ảnh của bạn để thay thế.",
     "context": "This toast notification is displayed when there is an error detecting the camera on the user device."
   },
   "browserLimitation": {
-    "message": "Your web browser does not support this feature.",
+    "message": "Trình duyệt web của bạn không hỗ trợ tính năng này .",
     "context": "This toast notification is displayed when a user attempts to use a feature that their web browser does not support."
   },
   "photoOnly": {
@@ -844,15 +844,15 @@
     "context": "This toast notification is displayed when a user attempts to use an unsupported image file format."
   },
   "reportChoicePhotoP": {
-    "message": "You may optionally add a photo to improve identification of this person.",
+    "message": "Bạn có thể tùy chọn thêm một bức ảnh để cải thiện việc nhận dạng người này.",
     "context": "Section titled telling user that they can add a photo for identification purposes."
   },
   "reportChoicePhotoA": {
-    "message": "You may optionally add a photo to improve identification of this animal.",
+    "message": "Bạn có thể tùy chọn thêm một bức ảnh để cải thiện việc nhận dạng vật nuôi này .",
     "context": "Section titled telling user that they can add a photo for identification purposes."
   },
   "reportChoicePhotoCapture": {
-    "message": "Capture",
+    "message": "Bắt",
     "context": "This is the button label used to capture a photograph using the device camera."
   },
   "reportChoicePhotoSelectFile": {
@@ -860,95 +860,97 @@
     "context": "This is the button label used to select an image file from local device storage."
   },
   "reportChoicePhotoTake": {
-    "message": "Take a Photo",
+    "message": "Chụp một tấm",
     "context": "This is the button label used to open the device camera before capturing an image."
   },
   "reportChoicePhotoDelete": {
-    "message": "Delete",
+    "message": "Xóa bỏ",
     "context": "This is the button label used to delete an image the user has already submitted."
   },
   "reportChoicePhotoHelp": {
-    "message": "Crop or rotate the photo if necessary.",
+    "message": "Cắt hoặc xoay hình ảnh nếu cần thiết.",
     "context": "This is the help text displayed below image manipulation controls informing the user how to alter the already submitted image."
   },
   "reportChoiceMapP": {
-    "message": "You may optionally specify a map point to assist others in locating this person.",
+    "message": "Bạn có thể tùy chọn chỉ định một điểm ở trên bản đồ để giúp đỡ người khác trong việc định vị người này.",
     "context": "This is the section header above the map used to specify a last known location."
   },
   "reportChoiceMapA": {
-    "message": "You may optionally specify a map point to assist others in locating this animal.",
+    "message": "Bạn có thể tùy chọn chỉ định một điểm ở trên bản đồ để giúp đỡ người khác trong việc định vị vật nuôi này .",
     "context": "This is the section header above the map used to specify a last known location."
   },
   "reportChoiceMapHelp": {
-    "message": "Drag the map marker to the last known location.",
+    "message": "Kéo điểm đánh dấu bản đồ đến vị trí cuối cùng được biết.",
     "context": "This is the help text below the last know location map informing a user what to do."
   },
   "information": {
-    "message": "Information",
+    "message": "Thông tin",
     "context": "This a label for a tab in the reporting wizard where a user enters free text about Last Known Information."
   },
   "submit": {
-    "message": "Submit",
+    "message": "Đệ trình",
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report."
   },
   "submitAnon": {
-    "message": "Submit Anonymously",
+    "message": "Đệ trình ẩn danh",
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report anonymously."
   },
   "reportChoiceInformation": {
-    "message": "Last Known Information",
+    "message": "Thông tin được biết cuối cùng",
     "context": "This is the section title for allowing the user to enter free text information about the person/animal."
   },
   "reportChoiceInformationHelpP": {
-    "message": "You may optionally provide any additional information that you feel would assist others in identifying or locating this person.",
+    "message": "Bạn có thể tùy chọn cung cấp bất kỳ thông tin bổ sung mà bạn cảm thấy sẽ giúp những người khác trong việc xác định hoặc định vị người này.",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the person."
   },
   "reportChoiceInformationHelpA": {
-    "message": "You may optionally provide any additional information that you feel would assist others in identifying or locating this animal.",
+    "message": "
+Bạn có thể tùy chọn cung cấp bất kỳ thông tin bổ sung mà bạn cảm thấy sẽ giúp những người khác trong việc xác định hoặc định vị hoặc con vật này.",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the animal."
   },
   "reportBeingSubmittedToast": {
-    "message": "Report being submitted ...",
+    "message": "Báo cáo được nộp ...",
     "context": "This toast notification will be displayed while the report is being sent in."
   },
   "reportSubmit": {
-    "message": "Submit Report",
+    "message": "Gửi báo cáo",
     "context": "This is the section title on the last page of the reporting wizard. The user will choose how to submit the report."
   },
   "explainSignInP": {
-    "message": "If you would like to be notified when additional information about this person becomes available, please sign in before submitting the report.",
+    "message": "Nếu bạn muốn được thông báo khi có thêm thông tin về người này, vui lòng đăng nhập trước khi gửi báo cáo.",
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSignInA": {
-    "message": "If you would like to be notified when additional information about this animal becomes available, please sign in before submitting the report.",
+    "message": "Nếu bạn muốn được thông báo khi có thêm thông tin về con vật này, vui lòng đăng nhập trước khi gửi báo cáo.",
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSubmitP": {
-    "message": "If you would like to be notified when additional information about this person becomes available, choose to submit the report now.",
+    "message": "Nếu bạn muốn được thông báo khi có thêm thông tin về người này, chọn để gửi báo cáo ngay bây giờ.",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainSubmitA": {
-    "message": "If you would like to be notified when additional information about this animal becomes available, choose to submit the report now.",
+    "message": "
+Nếu bạn muốn được thông báo khi có thêm thông tin về con vật này trở nên có sẵn , chọn để gửi báo cáo ngay bây giơ.̀",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainAnonP": {
-    "message": "Submit anonymously and you will not be notified when more information about this person becomes available.",
+    "message": "Gửi nặc danh và bạn sẽ không được thông báo khi có thêm thông tin về người này.",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "explainAnonA": {
-    "message": "Submit anonymously and you will not be notified when more information about this animal becomes available.",
+    "message": "Gửi nặc danh và bạn sẽ không được thông báo khi có thêm thông tin về con vật này.",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
-    "message": "Report Complete",
+    "message": "Hoàn thành báo cáo",
     "context": "This is the section title on the final page of the reporting wizard. The report has been completed."
   },
   "explainCopy1": {
-    "message": "This is the URL for your completed report. You may return to this URL at a later time to view updates and/or comments made to this record.",
+    "message": "Đây là địa chỉ cho hồ sơ hoàn tất của bạn . Bạn có thể quay trở lại URL này sau một thời gian để xem các cập nhật và / hoặc ý kiến đóng góp cho hồ sơ này.",
     "context": "We inform the user of the URL that corresponds to the report they just completed so that they may bookkmark or share it for later."
   },
   "explainCopy2": {
-    "message": "Copy this URL to your clipboard so that you can share or bookmark it.",
+    "message": "Sao chép URL này vào máy của bạn để bạn có thể chia sẻ hoặc đánh dấu nó.",
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
   }
 }
