@@ -903,7 +903,7 @@
 	"context": "This is the section title for allowing the user to enter free text information about the person/animal."
 	},
 	"reportChoiceInformationHelpP": {
-	"message": "" آپ اختیاری طور پر کوئی اضافی معلومات فراہم کر سکتے ہیں جس کے بارے میں آ پ کا خیال ہے کہ اس سے دوسروں کو اس آدمی کی شناخت کرنے یا اس کی تعیین کرنے میں مدد ملے گی۔",
+	"message": "آپ اختیاری طور پر کوئی اضافی معلومات فراہم کر سکتے ہیں جس کے بارے میں آ پ کا خیال ہے کہ اس سے دوسروں کو اس آدمی کی شناخت کرنے یا اس کی تعیین کرنے میں مدد ملے گی۔",
 	"context": "This is help text informing the user that the information they enter will assist in locating or identifying the person."
 	},
 	"reportChoiceInformationHelpA": {
