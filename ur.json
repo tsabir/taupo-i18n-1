@@ -110,11 +110,11 @@
 	"context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
 	},
 	"plusError21": {
-	"message": "نقص: پاس ورڈ میں لازمی طور پر ایک اَپر کیس حرف (A-Z) ہو
+	"message": "نقص: پاس ورڈ میں لازمی طور پر ایک اَپر کیس حرف (A-Z) ہو"
 	"context": "Error message presented when entered password does not contain at least one uppercase letter."
 	},
 	"plusError22": {
-	"message": "نقص: پاس ورڈ میں لازمی طور پر ایک لوور کیس (a-z) حرف ہو
+	"message": "نقص: پاس ورڈ میں لازمی طور پر ایک لوور کیس (a-z) حرف ہو"
 	"context": "Error message presented when entered password does not contain at least one lowercase letter."
 	},
 	"plusError23": {
