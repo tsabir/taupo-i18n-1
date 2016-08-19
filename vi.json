@@ -296,20 +296,20 @@
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "helpFindTitle": {
-    "message": "Giúp Tìm một người hoặc thú nuôi",
+    "message": "Help Locating a Person or Animal",
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "-- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE",
-    "context": "This is the help page article body describing in detail how to find/search for a person or pet."
+    "message": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. When you first arrive at PEOPLE LOCATOR, you are presented with a list of available disaster events. Each event has a name, a descriptive image related to the event, and some text describing the situation. If you scroll down, you will see there are a few different events from which you may select. Choose the event which you believe the person or animal you are trying to locate would most likely be associated with. For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, you would choose this event. You would select an event by tapping on the large green button under the image; this will take you directly to the search engine for this particular disaster event. A new search box will appear at the top after you have made your selection. Enter the name of the person you are attempting to locate in this search box. The search results update automatically with the most relevant results on near the top. You may acquire more information about by tapping on the details link near the bottom of any partuclar record, this opens a detail view. On this detail view, you may view more detailed record information, add a comment of your own, or begin following a record for updates.",
+    "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
-    "message": "Giúp báo cáo một người hoặc thú nuôi",
+    "message": "Help Reporting a Person or Animal",
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
-    "message": "-- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE",
-    "context": "This is the help page article body describing in detail how to report a person or pet."
+    "message": "If you are unable to locate the preson or animal you seek, then you should report this person to our PEOPLE LOCATOR registry. Once you have navigated into a disaster event, you will see a pink floating action button on the bottom right of the screen. Tapping this button will initiate the reporting process and launch you into a separate wizard that will guide you through the steps of completing a new report based on the information you provide us. Once completed, your report will be entered into our searchable registry and be publicly visible to others. Once you complete the report (if not reported anonymously) you will automatically begin to follow your own report for updates as they come into our registry. Others may comment on your record providing you with new information about the person or animal you reported. Since you are following this record, updates will be sent to you via email or push notifications.",
+    "context": "This is the help page article body describing in detail how to report a person or animal."
   },
   "pageAboutTextAbout": {
     "message": "Trang web này được cung cấp bởi Thư viện Y khoa Quốc gia ở Bethesda, Maryland. NLM là một phần của Viện Y khoa Quốc gia, Bộ Y tế và Dịch Vụ Nhân Sinh của Hoa Kỳ, và sứ mệnh của chúng tôi là phát triển và điều phối các công nghệ truyền thông để cải thiện việc cung cấp các dịch vụ y tế. Trang web này được cung cấp cho các mục đích nghiên cứu công dụng của các công cụ như vậy trong viec ứng phó với thiên tai. Các công nghệ cơ bản được phát triển thông qua các dự án Lost Person Finder, một phần đóng góp của NLM cho Bethesda Hospitals' Emergency Preparedness Partnership. Sự hợp tác này đã nhận được tài trợ liên bang ban đầu cho LPF và dự án NLM CNTT khác trong năm 2008. Dự án LPF hiện đang được hỗ trợ bởi Chương trình nghiên cứu nội của NIH, thông qua Trung tâm Quốc gia Lister Hill NLM cho khoa Biomedical Communications. Phát triển phần mềm đứng đầu boi Chi nhánh Kỹ thuật Truyền thông LHNCBC, với nội dung bổ sung từ Chi nhánh LHNCBC của  khoa Khoa học Máy tính và Trung tâm Nghiên cứu Quản lý thông tin ve thiên tai, một phần của Dịch vụ Thông tin chuyên ngành NLM.",
@@ -904,8 +904,7 @@
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the person."
   },
   "reportChoiceInformationHelpA": {
-    "message": "
-Bạn có thể tùy chọn cung cấp bất kỳ thông tin bổ sung mà bạn cảm thấy sẽ giúp những người khác trong việc xác định hoặc định vị hoặc con vật này.",
+    "message": "Bạn có thể tùy chọn cung cấp bất kỳ thông tin bổ sung mà bạn cảm thấy sẽ giúp những người khác trong việc xác định hoặc định vị hoặc con vật này.",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the animal."
   },
   "reportBeingSubmittedToast": {
@@ -929,8 +928,7 @@ Bạn có thể tùy chọn cung cấp bất kỳ thông tin bổ sung mà bạn
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainSubmitA": {
-    "message": "
-Nếu bạn muốn được thông báo khi có thêm thông tin về con vật này trở nên có sẵn , chọn để gửi báo cáo ngay bây giơ.̀",
+    "message": "Nếu bạn muốn được thông báo khi có thêm thông tin về con vật này trở nên có sẵn , chọn để gửi báo cáo ngay bây giơ.̀",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainAnonP": {
@@ -952,5 +950,41 @@ Nếu bạn muốn được thông báo khi có thêm thông tin về con vật 
   "explainCopy2": {
     "message": "Sao chép URL này vào máy của bạn để bạn có thể chia sẻ hoặc đánh dấu nó.",
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
+  },
+  "buddyIdentificationNumber": {
+    "message": "Buddy Identification Number",
+    "context": "This is the label to the Buddy Identification Number field which is displayed for animals."
+  },
+  "notifyRecordFollow": {
+    "message": "You are now following this record and will recieve updates as it changes or a comment is added",
+    "context": "This notification will appear after the user unfollows a record via the full record view."
+  },  
+  "notifyRecordUnfollow": {
+    "message": "You are no longer following this record",
+    "context": "This notification will appear after the user unfollows a record via the full record view."
+  },
+  "followStatusTrue": {
+    "message": "Following",
+    "context": "This label is displayed next to a toggle switch displaying that the user is folliwng the currently viewed record."
+  },
+  "followStatusFalse": {
+    "message": "Not Following",
+    "context": "This label is displayed next to a toggle switch displaying that the user is not folliwng the currently viewed record."
+  },
+  "followButtonExplain": {
+    "message": "Recieve a notification when a change is made to this record or a comment is added",
+    "context": "This label is displayed below the follow user toggle button explaining what the button does."
+  },
+  "followButtonAnon": {
+    "message": "To follow a record and recieve notifications when it is updated, you must first sign in",
+    "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
+  },
+  "longerComment": {
+    "message": "Please enter a longer comment",
+    "context": "The user is notified to enter a longer comment if it is too short"
+  },
+  "commentBeingSubmittedToast": {
+    "message": "Comment being submitted ...",
+    "context": "This toast notification will be displayed while the new comment is being sent in."
   }
 }

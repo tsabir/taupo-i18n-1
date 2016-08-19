@@ -296,20 +296,20 @@
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "helpFindTitle": {
-    "message": "Ayudar a buscar a una persona o animal doméstico",
+    "message": "Ayuda para localizar a una persona o animal",
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "-- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE",
-    "context": "This is the help page article body describing in detail how to find/search for a person or pet."
+    "message": "Si estás en la búsqueda de una persona desaparecida o animal, es posible que intenta localizarlos mediante la búsqueda en uno de nuestros eventos de desastre. Cuando llegas por primera vez en el localizador de personas, se le presentará con una lista de eventos de desastre disponibles. Cada evento tiene un nombre, una imagen descriptiva relacionada con el evento, y un texto que describe la situación. Si se desplaza hacia abajo, se ve que hay una serie de eventos diferentes desde los que puede seleccionar. Seleccione el evento que usted cree que la persona o animal que están tratando de localizar lo más probable ser asociado. Por ejemplo, si había un evento denominado terremoto de Haití y la persona que está buscando fue visto por última vez en Haití, que volvería a elegir este evento. Se podría seleccionar un evento pulsando en el botón verde grande debajo de la imagen; esto le llevará directamente al motor de búsqueda para este evento desastre en particular. Un nuevo cuadro de búsqueda aparecerá en la parte superior después de haber hecho su selección. Introduzca el nombre de la persona que está tratando de localizar en este cuadro de búsqueda. Los resultados de la búsqueda se actualizan automáticamente con los resultados más relevantes en la parte superior. Es posible adquirir más información acerca de un toque en los detalles vínculo cerca de la parte inferior de cualquier registro partuclar, esto abre una vista detallada. En esta vista detallada, puede consultar la información de registro más detallado, añadir un comentario de su cuenta, o comenzar a seguir un registro de cambios.",
+    "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
-    "message": "Informes para ayudar a una persona o animal doméstico",
+    "message": "Informes ayudar a una persona o animal",
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
-    "message": "-- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE",
-    "context": "This is the help page article body describing in detail how to report a person or pet."
+    "message": "Si no puede localizar el preson o animal que busca, entonces usted debe informar a esta persona a nuestro registro localizador de personas. Una vez que haya navegado en un evento de desastre, verá un botón de acción flotante de color rosa en la parte inferior derecha de la pantalla. Al pulsarlo, se iniciará el proceso de información y lanzarse a un asistente independiente que le guiará a través de los pasos de completar un nuevo informe basado en la información que nos proporcione. Una vez completado, se introduce su informe en el libro de registro de búsqueda y ser visible públicamente a los demás. Una vez que complete el informe (si no se informa de manera anónima) comenzará automáticamente para seguir su propio informe de actualizaciones a medida que entran en nuestro registro. Otros pueden comentar en su registro que le proporciona nueva información sobre la persona o animal que ha informado. Puesto que usted está siguiendo este registro, las actualizaciones se enviarán a través del correo electrónico o notificaciones push.",
+    "context": "This is the help page article body describing in detail how to report a person or animal."
   },
   "pageAboutTextAbout": {
     "message": "Esta aplicación  está proporcionada por la Biblioteca Nacional de Medicina de los Estados Unidos, en Bethesda, Maryland. NLM es parte de los Institutos Nacionales de Salud, Departamento de Salud y Servicios Humanos de los Estados Unidos, y tiene en su misión el desarrollo y la coordinación de la tecnología de la comunicación para mejorar la prestación de los servicios de salud. Este sitio se proporciona con el fin de estudiar la utilidad de este tipo de herramientas en respuesta a los desastres. La tecnología subyacente fue desarrollado a través del proyecto perdió el buscador persona, parte de la contribución de la NLM para Asociación de Preparación de Emergencia de los Hospitales de Bethesda. La asociación recibió fondos federales iniciales para LPF y otros proyectos de NLM de TI en 2008. El proyecto LPF está apoyado actualmente por el Programa de Investigación Intramural del NIH, a través del Centro Nacional Lister Hill de la NLM para las Comunicaciones Biomédicas. El desarrollo de software está encabezada por la Subdirección de  Comunicación de Ingeniería de LHNCBC, con contenido adicional de la rama de Ciencias Informáticas de LHNCBC y el Centro de Investigación de Desastres Gestión de la Información, parte de los Servicios Especializados de Información de la NLM.",
@@ -950,5 +950,41 @@
   "explainCopy2": {
     "message": "Copia esta URL en el portapapeles para que pueda compartir o marcarlo.",
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
+  },
+  "buddyIdentificationNumber": {
+    "message": "Número de Identificación de amigos",
+    "context": "This is the label to the Buddy Identification Number field which is displayed for animals."
+  },
+  "notifyRecordFollow": {
+    "message": "Ahora estás siguiendo este disco y recibirá actualizaciones a medida que cambia o se añade un comentario",
+    "context": "This notification will appear after the user unfollows a record via the full record view."
+  },  
+  "notifyRecordUnfollow": {
+    "message": "Que ya no están siguiendo este registro",
+    "context": "This notification will appear after the user unfollows a record via the full record view."
+  },
+  "followStatusTrue": {
+    "message": "Siguiendo",
+    "context": "This label is displayed next to a toggle switch displaying that the user is folliwng the currently viewed record."
+  },
+  "followStatusFalse": {
+    "message": "No seguir",
+    "context": "This label is displayed next to a toggle switch displaying that the user is not folliwng the currently viewed record."
+  },
+  "followButtonExplain": {
+    "message": "Recibir una notificación cuando se hace un cambio a este registro o se añade un comentario",
+    "context": "This label is displayed below the follow user toggle button explaining what the button does."
+  },
+  "followButtonAnon": {
+    "message": "Para seguir un registro y recibir notificaciones cuando se actualiza, debe firmar por primera vez en",
+    "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
+  },
+  "longerComment": {
+    "message": "Por favor, introduzca un comentario más largo",
+    "context": "The user is notified to enter a longer comment if it is too short"
+  },
+  "commentBeingSubmittedToast": {
+    "message": "Comentario al que se presentó ...",
+    "context": "This toast notification will be displayed while the new comment is being sent in."
   }
 }

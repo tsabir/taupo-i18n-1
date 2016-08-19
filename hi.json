@@ -296,20 +296,20 @@
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "helpFindTitle": {
-    "message": "एक व्यक्ति या पालतू जानवर की खोजने में मदद करें।" ,
+    "message": "Help Locating a Person or Animal",
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "-- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE",
-    "context": "This is the help page article body describing in detail how to find/search for a person or pet."
+    "message": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. When you first arrive at PEOPLE LOCATOR, you are presented with a list of available disaster events. Each event has a name, a descriptive image related to the event, and some text describing the situation. If you scroll down, you will see there are a few different events from which you may select. Choose the event which you believe the person or animal you are trying to locate would most likely be associated with. For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, you would choose this event. You would select an event by tapping on the large green button under the image; this will take you directly to the search engine for this particular disaster event. A new search box will appear at the top after you have made your selection. Enter the name of the person you are attempting to locate in this search box. The search results update automatically with the most relevant results on near the top. You may acquire more information about by tapping on the details link near the bottom of any partuclar record, this opens a detail view. On this detail view, you may view more detailed record information, add a comment of your own, or begin following a record for updates.",
+    "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
-    "message": "एक व्यक्ति या पालतू जानवर की रिपोर्टिंग में मदद करें।",
+    "message": "Help Reporting a Person or Animal",
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
-    "message": "-- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE -- PLACEHOLDER TEXT DO NOT TRANSLATE",
-    "context": "This is the help page article body describing in detail how to report a person or pet."
+    "message": "If you are unable to locate the preson or animal you seek, then you should report this person to our PEOPLE LOCATOR registry. Once you have navigated into a disaster event, you will see a pink floating action button on the bottom right of the screen. Tapping this button will initiate the reporting process and launch you into a separate wizard that will guide you through the steps of completing a new report based on the information you provide us. Once completed, your report will be entered into our searchable registry and be publicly visible to others. Once you complete the report (if not reported anonymously) you will automatically begin to follow your own report for updates as they come into our registry. Others may comment on your record providing you with new information about the person or animal you reported. Since you are following this record, updates will be sent to you via email or push notifications.",
+    "context": "This is the help page article body describing in detail how to report a person or animal."
   },
   "pageAboutTextAbout": {
     "message": "इस साइट संयुक्त राज्य अमेरिका कि राष्ट्रीय मेडिसिन पुस्तकालय, बेथेस्डा, मेरीलैंड (NLM) द्वारा प्रदान की जाती है। NLM स्वास्थ्य के राष्ट्रीय संस्थान, संयुक्त राज्य अमेरिका के स्वास्थ्य और मानव सेवा विभाग का भाग है और इसका  विशेष कार्य विकास और संचार प्रौद्योगिकी के समन्वय में स्वास्थ्य सेवाओं के वितरण में सुधार करने के लिए है। इस साइट के लिए आपदाओं का जवाब देने में ऐसे उपकरण की उपयोगिता का अध्ययन के उद्देश्य के लिए प्रदान की जाती है। अंतर्निहित प्रौद्योगिकी खोया व्यक्ति खोजक परियोजना, बेथेस्डा अस्पताल आपातकालीन तैयारियों साझेदारी में NLM के योगदान के भाग के माध्यम से विकसित किया गया था। साझेदारी प्रारंभिक संघीय LPF और अन्य NLM यह परियोजनाओं के लिए 2008 में धन प्राप्त किया। LPF परियोजना वर्तमान में बायोमेडिकल संचार के लिए राष्ट्रीय साक्षरता मिशन के लिस्टर हिल राष्ट्रीय केन्द्र के माध्यम से एनआईएच के अंदर का रिसर्च प्रोग्राम द्वारा समर्थित है। सॉफ्टवेयर विकास LHNCBC के कंप्यूटर विज्ञान शाखा और आपदा सूचना प्रबंधन अनुसंधान केन्द्र, राष्ट्रीय साक्षरता मिशन के विशेष सूचना सेवा के हिस्से से अतिरिक्त सामग्री के साथ LHNCBC का संचार इंजीनियरिंग शाखा के नेतृत्व में है ।",
@@ -950,5 +950,41 @@
   "explainCopy2": {
     "message": "Copy this URL to your clipboard so that you can share or bookmark it.",
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
+  },
+  "buddyIdentificationNumber": {
+    "message": "Buddy Identification Number",
+    "context": "This is the label to the Buddy Identification Number field which is displayed for animals."
+  },
+  "notifyRecordFollow": {
+    "message": "You are now following this record and will recieve updates as it changes or a comment is added",
+    "context": "This notification will appear after the user unfollows a record via the full record view."
+  },  
+  "notifyRecordUnfollow": {
+    "message": "You are no longer following this record",
+    "context": "This notification will appear after the user unfollows a record via the full record view."
+  },
+  "followStatusTrue": {
+    "message": "Following",
+    "context": "This label is displayed next to a toggle switch displaying that the user is folliwng the currently viewed record."
+  },
+  "followStatusFalse": {
+    "message": "Not Following",
+    "context": "This label is displayed next to a toggle switch displaying that the user is not folliwng the currently viewed record."
+  },
+  "followButtonExplain": {
+    "message": "Recieve a notification when a change is made to this record or a comment is added",
+    "context": "This label is displayed below the follow user toggle button explaining what the button does."
+  },
+  "followButtonAnon": {
+    "message": "To follow a record and recieve notifications when it is updated, you must first sign in",
+    "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
+  },
+  "longerComment": {
+    "message": "Please enter a longer comment",
+    "context": "The user is notified to enter a longer comment if it is too short"
+  },
+  "commentBeingSubmittedToast": {
+    "message": "Comment being submitted ...",
+    "context": "This toast notification will be displayed while the new comment is being sent in."
   }
 }
