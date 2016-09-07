@@ -568,7 +568,7 @@
     "context": "Sex = Male"
   },
   "sexFemale": {
-    "message": "Hembra",
+    "message": "Femenino",
     "context": "Sex = Female"
   },
   "sexOther": {
@@ -612,7 +612,7 @@
     "context": "The label for a button allowing a user to add a comment to a record."
   }, 
   "addCommentLabel": {
-    "message": "Añadir cualquier información adicional acerca de este registro es posible que tenga",
+    "message": "Agregar información adicional acerca de este registro.",
     "context": "This is the label below the add comment button explaining to a user what it does."
   },
   "followButton": {
@@ -656,7 +656,7 @@
     "context": "This is the window title when a new person or animal is being reported."
   },
   "reportChoicePA": {
-    "message": "¿Quieres reportar una persona o un animal?",
+    "message": "Desea crear un registro nuevo acerca de una persona o mascota?",
     "context": "This is the text option displayed for a user to choose and fill out either a person or animal report."
   },
   "person": {
@@ -672,11 +672,11 @@
     "context": "This is the text option displayed for a user to choose the status of the person they are reporting."
   },  
   "explainMissingP": {
-    "message": "persona se cree que falta",
+    "message": "Persona encontrada",
     "context": "The label next to the status selection button for missing."
   },
   "explainFoundP": {
-    "message": "persona ha sido declarada la salud desconocida",
+    "message": "La persona ha sido declarada en estado de salud desconocida",
     "context": "The label next to the status selection button for found."
   },
   "explainAliveP": {
@@ -684,11 +684,11 @@
     "context": "The label next to the status selection button for alive & well."
   },
   "explainInjuredP": {
-    "message": "persona ha sido encontrado y se lesionó",
+    "message": "La persona ha sido encontrada y esta lesionada",
     "context": "The label next to the status selection button for injured."
   },
   "explainDeceasedP": {
-    "message": "persona se ha encontrado y ha fallecido",
+    "message": "La persona ha sido encontrada y ha fallecido",
     "context": "The label next to the status selection button for deceased."
   },
   "explainUnknownP": {
@@ -748,7 +748,7 @@
     "context": "The label next to the person sex selection button for female."
   },
   "explainSexOtherP": {
-    "message": "el género de la persona es otra",
+    "message": "el género de la persona es otro",
     "context": "The label next to the person sex selection button for other."
   },
   "explainSexUnknownP": {
@@ -824,7 +824,7 @@
     "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
-    "message": "nombre de la persona es desconocida",
+    "message": "nombre de la persona es desconocido",
     "context": "The label next to the person name selection button for unknown."
   },
   "explainNameUnknownA": {
@@ -892,7 +892,7 @@
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report."
   },
   "submitAnon": {
-    "message": "Presentar de forma anónima",
+    "message": "Enviar el informe en forma anonima",
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report anonymously."
   },
   "reportChoiceInformation": {
@@ -900,7 +900,7 @@
     "context": "This is the section title for allowing the user to enter free text information about the person/animal."
   },
   "reportChoiceInformationHelpP": {
-    "message": "Usted puede proporcionar opcionalmente cualquier información adicional que usted considere que puede ayudar a otros a identificar o localizar a esta persona.",
+    "message": "De manera opcional puede proporcionar cualquier información adicional que considere pueda ayudar a otros a identificar o localizar a esta persona.",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the person."
   },
   "reportChoiceInformationHelpA": {
@@ -908,7 +908,7 @@
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the animal."
   },
   "reportBeingSubmittedToast": {
-    "message": "Informe que se presentó ...",
+    "message": "El informe ha sido enviado ...",
     "context": "This toast notification will be displayed while the report is being sent in."
   },
   "reportSubmit": {
@@ -916,7 +916,7 @@
     "context": "This is the section title on the last page of the reporting wizard. The user will choose how to submit the report."
   },
   "explainSignInP": {
-    "message": "Si desea que se le notifique cuando la información adicional sobre esta persona vuelve a estar disponible, inicia sesión antes de enviar el informe.",
+    "message": "Si desea que se le notifique de información adicional acerca de esta persona, por favor cree una cuenta para registrarse en el sistema.",
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSignInA": {
@@ -932,7 +932,7 @@
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainAnonP": {
-    "message": "Presentar de forma anónima y no se le notificará cuando haya más información acerca de esta persona esté disponible.",
+    "message": "Puede enviar el informe en forma anónima, no será notificado si hay información actualizada acerca de esta persona.",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "explainAnonA": {
@@ -944,11 +944,11 @@
     "context": "This is the section title on the final page of the reporting wizard. The report has been completed."
   },
   "explainCopy1": {
-    "message": "Esta es la URL de su informe completo. Usted puede volver a esta URL en un momento posterior para ver las actualizaciones y / o comentarios realizados a este registro.",
+    "message": "Esta es la dirección electrónica de su informe. Puede regresar a esta dirección para ver actualizaciones o comentarios adicionales acerca de este registro.",
     "context": "We inform the user of the URL that corresponds to the report they just completed so that they may bookkmark or share it for later."
   },
   "explainCopy2": {
-    "message": "Copia esta URL en el portapapeles para que pueda compartir o marcarlo.",
+    "message": "Copie esta dirección electrónica al portapapeles para compartirla o marcarla.",
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
   },
   "buddyIdentificationNumber": {
@@ -976,7 +976,7 @@
     "context": "This label is displayed below the follow user toggle button explaining what the button does."
   },
   "followButtonAnon": {
-    "message": "Para seguir un registro y recibir notificaciones cuando se actualiza, debe firmar por primera vez en",
+    "message": "Para seguir un registro y recibir notificaciones de actualizacion debe crear una cuenta",
     "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
   },
   "longerComment": {
