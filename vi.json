@@ -952,39 +952,39 @@
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
   },
   "buddyIdentificationNumber": {
-    "message": "Buddy Identification Number",
+    "message": "Số Nhận dạng Buddy",
     "context": "This is the label to the Buddy Identification Number field which is displayed for animals."
   },
   "notifyRecordFollow": {
-    "message": "You are now following this record and will recieve updates as it changes or a comment is added",
+    "message": "Bây giờ bạn đang theo dõi hồ sơ này và sẽ nhận được bản cập nhật neu như nó thay đổi hoặc một bình luận được thêm",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },  
   "notifyRecordUnfollow": {
-    "message": "You are no longer following this record",
+    "message": "Bạn không còn theo dõi hồ sơ này",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },
   "followStatusTrue": {
-    "message": "Following",
+    "message": "Đang theo dõi",
     "context": "This label is displayed next to a toggle switch displaying that the user is folliwng the currently viewed record."
   },
   "followStatusFalse": {
-    "message": "Not Following",
+    "message": "Không theo dõi",
     "context": "This label is displayed next to a toggle switch displaying that the user is not folliwng the currently viewed record."
   },
   "followButtonExplain": {
-    "message": "Recieve a notification when a change is made to this record or a comment is added",
+    "message": "Nhận thông báo khi có sự thay đổi cho  hồ sơ này hoặc một bình luận được bổ sung",
     "context": "This label is displayed below the follow user toggle button explaining what the button does."
   },
   "followButtonAnon": {
-    "message": "To follow a record and recieve notifications when it is updated, you must first sign in",
+    "message": "Để theo dõi một hồ sơ và nhận thông báo khi nó được cập nhật, đầu tiên bạn phải đăng nhập",
     "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
   },
   "longerComment": {
-    "message": "Please enter a longer comment",
+    "message": "Vui lòng nhập một bình luận dài hơn",
     "context": "The user is notified to enter a longer comment if it is too short"
   },
   "commentBeingSubmittedToast": {
-    "message": "Comment being submitted ...",
+    "message": "Bình luận được gửi ...",
     "context": "This toast notification will be displayed while the new comment is being sent in."
   }
 }
