@@ -308,7 +308,7 @@
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
-    "message": "Si no puede localizar el preson o animal que busca, entonces usted debe informar a esta persona a nuestro registro localizador de personas. Una vez que haya navegado en un evento de desastre, verá un botón de acción flotante de color rosa en la parte inferior derecha de la pantalla. Al pulsarlo, se iniciará el proceso de información y lanzarse a un asistente independiente que le guiará a través de los pasos de completar un nuevo informe basado en la información que nos proporcione. Una vez completado, se introduce su informe en el libro de registro de búsqueda y ser visible públicamente a los demás. Una vez que complete el informe (si no se informa de manera anónima) comenzará automáticamente para seguir su propio informe de actualizaciones a medida que entran en nuestro registro. Otros pueden comentar en su registro que le proporciona nueva información sobre la persona o animal que ha informado. Puesto que usted está siguiendo este registro, las actualizaciones se enviarán a través del correo electrónico o notificaciones push.",
+    "message": "Si no puede localizar a la persona o mascota que busca, entonces usted debe informar acerca de esta persona en el  registro localizador de personas. Una vez que haya navegado al evento o desastre dentro de la aplicación, verá un botón de acción flotante de color rosa en la parte inferior derecha de la pantalla. Al pulsarlo, se iniciará el proceso de información e inicia un asistente independiente que le guiará a través de los pasos para  completar un nuevo informe basado en la información que proporcione. Una vez completado, se introduce su informe en el libro de registro de búsqueda y es visible públicamente. Una vez que complete el informe (si no se informa de manera anónima) comenzará automáticamente a seguir su propio informe y recibirá informes de las  actualizaciones a medida que son entradas en el registro. Otras personas pueden hacer comentarios en su registro lo cual  proporcionara nueva información sobre la persona o mascota. Puesto que usted está siguiendo este registro, las actualizaciones se enviarán a través del correo electrónico o notificaciones push.",
     "context": "This is the help page article body describing in detail how to report a person or animal."
   },
   "pageAboutTextAbout": {
@@ -952,11 +952,11 @@
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
   },
   "buddyIdentificationNumber": {
-    "message": "Número de Identificación de amigos",
+    "message": "Número de Identificación de mascotas, si existe",
     "context": "This is the label to the Buddy Identification Number field which is displayed for animals."
   },
   "notifyRecordFollow": {
-    "message": "Ahora estás siguiendo este disco y recibirá actualizaciones a medida que cambia o se añade un comentario",
+    "message": "Ahora estás siguiendo este registro y recibirá actualizaciones a medida que cambia o se añade un comentario",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },  
   "notifyRecordUnfollow": {
