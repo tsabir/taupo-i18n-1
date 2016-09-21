@@ -680,7 +680,7 @@
     "context": "The label next to the status selection button for found."
   },
   "explainAliveP": {
-    "message": "persona ha sido encontrado y está bien",
+    "message": "La persona ha sido encontrado y está bien",
     "context": "The label next to the status selection button for alive & well."
   },
   "explainInjuredP": {
@@ -692,7 +692,7 @@
     "context": "The label next to the status selection button for deceased."
   },
   "explainUnknownP": {
-    "message": "se busca información sobre la persona",
+    "message": "Se busca información sobre la persona",
     "context": "The label next to the status selection button for unknown."
   },  
   "location": {
@@ -740,15 +740,15 @@
     "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
   },
   "explainSexMaleP": {
-    "message": "el género de la persona es de sexo masculino",
+    "message": "El género de la persona es de sexo masculino",
     "context": "The label next to the person sex selection button for male."
   },
   "explainSexFemaleP": {
-    "message": "el género de la persona es de sexo femenino",
+    "message": "El género de la persona es de sexo femenino",
     "context": "The label next to the person sex selection button for female."
   },
   "explainSexOtherP": {
-    "message": "el género de la persona es otro",
+    "message": "El género de la persona es otro",
     "context": "The label next to the person sex selection button for other."
   },
   "explainSexUnknownP": {
@@ -804,7 +804,7 @@
     "context": "This is the section title displayed for a user to enter the name and/or the buddy identification number of the animal they are reporting."
   },
   "explainNameP": {
-    "message": "nombre de la persona",
+    "message": "Nombre de la persona",
     "context": "The text label for name entry of a person."
   },
   "explainNameA": {
@@ -824,7 +824,7 @@
     "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
-    "message": "nombre de la persona es desconocido",
+    "message": "Nombre de la persona es desconocido",
     "context": "The label next to the person name selection button for unknown."
   },
   "explainNameUnknownA": {
