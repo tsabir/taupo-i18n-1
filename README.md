@@ -34,7 +34,7 @@ msg-id: <i>linkFollowUs</i><br>
 If you feel that you can improve upon this translation, edit the word, phrase, or sentence contained in the message body. In this example, the only thing you should change is the message body which is highlighted in bold: <b>Follow Us</b>. You should not change anything else. The context here is provided to help you propose a better translation by offering a little more information on how, where, and what this particular translation (string) is used for.<br>
 <br>
 <table><tr><td>
-"<i>chosenLangiage</i>": {<br>
+"<i>chosenLanguage</i>": {<br>
 &nbsp;&nbsp;"<i>message</i>": "<b>Spanish</b>",<br>
 &nbsp;&nbsp;"<i>context</i>": "When a language is chosen by a user, this is the word displayed to describe the chosen language."<br>
 }</td></tr></table>
