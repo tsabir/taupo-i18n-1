@@ -986,5 +986,25 @@
   "commentBeingSubmittedToast": {
     "message": "Bình luận được gửi ...",
     "context": "This toast notification will be displayed while the new comment is being sent in."
+  },
+  "eventInvalid": {
+    "message": "This event does not exist.",
+    "context": "If the user comes to the site with a direct URL linking to an invalid event, this toast notification will appear."
+  },
+  "moduleInvalid": {
+    "message": "This module does not exist.",
+    "context": "If the user attempts to access a non-existant portion of the site (very unlikely) this toast notification will appear."
+  },
+  "moduleAccess": {
+    "message": "You do not have permission to access this module.",
+    "context": "If the user attempts to access a portion of the site they do not have permission for, this toast notification will appear."
+  },
+  "copyTrue": {
+    "message": "URL copied to clipboard.",
+    "context": "After the user clicks on the copy to clipboard button, if successful, this toast notification will appear."
+  },
+  "copyFalse": {
+    "message": "Failed to copy URL to clipboard.",
+    "context": "After the user clicks on the copy to clipboard button, if unsuccessful, this toast notification will appear."
   }
 }

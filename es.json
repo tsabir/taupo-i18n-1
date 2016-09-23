@@ -986,5 +986,25 @@
   "commentBeingSubmittedToast": {
     "message": "Comentario al que se presentó ...",
     "context": "This toast notification will be displayed while the new comment is being sent in."
+  },
+  "eventInvalid": {
+    "message": "Este evento no existe.",
+    "context": "If the user comes to the site with a direct URL linking to an invalid event, this toast notification will appear."
+  },
+  "moduleInvalid": {
+    "message": "Este módulo no existe.",
+    "context": "If the user attempts to access a non-existant portion of the site (very unlikely) this toast notification will appear."
+  },
+  "moduleAccess": {
+    "message": "Usted no tiene permiso para acceder a este módulo.",
+    "context": "If the user attempts to access a portion of the site they do not have permission for, this toast notification will appear."
+  },
+  "copyTrue": {
+    "message": "URL copiado al portapapeles.",
+    "context": "After the user clicks on the copy to clipboard button, if successful, this toast notification will appear."
+  },
+  "copyFalse": {
+    "message": "No se pudo copiar la URL en el portapapeles.",
+    "context": "After the user clicks on the copy to clipboard button, if unsuccessful, this toast notification will appear."
   }
 }
