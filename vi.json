@@ -296,19 +296,19 @@
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "helpFindTitle": {
-    "message": "Help Locating a Person or Animal",
+    "message": "Giúp định vị một người hoặc thú vật",
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. When you first arrive at PEOPLE LOCATOR, you are presented with a list of available disaster events. Each event has a name, a descriptive image related to the event, and some text describing the situation. If you scroll down, you will see there are a few different events from which you may select. Choose the event which you believe the person or animal you are trying to locate would most likely be associated with. For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, you would choose this event. You would select an event by tapping on the large green button under the image; this will take you directly to the search engine for this particular disaster event. A new search box will appear at the top after you have made your selection. Enter the name of the person you are attempting to locate in this search box. The search results update automatically with the most relevant results on near the top. You may acquire more information about by tapping on the details link near the bottom of any partuclar record, this opens a detail view. On this detail view, you may view more detailed record information, add a comment of your own, or begin following a record for updates.",
+    "message": "Nếu bạn đang tìm kiếm một người mất tích hoặc vật nuôi, bạn có thể cố gắng để xác định vị trí chúng bằng cách tìm kiếm một trong những sự kiện thảm họa của chúng tôi. Khi bạn lần đầu tiên đến PEOPLE LOCATOR, bạn sẽ thấy một danh sách các sự kiện thiên tai có sẵn. Mỗi sự kiện có một cái tên, một hình ảnh mô tả liên quan đến sự kiện này, và một số văn bản mô tả tình hình. Nếu bạn di chuyển xuống, bạn sẽ thấy có một vài sự kiện khác nhau mà từ đó bạn có thể lựa chọn. Chọn một sự kiện mà bạn tin rằng người hoặc vật nuôi bạn đang cố gắng xác định vị trí có thể liên quan. Ví dụ, nếu có một sự kiện có tên Haiti Earthquake và người mà bạn đang tìm kiếm đã được nhìn thấy lần cuối ở Haiti, bạn sẽ chọn sự kiện này. Bạn sẽ chọn một sự kiện bằng cách bấm vào nút màu xanh lá cây lớn dưới hình ảnh; điều này sẽ đưa bạn trực tiếp đến các công cụ tìm kiếm cho sự kiện thảm họa đặc biệt này. Hộp tìm kiếm mới sẽ xuất hiện ở trên đầu trang sau khi bạn đã chọn một sự kiện . Nhập tên của người mà bạn đang cố gắng xác định vị trí trong hộp tìm kiếm này. Các kết quả tìm kiếm tự động cập nhật với kết quả phù hợp nhất trên gần đầu trang. Bạn có thể có được nhiều thông tin về bằng cách khai thác trên các chi tiết liên kết gần cuối của bất cứ hồ sơ nào, điều này mở ra một hồ sơ chi tiết. Vào xem chi tiết này, bạn có thể xem thông tin hồ sơ chi tiết hơn, thêm nhận xét của riêng bạn, hoặc bắt đầu theo dõi một hồ sơ nếu có cập nhật.",
     "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
-    "message": "Help Reporting a Person or Animal",
+    "message": "Giúp báo cáo một người hoặc vật nuôi",
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
-    "message": "If you are unable to locate the preson or animal you seek, then you should report this person to our PEOPLE LOCATOR registry. Once you have navigated into a disaster event, you will see a pink floating action button on the bottom right of the screen. Tapping this button will initiate the reporting process and launch you into a separate wizard that will guide you through the steps of completing a new report based on the information you provide us. Once completed, your report will be entered into our searchable registry and be publicly visible to others. Once you complete the report (if not reported anonymously) you will automatically begin to follow your own report for updates as they come into our registry. Others may comment on your record providing you with new information about the person or animal you reported. Since you are following this record, updates will be sent to you via email or push notifications.",
+    "message": "Nếu bạn không thể xác định vị trí của người hoặc vật nuôi mà bạn tìm kiếm, bạn nên báo cáo người này để đăng ký với 'PEOPLE LOCATOR' của chúng tôi. Một khi bạn đã hướng vào một sự kiện thiên tai, bạn sẽ thấy một nút nổi màu hồng trên góc dưới bên phải của màn hình. Vổ nhẹ vào nút này sẽ bắt đầu quá trình báo cáo và khởi động bạn vào một thuật sĩ riêng biệt để hướng dẫn bạn qua các bước hoàn thành một hồ sơ mới dựa trên những thông tin bạn cung cấp cho chúng tôi. Sau khi hoàn thành, hồ sơ của bạn sẽ được nhập vào sở trước bạ tìm kiếm của chúng tôi và có thể được hiển thị công khai cho người khác. Một khi bạn hoàn thành hồ sơ (nếu không được báo cáo nặc danh), bạn sẽ tự động bắt đầu theo dõi hồ sơ của riêng bạn để cập nhật khi họ đi vào sở trước bạ của chúng tôi. Người khác có thể nhận xét về hồ sơ của bạn cung cấp cho bạn những thông tin mới về người hoặc vật nuôi bạn báo cáo. Vì bạn đang theo dõi hồ sơ này, bản cập nhật sẽ được gửi cho bạn qua email hoặc thông báo.",
     "context": "This is the help page article body describing in detail how to report a person or animal."
   },
   "pageAboutTextAbout": {
@@ -592,7 +592,7 @@
     "context": "Status is Injured"
   },
   "statusAlive": {
-    "message": "Còn sống & khoẻ mạnh",
+    "message": "Còn sống",
     "context": "Status is Alive and Well"
   },
   "statusUnknown": {
@@ -656,7 +656,7 @@
     "context": "This is the window title when a new person or animal is being reported."
   },
   "reportChoicePA": {
-    "message": "Bạn có muốn báo cáo một người hay một thú nuôi?",
+    "message": "Bạn có muốn báo cáo một người hay một vật nuôi?",
     "context": "This is the text option displayed for a user to choose and fill out either a person or animal report."
   },
   "person": {
@@ -988,23 +988,23 @@
     "context": "This toast notification will be displayed while the new comment is being sent in."
   },
   "eventInvalid": {
-    "message": "This event does not exist.",
+    "message": "Sự kiện này không tồn tại.",
     "context": "If the user comes to the site with a direct URL linking to an invalid event, this toast notification will appear."
   },
   "moduleInvalid": {
-    "message": "This module does not exist.",
+    "message": "Module này không tồn tại.",
     "context": "If the user attempts to access a non-existant portion of the site (very unlikely) this toast notification will appear."
   },
   "moduleAccess": {
-    "message": "You do not have permission to access this module.",
+    "message": "Bạn không có quyền truy cập vào module này.",
     "context": "If the user attempts to access a portion of the site they do not have permission for, this toast notification will appear."
   },
   "copyTrue": {
-    "message": "URL copied to clipboard.",
+    "message": "URL được sao chép vào clipboard.",
     "context": "After the user clicks on the copy to clipboard button, if successful, this toast notification will appear."
   },
   "copyFalse": {
-    "message": "Failed to copy URL to clipboard.",
+    "message": "Không sao chép URL vào clipboard được.",
     "context": "After the user clicks on the copy to clipboard button, if unsuccessful, this toast notification will appear."
   }
 }
