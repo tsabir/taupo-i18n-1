@@ -200,103 +200,103 @@
     "context": "This is the text label for the forgot my password button on the login dialog."
   },
   "pad1loginUsernamePlaceholder": {
-    "message": "Username",
+    "message": "صارف نام",
     "context": "This is the placeholder text for the username input."
   },
   "pad1loginPasswordPlaceholder": {
-    "message": "Password",
+    "message": "پاس ورڈ",
     "context": "This is the placeholder text for the password input."
   },
   "pad1registerEmailPlaceholder": {
-    "message": "Email",
+    "message": "ای میل",
     "context": "This is the placeholder text for the email input."
   },
   "pad1registerText": {
-    "message": "Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
+    "message": "آپ کے پاس ورڈ میں لازمی طور پر ایک عدد، ایک لوورکیس حرف، اورایک اَپر کیس حرف ہو، اور وہ لازماً 8-16 کیریکٹر لمبا ہو۔",
     "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
   },
   "pad2notice": {
-    "message": "Notice",
+    "message": "نوٹِس",
     "context": "This is the first word of the OMB notice."
   },
   "pad2submission": {
-    "message": "Submission of information is voluntary. All submitted information will be made publicly available.",
+    "message": "معلومات کی جمع کاری رضاکارانہ ہے۔ جمع کردہ ساری معلومات عوامی طور پر دستیاب ہوں گی۔",
     "context": "These are the first two sentences of the OMB notice."
   },
   "pad2text": {
-    "message": "Public reporting burden for this collection of information is estimated to average 3 minutes per response. This estimate includes the time for reviewing instructions, gathering, and entering data. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing this burden, to:",
+    "message": "معلومات کے اس مجموعہ کے لیے عوامی رپورٹنگ کا بوجھ تخمینہ کے مطابق فی جواب اوسط 3 منٹ ہے۔ یہ تخمینہ ہدایات کا جائزہ لینے، اکٹھا کرنے، اور ڈیٹا کا اندراج کرنے میں لگنے والے وقت کو شامل ہے۔ کوئی ایجنسی معلومات کے ایک مجموعہ کا انتظام یا اسے اسپانسر نہیں کر سکتی ہے، اور کسی شخص سے اس کا جواب دینا مطلوب نہیں ہے، یہاں تک کہ یہ موجودہ وقت میں درست OMB نمبر ظاہر کرے۔ بوجھ کے اس تخمینہ یا معلومات کے اس مجموعہ کے کسی پہلو، بشمول اس بوجھ کو کم کرنے کے مشورے، کے تعلق سے تبصرے بھیجیں:",
     "context": "This is the main paragraph of the OMB notice."
   },
   "pad2sub": {
-    "message": "I have read this and agree.",
+    "message": "میں نے اس کو پڑھ لیا ہے اور اس سے اتفاق کرتا ہوں۔",
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
-    "message": "Following Records",
+    "message": "ریکارڈوں کی پیروی",
     "context": "This is the name of the first tab of user preferences that shows which records a user is following."
   },
   "pad3settings": {
-    "message": "Settings",
+    "message": "ترتیبات",
     "context": "This is the name of the second tab of user preferences that shows user settings."
   },
   "pad3loading": {
-    "message": "Loading",
+    "message":  "لوڈ کر رہا",
     "context": "This word is displayed when the following records tab is loading results from the server."
   },
   "pad3emptyFollow": {
-    "message": "You are not following any records.",
+    "message": "آپ کسی ریکارڈ کی پیروی نہیں کر رہے ہیں۔",
     "context": "This verbiage is displayed when the following records panel is displayed and the user is not following any records."
   },
   "pad3unFollow": {
-    "message": "Unfollow",
+    "message": "پیروی ختم کریں",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
   "pad3subStatusUnsubscribed": {
-    "message": "UNSUBSCRIBED",
+    "message": "رکنیت ختم کی گئی",
     "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
   },
   "pad3subStatusSubscribed": {
-    "message": "SUBSCRIBED",
+    "message": "رکنیت اختیارکی گئی",
     "context": "This text label tells the status of the user being subscribed to recieve notifications."
   },
   "pad3subscribeTo": {
-    "message": "Subscribe to notifications",
+    "message":  "اطلاعات کے لیے رکنیت اختیار کریں",
     "context": "This is the title text to the section that allows a user to opt-in to recieve push notifications."
   },
   "pad3Time": {
-    "message": "From time to time, we may send out notifications to our users when a new event is created.",
+    "message": "وقتاً فوقتاً، جب کوئی نیا وقوعہ تخلیق ہوگا تو ہم اپنے صارفین کو اطلاعات بھیجیں گے۔",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3changePasswordButton": {
-    "message": "Change Password",
+    "message": "پاس ورڈ تبدیل کریں",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3passwordRequirements": {
-    "message": "Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
+    "message": "آپ کے پاس ورڈ میں لازمی طور پر ایک عدد، ایک لوور کیس حرف، ایک اَپر کیس حرف ہو، اور وہ لازماً 8-16 کیریکٹر لمبا ہو۔",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3oldPasswordPlaceholder": {
-    "message": "Old Password",
+    "message": "پرانا پاس ورڈ",
     "context": "This is the placeholder text for the old password input."
   },
   "pad3newPassword1Placeholder": {
-    "message": "New Password",
+    "message": "نیا پاس ورڈ",
     "context": "This is the placeholder text for the new password input."
   },
   "pad3newPassword2Placeholder": {
-    "message": "New Password Again",
+    "message": "نیا پاس ورڈ دوبارہ",
     "context": "This is the placeholder text for the new password again input."
   },
     "pushNotificationsUnsupported": {
-    "message": "Your browser does not support push notifications.",
+    "message": "آپ کا براؤزر اس طرح کی اطلاعات کو سپورٹ نہیں کرتا ہے۔",
     "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
-    "message": "You prohibited this site from displaying notifications. You must re-enable this permission to use this feature.",
+    "message": "آپ نے اس سائٹ کو اطلاعات ظاہر کرنے سے منع کیا تھا۔ اس فیچر کو استعمال کرنے کے لیے آپ کو یہ اجازت دوبارہ فعال کرنی ہو گی۔",
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "helpFindTitle": {
-    "message": "Help Locating a Person or Animal",
+    "message": "آدمی یا پالتو جانور کو پانے میں مدد",
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
@@ -304,7 +304,7 @@
     "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
-    "message": "Help Reporting a Person or Animal",
+    "message": "آدمی یا پالتو جانور کی رپورٹ کرنے میں مدد",
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
