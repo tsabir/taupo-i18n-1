@@ -1,38 +1,38 @@
 {
   "languageSelector": {
-    "message": "Language",
+    "message": "زبان",
     "context": "Language as a single word used in the langiage selection menu."
   },
   "chosenLanguage": {
-    "message": "English",
+    "message": "انگریزی",
     "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
   },
   "signIn": {
-    "message": "Sign In",
+    "message": "سائن اِن کریں",
     "context": "A button that when clicked allows a user to login or register."
   },
   "logout": {
-    "message": "Logout",
+    "message": "لاگ آؤٹ کریں",
     "context": "A label for a button allowing a user to logout."
   },
   "administration": {
-    "message": "Administration",
+    "message": "انتظام",
     "context": "A label for a button allowing a user to access the Administraion module."
   },
   "linkHelp": {
-    "message": "Help",
+    "message": "مدد",
     "context": "This is the text for a link to the Help page."
   },
   "linkAbout": {
-    "message": "About",
+    "message": "بارے میں",
     "context": "The link text for the About link."
   },
   "linkPrivacy": {
-    "message": "Privacy",
+    "message": "رازداری",
     "context": "The link text for the Privacy link."
   },
   "linkAccessibility": {
-    "message": "Accessibility",
+    "message": "رسائی",
     "context": "The link text for the Accessibility link."
   },
   "linkContact": {
