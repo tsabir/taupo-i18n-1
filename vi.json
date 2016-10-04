@@ -1,4 +1,4 @@
-{
+
   "languageSelector": {
     "message": "Ngôn Ngữ",
     "context": "Language as a single word used in the language selection menu."
@@ -44,7 +44,7 @@
     "context": "The link text for the Apps link."
   },
   "linkResources": {
-    "message": "Nguồn năng lực",
+    "message": "Phương sách",
     "context": "The link text for the Resources link."
   },
   "linkFollowUs": {
@@ -296,7 +296,7 @@
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "helpFindTitle": {
-    "message": "Giúp định vị một người hoặc thú vật",
+    "message": "Giúp định vị một người hoặc vật nuôi",
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
@@ -460,7 +460,7 @@
     "context": "The title of the 3rd tab allowing someone to Report a new person or pet."
   },
   "tagline": {
-    "message": "Tìm và báo cáo mất tích gia đình, bạn bè, và thú nuôi trong thiên tai.",
+    "message": "Tìm và báo cáo mất tích gia đình, bạn bè, và vật nuôi trong thiên tai.",
     "context": "The tagline is the summary of what the application is for."
   },
   "eventRetired": {
@@ -548,7 +548,7 @@
     "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
   },
   "eventListFindReportButton": {
-    "message": "Tìm / Báo cáo một người hoặc thú nuôi",
+    "message": "Tìm / Báo cáo một người hoặc vật nuôi",
     "context": "This is the button text on the home page to Find or Report a person or animal."
   },
   "searchPlaceholder": {
@@ -664,7 +664,7 @@
     "context": "This is the text label on a button a user presses to choose a person report."
   },
   "animal": {
-    "message": "Thú nuôi",
+    "message": "Vật nuôi",
     "context": "This is the text label on a button a user presses to choose an animal report."
   },
   "reportChoiceStatusP": {
