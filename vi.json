@@ -8,7 +8,7 @@
     "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
   },
   "signIn": {
-    "message": "Đăng nhập hoặc Đăng ký",
+    "message": "Đăng nhập hoặc Ghi danh",
     "context": "A button that when clicked allows a user to login or register."
   },
   "logout": {
@@ -156,7 +156,7 @@
     "context": "This notification will appear after the user newly registers and is automatically logged in."
   },
   "notifyRegistering": {
-    "message": "Đăng ký...",
+    "message": "Ghi danh...",
     "context": "This notification will appear briefly as the system registers and creates a new account for the user."
   },
   "notifyPasswordChanged": {
@@ -256,11 +256,11 @@
     "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
   },
   "pad3subStatusSubscribed": {
-    "message": "Đăng ký thuê bao",
+    "message": "Ghi danh thuê bao",
     "context": "This text label tells the status of the user being subscribed to recieve notifications."
   },
   "pad3subscribeTo": {
-    "message": "Đăng ký để được thông báo",
+    "message": "Ghi danh để được thông báo",
     "context": "This is the title text to the section that allows a user to opt-in to recieve push notifications."
   },
   "pad3Time": {
@@ -568,7 +568,7 @@
     "context": "Sex = Male"
   },
   "sexFemale": {
-    "message": "Phụ nữ",
+    "message": "Nữ giới",
     "context": "Sex = Female"
   },
   "sexOther": {
