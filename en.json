@@ -300,7 +300,7 @@
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. When you first arrive at PEOPLE LOCATOR, you are presented with a list of available disaster events. Each event has a name, a descriptive image related to the event, and some text describing the situation. If you scroll down, you will see there are a few different events from which you may select. Choose the event which you believe the person or animal you are trying to locate would most likely be associated with. For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, you would choose this event. You would select an event by tapping on the large green button under the image; this will take you directly to the search engine for this particular disaster event. A new search box will appear at the top after you have made your selection. Enter the name of the person you are attempting to locate in this search box. The search results update automatically with the most relevant results on near the top. You may acquire more information about by tapping on the details link near the bottom of any partuclar record, this opens a detail view. On this detail view, you may view more detailed record information, add a comment of your own, or begin following a record for updates.",
+    "message": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. When you first arrive at PEOPLE LOCATOR, you are presented with a list of available disaster events. Each event has a name, a descriptive image related to the event, and some text describing the situation. If you scroll down, you will see there are a few different events from which you may select. Choose the event which you believe the person or animal you are trying to locate would most likely be associated with. For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, you would choose this event. You would select an event by tapping/clicking on the large green button under the image; this will take you directly to the search engine for this particular disaster event. A new search box will appear at the top after you have made your selection. Enter the name of the person you are attempting to locate in this search box. The search results update automatically with the most relevant results on near the top. You may acquire more information about by tapping on the details link near the bottom of any partuclar record, this opens a detail view. On this detail view, you may view more detailed record information, add a comment of your own, or begin following a record for updates.",
     "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
@@ -308,7 +308,7 @@
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
-    "message": "If you are unable to locate the preson or animal you seek, then you should report this person to our PEOPLE LOCATOR registry. Once you have navigated into a disaster event, you will see a pink floating action button on the bottom right of the screen. Tapping this button will initiate the reporting process and launch you into a separate wizard that will guide you through the steps of completing a new report based on the information you provide us. Once completed, your report will be entered into our searchable registry and be publicly visible to others. Once you complete the report (if not reported anonymously) you will automatically begin to follow your own report for updates as they come into our registry. Others may comment on your record providing you with new information about the person or animal you reported. Since you are following this record, updates will be sent to you via email or push notifications.",
+    "message": "If you are unable to locate the preson or animal you seek, then you should report this person or animal to our PEOPLE LOCATOR registry. Once you have navigated into a disaster event, you will see a pink floating action button on the bottom right of the screen. Tapping/clicking this button will initiate the reporting process and launch you into a separate wizard that will guide you through the steps of completing a new report based on the information you provide us. Once completed, your report will be entered into our searchable registry and be publicly visible to others. Once you complete the report (if not reported anonymously) you will automatically begin to follow your own report for updates as they come into our registry. Others may comment on your record providing you with new information about the person or animal you reported. Since you are following this record, updates will be sent to you via email or push notifications.",
     "context": "This is the help page article body describing in detail how to report a person or animal."
   },
   "pageAboutTextAbout": {
@@ -1006,5 +1006,17 @@
   "copyFalse": {
     "message": "Failed to copy URL to clipboard.",
     "context": "After the user clicks on the copy to clipboard button, if unsuccessful, this toast notification will appear."
+  },
+  "userConfirmActive": {
+    "message": "Your email address is now confirmed and your user account activated.",
+    "context": "When the user visits a confirmation link emailed to them, this toast notification will appear informing the user that their account is now active and email address verified."
+  },
+  "userConfirmInvalid": {
+    "message": "This confirmation link is invalid.",
+    "context": "When the user vists an invalid email address confirmation link or an invalid password reset confirmation link, this toast notification will appear."
+  },
+  "userPasswordTwo": {
+    "message": "A new password has been emailed to you.",
+    "context": "When the user visits a valid password reset confirmation link, this toast notification will appear to notify the user a new password has been generated and emailed to them."
   }
 }

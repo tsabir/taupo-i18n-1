@@ -1,4 +1,4 @@
-
+{
   "languageSelector": {
     "message": "Ngôn Ngữ",
     "context": "Language as a single word used in the language selection menu."
@@ -1006,5 +1006,17 @@
   "copyFalse": {
     "message": "Không sao chép URL vào clipboard được.",
     "context": "After the user clicks on the copy to clipboard button, if unsuccessful, this toast notification will appear."
+  },
+  "userConfirmActive": {
+    "message": "Your email address is now confirmed and your user account activated.",
+    "context": "When the user visits a confirmation link emailed to them, this toast notification will appear informing the user that their account is now active and email address verified."
+  },
+  "userConfirmInvalid": {
+    "message": "This confirmation link is invalid.",
+    "context": "When the user vists an invalid email address confirmation link or an invalid password reset confirmation link, this toast notification will appear."
+  },
+  "userPasswordTwo": {
+    "message": "A new password has been emailed to you.",
+    "context": "When the user visits a valid password reset confirmation link, this toast notification will appear to notify the user a new password has been generated and emailed to them."
   }
 }
