@@ -36,143 +36,143 @@
     "context": "The link text for the Accessibility link."
   },
   "linkContact": {
-    "message": "Contact",
+    "message": "رابطہ",
     "context": "The link text for the Contact link."
   },
   "linkApps": {
-    "message": "Apps",
+    "message": "اَیپس",
     "context": "The link text for the Apps link."
   },
   "linkResources": {
-    "message": "Resources",
+    "message": "ذرائع",
     "context": "The link text for the Resources link."
   },
   "linkFollowUs": {
-    "message": "Follow Us",
+    "message": "ہماری پیروی کریں",
     "context": "The link text for the Follow Us link."
   },
   "linkTrademark": {
-    "message": "Trademark",
+    "message": "تجارتی نشان",
     "context": "The link text for the Trademark link."
   },
   "textTrademark": {
-    "message": "PEOPLE LOCATOR, ReUnite, and TriagePic are registered trademarks of the U.S. Department of Health and Human Services.",
+    "message": "message": " لوگوں کی جگہ کا پتہ لگانے والا، ReUnite (دوبارہ ملیں) اور  TriagePic (ایمرجنسی میں مریضوں کی تقدیم کی ترتیب کی تصویر) امریکی محکمہ برائے صحت و انسانی ذرائع کے رجسٹرڈ تجارتی نشانات ہیں۔",
     "context": "Verbiage describing the three registered trademarks we hold on People Locator."
   },
   "expirationDate": {
-    "message": "EXPIRATION DATE",
+    "message": "تاریخِ اختتام",
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
   "plusError1": {
-    "message": "Error: invalid username or password",
+    "message": "نقص: غیردرست صارف نام یا پاس ورڈ",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "plusError2": {
-    "message": "Error: your account is temporarily locked for repeatedly failing to login, try again later",
+    "message": "message": " نقص: آپ کا اکاؤنٹ عارضی طور پر بند ہوگیا ہے کیونکہ آپ بار بار کوشش کرنے کے بعد بھی لاگ ان نہیں کر پائے، بعد میں دوبارہ کوشش کریں",
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "plusError6": {
-    "message": "Error: a user already exists with the provided email address",
+    "message": "نقص: فراہم کردہ ای میل پتہ والا ایک صارف پہلے سے موجود ہے",
     "context": "Error message presented when user tries to use an email address already in use."
   },
   "plusError7": {
-    "message": "Error: the username you provided is not available",
+    "message": "نقص: آپ کے ذریعہ فراہم کردہ صارف نام دستیاب نہیں ہے",
     "context": "Error message presented when a user attempts to register with a username that is already in use by another user."
   },
   "plusError8": {
-    "message": "Error: invalid email address",
+    "message": "نقص: غیردرست ای میل پتہ",
     "context": "Error message presented when a user provides an invalid email address."
   },
   "plusError9": {
-    "message": "Error: password must be 8-16 characters in length, must have at least one uppercase, one lowercase, and one numeric character",
+    "message": 	"نقص: پاس ورڈ لازمی طور پر8-16  کیریکٹر لمبا ہو، اس میں کم از کم ایک اَپر کیس، ایک لوور کیس اور ایک عددی کیریکٹر ہو",
     "context": "Error message presented when user enters an invalid password."
   },
   "plusError11": {
-    "message": "Error: the email address provided is not associated with any user account",
+    "message": "نقص: فراہم کردہ ای میل پتہ کسی صارف اکاؤنٹ کے ساتھ منسلک نہیں ہے",
     "context": "Error message presented when user attempts to reset password with an unregistered email address."
   },
   "plusError14": {
-    "message": "Error: incorrect human validation test result, please reload the page",
+    "message": "نقص: انسانی درستگی جانچ کا غیرصحیح نتیجہ، برائے مہربانی صفحہ کو دوبارہ لوڈ کریں",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
   "plusError15": {
-    "message": "Error: reCaptcha session expired, please reload the page",
+    "message": "نقص سیشن کی میعاد ختم ہو گئی ہے، برائے مہربانی صفحہ دوبارہ لوڈ کریں: ",
     "context": "Error message presented when the reCaptcha session has expired and the user must reload the page to continue."
   },
   "plusError16": {
-    "message": "Error: passwords do not match",
+    "message": "نقص: پاس ورڈ میل نہیں کھاتے ہیں",
     "context": "Error message presented when entered password do not match one another."
   },
   "plusError20": {
-    "message": "Error: password must be 8-16 characters long",
+    "message": "نقص: پاس ورڈ لازمی طور پر8-16  کیریکٹر لمبا ہو",
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
   "plusError21": {
-    "message": "Error: password must contain at least one uppercase letter (A-Z)",
+    "message": "نقص: پاس ورڈ میں لازمی طور پر ایک اَپر کیس حرف (A-Z) ہو
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
   "plusError22": {
-    "message": "Error: password must contain at least one lowercase letter (a-z)",
+    "message": "نقص: پاس ورڈ میں لازمی طور پر ایک لوور کیس (a-z) حرف ہو
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
   "plusError23": {
-    "message": "Error: password must contain at least one number (0-9)",
+    "message": "نقص: پاس ورڈ میں لازمی طور پر کوئی عدد (0-9) ہو",
     "context": "Error message presented when entered password does not contain at least one digit."
   },
   "plusError100": {
-    "message": "Network error. Please check your connection and try again.",
+    "message":"نیٹ ورک کا نقص۔ برائے مہربانی اپنا کنیکشن چیک کریں اور دوبارہ کوشش کریں۔",
     "context": "Error message presented when there is a network / internet issue."
   },
   "plusError600": {
-    "message": "Error: cannot follow a record that does not exist or you do not have privilege to access",
+    "message": "نقص: کسی ایسے ریکارڈ کی پیروی نہیں کر سکتے جو موجود نہیں ہے یا جس تک رسائی کا آپ کو حق حاصل نہیں",
     "context": "Error message presented when user attempts to follow a record they have no permission to access."
   },
   "plusError601": {
-    "message": "Error: cannot follow this record since you are already following it",
+    "message": "نقص: اس ریکارڈ کی پیروی نہیں کر سکتے کیونکہ آپ اس کی پہلے ہی پیروی کر رہے ہیں",
     "context": "Error message presented when attempting to follow a record the user is already following."
   },
   "plusError602": {
-    "message": "Error: cannot unfollow this record since you are not currently following it",
+    "message": "نقص: اس ریکارڈ کی پیروی ختم نہیں کر سکتے کیونکہ آپ فی الحال اس کی پیروی کر رہے ہیں",
     "context": "Error message presented when "
   },
   "plusError9999": {
-    "message": "An unknown error has occurred.",
+    "message": "کوئی نامعلوم نقص واقع ہو گیا ہے۔",
     "context": "Error message presented when an unknown error has occurred."
   },
   "errorGettingSubscription": {
-    "message": "Error getting subscription information. Please reload the page.",
+    "message": "رکنیت کی معلومات حاصل کرنے میں نقص۔ برائے مہربانی صفحہ دوبارہ لوڈ کریں۔",
     "context": "This error will be displayed when an error is encountered while loading the user subscription information."
   },
   "errorUnsubscribing": {
-    "message": "There was an error while unsubscribing.",
+    "message": "رکنیت ختم کرتے وقت ایک نقص ہو گیا تھا۔",
     "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
-    "message": "Logged in.",
+    "message": "لاگ ان ہو گیا۔",
     "context": "This notification will appear after the user successfully logs in."
   },
   "notifyRegister": {
-    "message": "You are now registered and logged in.",
+    "message": "آپ اب رجسٹرشدہ اور لاگ ان ہیں۔",
     "context": "This notification will appear after the user newly registers and is automatically logged in."
   },
   "notifyRegistering": {
-    "message": "Registering...",
+    "message":  "رجسٹریشن کر رہا۔۔۔",
     "context": "This notification will appear briefly as the system registers and creates a new account for the user."
   },
   "notifyPasswordChanged": {
-    "message": "Password successfully changed.",
+    "message": "پاس ورڈ کامیابی کے ساتھ بدل دیا گیا۔",
     "context": "This notification will appear after the user successfully changes their password."
   },
   "notifyRecordUnfollowed": {
-    "message": "Record unfollowed.",
+    "message":  "ریکارڈ کی پیروی ختم کی گئی۔",
     "context": "This notification will appear after the user unfollows a particular record."
   },
   "notifyUnsubscribed": {
-    "message": "You are no longer subscribed to recieve notifications.",
+    "message": "اطلاعات موصول کرنے کے لیے آپ کی رکنیت اب مزید نہیں رہی ہے۔",
     "context": "This notification will appear after the user unsubscribed from recieving notifications."
   },
   "notifySubscribed": {
-    "message": "You are now subscribed to recieve notifications.",
+    "message": "اطلاعات موصول کرنے کے لیے آپ اب رکن ہو گئے ہیں۔",
     "context": "This notification will appear after the user subscribes to recieving notifications."
   },
   "notifyResetPassword": {
@@ -180,23 +180,23 @@
     "context": "This notification appears when a user has successfully sent a request to reset their password."
   },
   "pad1login": {
-    "message": "Login",
+    "message": "لاگ ان",
     "context": "This is the name of the first tab of the user dialog allowing a user to login."
   },
   "pad1register": {
-    "message": "Register",
+    "message": "رجسٹر",
     "context": "This is the name of the second tab of the user dialog allowing a user to register."
   },
   "pad1forgotText": {
-    "message": "Enter your email address and we will send you instructions how to reset your password.",
+    "message": "اپنا ای میل پتہ درج کریں اور ہم آپ کو ہدایات بھیج دیں گے کہ کس طرح سے آپ کو اپنا پاس ورڈ دوبارہ ترتیب دینا ہے۔",
     "context": "This text informs the user of what they must do in order to reset their password ~ they must enter their email address."
   },
   "pad1forgotSend": {
-    "message": "Send",
+    "message": "بھیجیں",
     "context": "This is the text label on the forgot my password dialog to submit the form."
   },
   "pad1loginForgot": {
-    "message": "Forgot username or password ?",
+    "message": "صارف نام یا پاس ورڈ بھول گئے؟",
     "context": "This is the text label for the forgot my password button on the login dialog."
   },
   "pad1loginUsernamePlaceholder": {
