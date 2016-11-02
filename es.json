@@ -1018,5 +1018,13 @@
   "userPasswordTwo": {
     "message": "A new password has been emailed to you.",
     "context": "When the user visits a valid password reset confirmation link, this toast notification will appear to notify the user a new password has been generated and emailed to them."
+  },
+  "eurl1": {
+    "message": "Share this event",
+    "context": "This section text is displayed on the paper action dialog when a user clicks the share event button."
+  },
+  "eurl2": {
+    "message": "Press the button to copy this event URL to your clipboard so that you can share or bookmark it.",
+    "context": "This text is displayed below the -copy to clipboard- button on the share event paper action dialog."
   }
 }
