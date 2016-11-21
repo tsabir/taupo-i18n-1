@@ -296,19 +296,19 @@
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "helpFindTitle": {
-    "message": "Help Locating a Person or Animal",
+    "message": "帮助寻找到失踪人员或宠物",
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. When you first arrive at PEOPLE LOCATOR, you are presented with a list of available disaster events. Each event has a name, a descriptive image related to the event, and some text describing the situation. If you scroll down, you will see there are a few different events from which you may select. Choose the event which you believe the person or animal you are trying to locate would most likely be associated with. For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, you would choose this event. You would select an event by tapping on the large green button under the image; this will take you directly to the search engine for this particular disaster event. A new search box will appear at the top after you have made your selection. Enter the name of the person you are attempting to locate in this search box. The search results update automatically with the most relevant results on near the top. You may acquire more information about by tapping on the details link near the bottom of any partuclar record, this opens a detail view. On this detail view, you may view more detailed record information, add a comment of your own, or begin following a record for updates.",
+    "message": "如果您正在寻找失踪的人员或宠物，您可以通过搜索我们的灾难事件来寻找他们。当您进入PEOPLE LOCATOR网页后，您会看到一个即时更新的灾难事件的列表。每个事件都有一个名字，以及描述事件的有关图像和一些文字。如果用鼠标向下滑动，您将看到有一些其它的灾难事件，供您选择。您可以选择您认为与您寻找的失踪人员或宠物最有关联的灾难事件。例如，如果有一个灾难事件名为海地地震，而您所要寻求的人正是在海地失踪，那么您应该选择这个灾难事件。您可以通过点击图片下方的大型绿色按钮来选择灾难事件；这会将您直接引领到这个指定的灾难事件的搜索引擎。完成您的选择后，一个新的搜索框将显示在顶部。在此搜索框中，输入您要查找的失踪人员的姓名。于是，您将得到一个搜索结果，搜索结果将会按照相关度的大小由上而下排列 , 并会自动更新。如要您要获得更多有关您所搜寻的失踪人员与宠物的信息，您可以在所选的记录中，点击信息底部的链接，打开提供详细信息的页面。在提供详细信息的页面中，您可以看到更为详尽的记录信息，同时，您可以添加自己的评论，设置跟踪更新的记录。",
     "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
-    "message": "Help Reporting a Person or Animal",
+    "message": "帮助报告失踪人员或宠物",
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
-    "message": "If you are unable to locate the preson or animal you seek, then you should report this person to our PEOPLE LOCATOR registry. Once you have navigated into a disaster event, you will see a pink floating action button on the bottom right of the screen. Tapping this button will initiate the reporting process and launch you into a separate wizard that will guide you through the steps of completing a new report based on the information you provide us. Once completed, your report will be entered into our searchable registry and be publicly visible to others. Once you complete the report (if not reported anonymously) you will automatically begin to follow your own report for updates as they come into our registry. Others may comment on your record providing you with new information about the person or animal you reported. Since you are following this record, updates will be sent to you via email or push notifications.",
+    "message": "如果您要寻找失踪的人员或宠物，你应该报告这个失踪的人员或宠物到我们的PEOPLE LOCATOR。一旦进入您选择的灾难事件，您将在屏幕的右下角看到一个粉红色的浮动操作按钮。点击此按钮，开始一个新的报告，即启动一个单独的向导，引导您一步一步完成一个由您自己输入信息的报告， 并最后上传到我们系统。报告一旦提交，它将被我们输入至可搜索的注册表，并向公众公开。报告一经完成 （如果不是匿名报告），我们会自动开始跟踪，给您提供以后更新的内容。公众可能会对您的报告添加评论，也可能给您提供有关失踪人员或宠物的最新信息。由于您在追踪该项记录，我们的系统会通过电子邮件或推送通知的方法，将更新的信息发送给您。",
     "context": "This is the help page article body describing in detail how to report a person or animal."
   },
   "pageAboutTextAbout": {
