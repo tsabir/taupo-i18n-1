@@ -978,7 +978,7 @@
     "context": "This label is displayed below the follow user toggle button explaining what the button does."
   },
   "followButtonAnon": {
-    "message": "要跟踪记录并在更新通知时收到通知，您必须先登录",
+    "message": "如果要跟踪记录并在记录更新时收到通知，您必须先登录",
     "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
   },
   "longerComment": {
