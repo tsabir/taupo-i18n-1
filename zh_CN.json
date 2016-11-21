@@ -1008,23 +1008,23 @@
     "context": "After the user clicks on the copy to clipboard button, if unsuccessful, this toast notification will appear."
   },
   "userConfirmActive": {
-    "message": "Your email address is now confirmed and your user account activated.",
+    "message": "您的电子邮件地址已确认，您的用户帐户已激活。",
     "context": "When the user visits a confirmation link emailed to them, this toast notification will appear informing the user that their account is now active and email address verified."
   },
   "userConfirmInvalid": {
-    "message": "This confirmation link is invalid.",
+    "message": "此确认链接无效。",
     "context": "When the user vists an invalid email address confirmation link or an invalid password reset confirmation link, this toast notification will appear."
   },
   "userPasswordTwo": {
-    "message": "A new password has been emailed to you.",
+    "message": "新密码已通过电子邮件发送给您。",
     "context": "When the user visits a valid password reset confirmation link, this toast notification will appear to notify the user a new password has been generated and emailed to them."
   },
   "eurl1": {
-    "message": "Share this event",
+    "message": "共享此事件",
     "context": "This section text is displayed on the paper action dialog when a user clicks the share event button."
   },
   "eurl2": {
-    "message": "Press the button to copy this event URL to your clipboard so that you can share or bookmark it.",
+    "message": "按下按钮，将此事件 URL 复制到您的剪贴板上，以便您可以共享，或将它加入书签。",
     "context": "This text is displayed below the -copy to clipboard- button on the share event paper action dialog."
   }
 }
