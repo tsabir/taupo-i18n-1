@@ -978,35 +978,35 @@
     "context": "This label is displayed below the follow user toggle button explaining what the button does."
   },
   "followButtonAnon": {
-    "message": "如果要跟踪记录并在记录更新时收到通知，您必须先登录",
+    "message": "如果要跟踪记录，并在记录更新时收到通知，您必须先登录",
     "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
   },
-  "longerComment": {
-    "message": "Please enter a longer comment",
+    "longerComment": {
+    "message": "请输入一个较长的评论",
     "context": "The user is notified to enter a longer comment if it is too short"
   },
   "commentBeingSubmittedToast": {
-    "message": "Comment being submitted ...",
+    "message": "正在提交评论...",
     "context": "This toast notification will be displayed while the new comment is being sent in."
   },
   "eventInvalid": {
-    "message": "This event does not exist.",
+    "message": "此事件不存在。",
     "context": "If the user comes to the site with a direct URL linking to an invalid event, this toast notification will appear."
   },
   "moduleInvalid": {
-    "message": "This module does not exist.",
+    "message": "此模块不存在。",
     "context": "If the user attempts to access a non-existant portion of the site (very unlikely) this toast notification will appear."
   },
   "moduleAccess": {
-    "message": "You do not have permission to access this module.",
+    "message": "您没有权限访问此模块。",
     "context": "If the user attempts to access a portion of the site they do not have permission for, this toast notification will appear."
   },
   "copyTrue": {
-    "message": "URL copied to clipboard.",
+    "message": "网址已复制到剪贴板。",
     "context": "After the user clicks on the copy to clipboard button, if successful, this toast notification will appear."
   },
   "copyFalse": {
-    "message": "Failed to copy URL to clipboard.",
+    "message": "无法将网址复制到剪贴板。",
     "context": "After the user clicks on the copy to clipboard button, if unsuccessful, this toast notification will appear."
   },
   "userConfirmActive": {
