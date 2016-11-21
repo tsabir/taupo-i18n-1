@@ -951,32 +951,34 @@
     "message": "将此网址复制到剪贴板，这样您就可以共享或书签它。",
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
   },
+  "followButtonAnon": {
+    "message": "要跟踪记录并在更新通知时收到通知，您必须先登录",
   "buddyIdentificationNumber": {
-    "message": "Buddy Identification Number",
+    "message": "巴迪标识号",
     "context": "This is the label to the Buddy Identification Number field which is displayed for animals."
   },
   "notifyRecordFollow": {
-    "message": "You are now following this record and will recieve updates as it changes or a comment is added",
+    "message": "您现在正在追踪此记录，并会在更改或添加评论时接收更新",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },  
   "notifyRecordUnfollow": {
-    "message": "You are no longer following this record",
+    "message": "您不再关注此记录",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },
   "followStatusTrue": {
-    "message": "Following",
+    "message": "关注",
     "context": "This label is displayed next to a toggle switch displaying that the user is folliwng the currently viewed record."
   },
   "followStatusFalse": {
-    "message": "Not Following",
+    "message": "不再关注",
     "context": "This label is displayed next to a toggle switch displaying that the user is not folliwng the currently viewed record."
   },
   "followButtonExplain": {
-    "message": "Recieve a notification when a change is made to this record or a comment is added",
+    "message": "当对此记录进行更改或添加评论时，收到通知",
     "context": "This label is displayed below the follow user toggle button explaining what the button does."
   },
   "followButtonAnon": {
-    "message": "To follow a record and recieve notifications when it is updated, you must first sign in",
+    "message": "要跟踪记录并在更新通知时收到通知，您必须先登录",
     "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
   },
   "longerComment": {
