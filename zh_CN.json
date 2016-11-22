@@ -656,7 +656,7 @@
     "context": "This is the window title when a new person or animal is being reported."
   },
   "reportChoicePA": {
-    "message": "你想报告的失踪的人或宠物吗？",
+    "message": "你想报告的失踪的人员或宠物吗？",
     "context": "This is the text option displayed for a user to choose and fill out either a person or animal report."
   },
   "person": {
