@@ -296,19 +296,19 @@
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "helpFindTitle": {
-    "message": "Help Locating a Person or Animal",
+    "message": "幫助尋找到失蹤人員或寵物",
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. When you first arrive at PEOPLE LOCATOR, you are presented with a list of available disaster events. Each event has a name, a descriptive image related to the event, and some text describing the situation. If you scroll down, you will see there are a few different events from which you may select. Choose the event which you believe the person or animal you are trying to locate would most likely be associated with. For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, you would choose this event. You would select an event by tapping on the large green button under the image; this will take you directly to the search engine for this particular disaster event. A new search box will appear at the top after you have made your selection. Enter the name of the person you are attempting to locate in this search box. The search results update automatically with the most relevant results on near the top. You may acquire more information about by tapping on the details link near the bottom of any partuclar record, this opens a detail view. On this detail view, you may view more detailed record information, add a comment of your own, or begin following a record for updates.",
+    "message": "如果您正在尋找失蹤的人員或寵物，您可以通過搜索我們的災難事件來尋找他們。當您進入PEOPLE LOCATOR網頁後，您會看到一個即時更新的災難事件的列表。每個事件都有一個名字，以及描述事件的有關圖像和一些文字。如果用鼠標向下滑動，您將看到有一些其它的災難事件，供您選擇。您可以選擇您認爲與您尋找的失蹤人員或寵物最有關聯的災難事件。例如，如果有一個災難事件名爲海地地震，而您所要尋求的人正是在海地失蹤，那麽您應該選擇這個災難事件。您可以通過點擊圖片下方的大型綠色按鈕來選擇災難事件；這會將您直接引領到這個指定的災難事件的搜索引擎。完成您的選擇後，一個新的搜索框將顯示在頂部。在此搜索框中，輸入您要查找的失蹤人員的姓名。于是，您將得到一個搜索結果，搜索結果將會按照相關度的大小由上而下排列 , 並會自動更新。如要您要獲得更多有關您所搜尋的失蹤人員與寵物的信息，您可以在所選的記錄中，點擊信息底部的鏈接，打開提供詳細信息的頁面。在提供詳細信息的頁面中，您可以看到更爲詳盡的記錄信息，同時，您可以添加自己的評論，設置跟蹤更新的記錄。",
     "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
-    "message": "Help Reporting a Person or Animal",
+    "message": "幫助報告失蹤人員或寵物",
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
-    "message": "If you are unable to locate the preson or animal you seek, then you should report this person to our PEOPLE LOCATOR registry. Once you have navigated into a disaster event, you will see a pink floating action button on the bottom right of the screen. Tapping this button will initiate the reporting process and launch you into a separate wizard that will guide you through the steps of completing a new report based on the information you provide us. Once completed, your report will be entered into our searchable registry and be publicly visible to others. Once you complete the report (if not reported anonymously) you will automatically begin to follow your own report for updates as they come into our registry. Others may comment on your record providing you with new information about the person or animal you reported. Since you are following this record, updates will be sent to you via email or push notifications.",
+    "message": "如果您要尋找失蹤的人員或寵物，你應該報告這個失蹤的人員或寵物到我們的PEOPLE LOCATOR。一旦進入您選擇的災難事件，您將在屏幕的右下角看到一個粉紅色的浮動操作按鈕。點擊此按鈕，開始一個新的報告，即啓動一個單獨的向導，引導您一步一步完成一個由您自己輸入信息的報告， 並最後上傳到我們系統。報告一旦提交，它將被我們輸入至可搜索的注冊表，並向公衆公開。報告一經完成 （如果不是匿名報告），我們會自動開始跟蹤，給您提供以後更新的內容。公衆可能會對您的報告添加評論，也可能給您提供有關失蹤人員或寵物的最新信息。由于您在追蹤該項記錄，我們的系統會通過電子郵件或推送通知的方法，將更新的信息發送給您。",
     "context": "This is the help page article body describing in detail how to report a person or animal."
   },
   "pageAboutTextAbout": {
@@ -388,7 +388,7 @@
     "context": "The fourth bullet point on the Privacy page."
   },
   "pageResourcesTitle1": {
-    "message": "尋找家人和親友",
+    "message": "尋找失蹤的家人和親友",
     "context": "The first section title on the Resources page."
   },
   "pageResourcesTitle2": {
@@ -656,7 +656,7 @@
     "context": "This is the window title when a new person or animal is being reported."
   },
   "reportChoicePA": {
-    "message": "你想報告的失蹤的人或寵物嗎？",
+    "message": "你想報告的失蹤的人員或寵物嗎？",
     "context": "This is the text option displayed for a user to choose and fill out either a person or animal report."
   },
   "person": {
@@ -951,80 +951,82 @@
     "message": "將此網址複制到剪貼板，這樣您就可以共享或書簽它。",
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
   },
+  "followButtonAnon": {
+    "message": "要跟蹤記錄並在更新通知時收到通知，您必須先登錄",
   "buddyIdentificationNumber": {
-    "message": "Buddy Identification Number",
+    "message": "巴迪標識號",
     "context": "This is the label to the Buddy Identification Number field which is displayed for animals."
   },
   "notifyRecordFollow": {
-    "message": "You are now following this record and will recieve updates as it changes or a comment is added",
+    "message": "您現在正在追蹤此記錄，並會在更改或添加評論時接收更新",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },  
   "notifyRecordUnfollow": {
-    "message": "You are no longer following this record",
+    "message": "您不再關注此記錄",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },
   "followStatusTrue": {
-    "message": "Following",
+    "message": "關注",
     "context": "This label is displayed next to a toggle switch displaying that the user is folliwng the currently viewed record."
   },
   "followStatusFalse": {
-    "message": "Not Following",
+    "message": "不再關注",
     "context": "This label is displayed next to a toggle switch displaying that the user is not folliwng the currently viewed record."
   },
   "followButtonExplain": {
-    "message": "Recieve a notification when a change is made to this record or a comment is added",
+    "message": "當對此記錄進行更改或添加評論時，收到通知",
     "context": "This label is displayed below the follow user toggle button explaining what the button does."
   },
   "followButtonAnon": {
-    "message": "To follow a record and recieve notifications when it is updated, you must first sign in",
+    "message": "如果要跟蹤記錄，並在記錄更新時收到通知，您必須先登錄",
     "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
   },
-  "longerComment": {
-    "message": "Please enter a longer comment",
+    "longerComment": {
+    "message": "請輸入一個較長的評論",
     "context": "The user is notified to enter a longer comment if it is too short"
   },
   "commentBeingSubmittedToast": {
-    "message": "Comment being submitted ...",
+    "message": "正在提交評論...",
     "context": "This toast notification will be displayed while the new comment is being sent in."
   },
   "eventInvalid": {
-    "message": "This event does not exist.",
+    "message": "此事件不存在。",
     "context": "If the user comes to the site with a direct URL linking to an invalid event, this toast notification will appear."
   },
   "moduleInvalid": {
-    "message": "This module does not exist.",
+    "message": "此模塊不存在。",
     "context": "If the user attempts to access a non-existant portion of the site (very unlikely) this toast notification will appear."
   },
   "moduleAccess": {
-    "message": "You do not have permission to access this module.",
+    "message": "您沒有權限訪問此模塊。",
     "context": "If the user attempts to access a portion of the site they do not have permission for, this toast notification will appear."
   },
   "copyTrue": {
-    "message": "URL copied to clipboard.",
+    "message": "網址已複制到剪貼板。",
     "context": "After the user clicks on the copy to clipboard button, if successful, this toast notification will appear."
   },
   "copyFalse": {
-    "message": "Failed to copy URL to clipboard.",
+    "message": "無法將網址複制到剪貼板。",
     "context": "After the user clicks on the copy to clipboard button, if unsuccessful, this toast notification will appear."
   },
   "userConfirmActive": {
-    "message": "Your email address is now confirmed and your user account activated.",
+    "message": "您的電子郵件地址已確認，您的用戶帳戶已激活。",
     "context": "When the user visits a confirmation link emailed to them, this toast notification will appear informing the user that their account is now active and email address verified."
   },
   "userConfirmInvalid": {
-    "message": "This confirmation link is invalid.",
+    "message": "此確認鏈接無效。",
     "context": "When the user vists an invalid email address confirmation link or an invalid password reset confirmation link, this toast notification will appear."
   },
   "userPasswordTwo": {
-    "message": "A new password has been emailed to you.",
+    "message": "新密碼已通過電子郵件發送給您。",
     "context": "When the user visits a valid password reset confirmation link, this toast notification will appear to notify the user a new password has been generated and emailed to them."
   },
   "eurl1": {
-    "message": "Share this event",
+    "message": "共享此事件",
     "context": "This section text is displayed on the paper action dialog when a user clicks the share event button."
   },
   "eurl2": {
-    "message": "Press the button to copy this event URL to your clipboard so that you can share or bookmark it.",
+    "message": "按下按鈕，將此事件 URL 複制到您的剪貼板上，以便您可以共享，或將它加入書簽。",
     "context": "This text is displayed below the -copy to clipboard- button on the share event paper action dialog."
   }
 }
