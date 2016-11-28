@@ -1000,7 +1000,7 @@
     "context": "If the user attempts to access a portion of the site they do not have permission for, this toast notification will appear."
   },
   "copyTrue": {
-    "message": "URL được sao chép vào clipboard.",
+    "message": "URL đã được sao chép vào clipboard.",
     "context": "After the user clicks on the copy to clipboard button, if successful, this toast notification will appear."
   },
   "copyFalse": {
@@ -1008,23 +1008,23 @@
     "context": "After the user clicks on the copy to clipboard button, if unsuccessful, this toast notification will appear."
   },
   "userConfirmActive": {
-    "message": "Your email address is now confirmed and your user account activated.",
+    "message": "địa chỉ email của bạn đã được xác nhận và tài khoản người dùng của bạn đã được kích hoạt.",
     "context": "When the user visits a confirmation link emailed to them, this toast notification will appear informing the user that their account is now active and email address verified."
   },
   "userConfirmInvalid": {
-    "message": "This confirmation link is invalid.",
+    "message": "Liên kết xác nhận này không hợp lệ.",
     "context": "When the user vists an invalid email address confirmation link or an invalid password reset confirmation link, this toast notification will appear."
   },
   "userPasswordTwo": {
-    "message": "A new password has been emailed to you.",
+    "message": "Mật khẩu mới đã được gửi qua email cho bạn.",
     "context": "When the user visits a valid password reset confirmation link, this toast notification will appear to notify the user a new password has been generated and emailed to them."
   },
   "eurl1": {
-    "message": "Share this event",
+    "message": "Chia sẻ sự kiện này",
     "context": "This section text is displayed on the paper action dialog when a user clicks the share event button."
   },
   "eurl2": {
-    "message": "Press the button to copy this event URL to your clipboard so that you can share or bookmark it.",
+    "message": "Nhấn nút để sao chép URL của sự kiện này vào máy của bạn để bạn có thể chia sẻ hoặc đánh dấu nó.",
     "context": "This text is displayed below the -copy to clipboard- button on the share event paper action dialog."
   }
 }
