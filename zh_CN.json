@@ -951,8 +951,6 @@
     "message": "将此网址复制到剪贴板，这样您就可以共享或书签它。",
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
   },
-  "followButtonAnon": {
-    "message": "要跟踪记录并在更新通知时收到通知，您必须先登录",
   "buddyIdentificationNumber": {
     "message": "巴迪标识号",
     "context": "This is the label to the Buddy Identification Number field which is displayed for animals."
@@ -1028,5 +1026,13 @@
   "eurl2": {
     "message": "按下按钮，将此事件 URL 复制到您的剪贴板上，以便您可以共享，或将它加入书签。",
     "context": "This text is displayed below the -copy to clipboard- button on the share event paper action dialog."
+  },
+  "page404": {
+    "message": "404: This page does not exist.",
+    "context": "This toast is displayed when a user attempts to visit a non-existant page."
+  },
+  "ombNoticeTitle": {
+    "message": "OMB Notice",
+    "context": "This is the page title for the OMB Notice."
   }
 }
