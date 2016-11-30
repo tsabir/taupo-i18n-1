@@ -1020,19 +1020,19 @@
     "context": "When the user visits a valid password reset confirmation link, this toast notification will appear to notify the user a new password has been generated and emailed to them."
   },
   "eurl1": {
-    "message": "Share this event",
+    "message": "このイベントを共有",
     "context": "This section text is displayed on the paper action dialog when a user clicks the share event button."
   },
   "eurl2": {
-    "message": "Press the button to copy this event URL to your clipboard so that you can share or bookmark it.",
+    "message": "ボタンを押して、このイベントのURLをクリップボードにコピーしてください。そうすれば共有したりブックマークできます。",
     "context": "This text is displayed below the -copy to clipboard- button on the share event paper action dialog."
   },
   "page404": {
-    "message": "404: This page does not exist.",
+    "message": "404: このページは存在しません。",
     "context": "This toast is displayed when a user attempts to visit a non-existant page."
   },
   "ombNoticeTitle": {
-    "message": "OMB Notice",
+    "message": "OMB 注",
     "context": "This is the page title for the OMB Notice."
   }
 }
