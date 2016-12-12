@@ -1028,11 +1028,11 @@
     "context": "This text is displayed below the -copy to clipboard- button on the share event paper action dialog."
   },
   "page404": {
-    "message": "404: This page does not exist.",
+    "message": "404: 此页不存在.",
     "context": "This toast is displayed when a user attempts to visit a non-existant page."
   },
   "ombNoticeTitle": {
-    "message": "OMB Notice",
+    "message": "OMB 告示",
     "context": "This is the page title for the OMB Notice."
   }
 }
