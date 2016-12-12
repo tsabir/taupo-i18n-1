@@ -192,7 +192,7 @@
     "context": "This text informs the user of what they must do in order to reset their password ~ they must enter their email address."
   },
   "pad1forgotSend": {
-    "message": "成功送出",
+    "message": "發送",
     "context": "This is the text label on the forgot my password dialog to submit the form."
   },
   "pad1loginForgot": {
