@@ -704,7 +704,7 @@
     "context": "Text label for Photo."
   },
   "reportChoiceStatusA": {
-    "message": "请说明您要报告的动物的状态。",
+    "message": "请说明您要报告的宠物的状态。",
     "context": "This is the text option displayed for a user to choose the status of the animal they are reporting."
   },
   "explainMissingA": {
@@ -788,7 +788,7 @@
     "context": "The label next to the person age selection button for unknown."
   },
   "explainAgeUnknownA": {
-    "message": "动物年龄未知",
+    "message": "宠物年龄未知",
     "context": "The label next to the animal age selection button for unknown."
   },
   "continue": {
@@ -796,11 +796,11 @@
     "context": "The label of a button to continue to the next step."
   },
   "reportChoiceNameP": {
-    "message": "请输入您要报告的人的名字。",
+    "message": "请输入您要报告的人名字。",
     "context": "This is the section title displayed for a user to enter the name of the person they are reporting."
   },
   "reportChoiceNameA": {
-    "message": "请输入您要报告的动物的名字和\/或标识号码。",
+    "message": "请输入您要报告的宠物名字和\/或标识号码。",
     "context": "This is the section title displayed for a user to enter the name and/or the buddy identification number of the animal they are reporting."
   },
   "explainNameP": {
@@ -812,7 +812,7 @@
     "context": "The text label for name entry of an animal."
   },
   "explainBuddyA": {
-    "message": "动物的标识号码",
+    "message": "宠物的标识号码",
     "context": "The text label for buddty identification number entry of an animal."
   },
   "reportChoiceNameUnknownP": {
