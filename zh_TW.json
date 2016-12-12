@@ -924,11 +924,11 @@
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSubmitP": {
-    "message": "以後我們有關于這個人的最新消息時，如果你想要得到及時的通知，請提交報告。",
+    "message": "請選擇訂閱，以後，每當我們得到此人的最新消息時，我們將及時通知您。",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainSubmitA": {
-    "message": "以後我們有關于這個寵物的最新消息時，如果你想要得到及時的通知，請提交報告。",
+    "message": "請選擇訂閱，以後，每當我們得到此人的最新消息時，我們將及時通知您。",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainAnonP": {
