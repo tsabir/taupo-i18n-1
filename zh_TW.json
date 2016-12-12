@@ -900,11 +900,11 @@
     "context": "This is the section title for allowing the user to enter free text information about the person/animal."
   },
   "reportChoiceInformationHelpP": {
-    "message": "您可以選擇提供任何更多有用的信息，以便于他人識別或尋找這個人。",
+    "message": "您可以提供任何更多有用的信息，以便於他人辨認或尋找此人。",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the person."
   },
   "reportChoiceInformationHelpA": {
-    "message": "您可以選擇提供任何更多有用的信息，以便于他人識別或尋找這個寵物",
+    "message": "您可以提供任何更多有用的信息，以便於他人辨認或尋找這個寵物",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the animal."
   },
   "reportBeingSubmittedToast": {
