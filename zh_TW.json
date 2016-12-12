@@ -916,11 +916,11 @@
     "context": "This is the section title on the last page of the reporting wizard. The user will choose how to submit the report."
   },
   "explainSignInP": {
-    "message": "以後我們有關于這個人的最新消息時，如果你想要得到及時的通知，請在提交報告之前簽字認可。",
+    "message": "請在提交報告之前登錄， 以後，每當我們得到此人的最新消息時，我們將及時通知您。",
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSignInA": {
-    "message": "以後我們有關于這個寵物的最新消息時，如果你想要得到及時的通知，請在提交報告之前簽字認可。",
+    "message": "請在提交報告之前登錄， 以後，每當我們得到這個寵物的最新消息時，我們將及時通知您。",
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSubmitP": {
@@ -928,15 +928,15 @@
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainSubmitA": {
-    "message": "請選擇訂閱，以後，每當我們得到此人的最新消息時，我們將及時通知您。",
+    "message": "請選擇訂閱，以後，每當我們得到這個寵物的最新消息時，我們將及時通知您。",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainAnonP": {
-    "message": "以後我們有關于這個人的最新消息時，如果您選擇匿名提交，我們將不會通知您。",
+    "message": "如果您選擇匿名提交，以後，每當我們得到此人的最新消息時，我們不會通知您。",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "explainAnonA": {
-    "message": "以後我們有關于這個寵物的最新消息時，如果您選擇匿名提交，我們將不會通知您。",
+    "message": "如果您選擇匿名提交，以後，每當我們得到這個寵物的最新消息時，我們不會通知您。",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
