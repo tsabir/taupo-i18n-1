@@ -300,7 +300,7 @@
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "如果您正在尋找失蹤的人員或寵物，您可以通過搜索我們的災難事件來尋找他們。當您進入PEOPLE LOCATOR網頁後，您會看到一個即時更新的災難事件的列表。每個事件都有一個名字，以及描述事件的有關圖像和一些文字。如果用鼠標向下滑動，您將看到有一些其它的災難事件，供您選擇。您可以選擇您認爲與您尋找的失蹤人員或寵物最有關聯的災難事件。例如，如果有一個災難事件名爲海地地震，而您所要尋求的人正是在海地失蹤，那麽您應該選擇這個災難事件。您可以通過點擊圖片下方的大型綠色按鈕來選擇災難事件；這會將您直接引領到這個指定的災難事件的搜索引擎。完成您的選擇後，一個新的搜索框將顯示在頂部。在此搜索框中，輸入您要查找的失蹤人員的姓名。于是，您將得到一個搜索結果，搜索結果將會按照相關度的大小由上而下排列 , 並會自動更新。如要您要獲得更多有關您所搜尋的失蹤人員與寵物的信息，您可以在所選的記錄中，點擊信息底部的鏈接，打開提供詳細信息的頁面。在提供詳細信息的頁面中，您可以看到更爲詳盡的記錄信息，同時，您可以添加自己的評論，設置跟蹤更新的記錄。",
+    "message": "如果您正在尋找失蹤的人員或寵物，您可以通過搜索我們的災難事件來尋找他們。當您進入PEOPLE LOCATOR網頁後，您會看到一個即時更新的災難事件的列表。每個事件都有一個名字，以及描述事件的有關圖像和一些文字。如果用鼠標向下滑動，您將看到有一些其它的災難事件，供您選擇。您可以選擇您認爲與您尋找的失蹤人員或寵物最有關聯的災難事件。例如，如果有一個災難事件名爲海地地震，而您所要尋求的人正是在海地失蹤，那麽您應該選擇這個災難事件。您可以通過點擊圖片下方的大型綠色按鈕來選擇災難事件；這會將您直接引領到這個指定的災難事件的搜索引擎。完成您的選擇後，一個新的搜索框將顯示在頂部。在此搜索框中，輸入您要寻找的失蹤人員的姓名。于是，您將得到一個搜索結果，搜索結果將會按照相關度的大小由上而下排列 , 並會自動更新。如要您要獲得更多有關您所搜尋的失蹤人員與寵物的信息，您可以在所選的記錄中，點擊信息底部的鏈接，打開提供詳細信息的頁面。在提供詳細信息的頁面中，您可以看到更爲詳盡的記錄信息，同時，您可以添加自己的評論，設置跟蹤更新的記錄。",
     "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
@@ -452,7 +452,7 @@
     "context": "The title of the 1st tab allowing the selection of particular Disaster Events."
   },
   "tabFind": {
-    "message": "查找",
+    "message": "寻找",
     "context": "The title of the 2nd tab allowing someone to Find a person or pet."
   },
   "tabReport": {
@@ -460,7 +460,7 @@
     "context": "The title of the 3rd tab allowing someone to Report a new person or pet."
   },
   "tagline": {
-    "message": "查找和報告災害中失蹤的家人，朋友和寵物。",
+    "message": "寻找和報告災害中失蹤的家人，朋友和寵物。",
     "context": "The tagline is the summary of what the application is for."
   },
   "eventRetired": {
@@ -468,7 +468,7 @@
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
   },
   "seoTitle1": {
-    "message": "由此查找或報告失蹤人員",
+    "message": "由此寻找或報告失蹤人員",
     "context": "Part 1 of HTML title and description tags for the home page (e.g. Find or report persons from Ecuador Earthquake)."
   },
   "seoTitle2": {
@@ -480,23 +480,23 @@
     "context": "HTML title tags for the report page (e.g. Report persons from Ecuador Earthquake)."
   },
   "seoTitle4": {
-    "message": "由此查找失蹤人員",
+    "message": "由此寻找失蹤人員",
     "context": "HTML title and description tags for the search page (e.g. Find missing persons from Ecuador Earthquake)."
   },
   "seoTitle5": {
-    "message": "求助如何查找與報告失蹤人員",
+    "message": "求助如何寻找與報告失蹤人員",
     "context": "HTML title tag for the help page."
   },
   "seoTitle6": {
-    "message": "關于查找與報告失蹤人員",
+    "message": "關于寻找與報告失蹤人員",
     "context": "HTML title tag for the about page."
   },
   "seoTitle7": {
-    "message": "有關查找和報告失蹤人員的隱私注意事項",
+    "message": "有關寻找和報告失蹤人員的隱私注意事項",
     "context": "HTML title tag for the privacy page."
   },
   "seoTitle8": {
-    "message": "有關用于查找和報告失蹤人員的資源",
+    "message": "有關用于寻找和報告失蹤人員的資源",
     "context": "HTML title tag for the resources page."
   },
   "seoTitle9": {
@@ -512,15 +512,15 @@
     "context": "HTML description tag for the report page (e.g. Report missing or found persons from the Ecuador Earthquake)."
   },
   "seoDescription2": {
-    "message": "幫助查找和報告失蹤人員的指令",
+    "message": "幫助寻找和報告失蹤人員的指令",
     "context": "HTML description tag for the help page."
   },
   "seoDescription3": {
-    "message": "關于使用People Locator來查找和報告失蹤人員",
+    "message": "關于使用People Locator來寻找和報告失蹤人員",
     "context": "HTML description tag for the about page."
   },
   "seoDescription4": {
-    "message": "關于使用People Locator查找和報告失蹤人員的隱私注意事項",
+    "message": "關于使用People Locator寻找和報告失蹤人員的隱私注意事項",
     "context": "HTML description tag for the privacy page."
   },
   "seoDescription5": {
@@ -548,11 +548,11 @@
     "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
   },
   "eventListFindReportButton": {
-    "message": "查找/報告的失蹤的人員或動物",
+    "message": "寻找/報告的失蹤的人員或動物",
     "context": "This is the button text on the home page to Find or Report a person or animal."
   },
   "searchPlaceholder": {
-    "message": "查找",
+    "message": "寻找",
     "context": "The search box starts off with this text to inform the user what the element is used for."
   },
   "records": {
