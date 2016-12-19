@@ -692,7 +692,7 @@
     "context": "The label next to the status selection button for deceased."
   },
   "explainUnknownP": {
-    "message": "已经获得有关此人的信息",
+    "message": "已经获得有关此人的状况",
     "context": "The label next to the status selection button for unknown."
   },  
   "location": {
@@ -704,31 +704,31 @@
     "context": "Text label for Photo."
   },
   "reportChoiceStatusA": {
-    "message": "请说明您要报告的宠物的状态。",
+    "message": "请说明您要报告的宠物的状况。",
     "context": "This is the text option displayed for a user to choose the status of the animal they are reporting."
   },
   "explainMissingA": {
-    "message": "宠物已失踪",
+    "message": "宠物状况：失踪",
     "context": "The label next to the status selection button for missing."
   },
   "explainFoundA": {
-    "message": "宠物状态未知",
+    "message": "宠物状况：未知",
     "context": "The label next to the status selection button for found."
   },
   "explainAliveA": {
-    "message": "宠物已被找到，状态安好",
+    "message": "宠物状况：安好",
     "context": "The label next to the status selection button for alive & well."
   },
   "explainInjuredA": {
-    "message": "宠物已被找到，受伤",
+    "message": "宠物状况：受伤",
     "context": "The label next to the status selection button for injured."
   },
   "explainDeceasedA": {
-    "message": "宠物已被找到，已死亡",
+    "message": "宠物状况：死亡",
     "context": "The label next to the status selection button for deceased."
   },
   "explainUnknownA": {
-    "message": "已经获得有关此宠物的信息",
+    "message": "已经获得有关此宠物的状况",
     "context": "The label next to the status selection button for unknown."
   },
   "reportChoiceSexP": {
