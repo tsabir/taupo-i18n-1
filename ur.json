@@ -56,7 +56,7 @@
     "context": "The link text for the Trademark link."
   },
   "textTrademark": {
-    "message": "message": " لوگوں کی جگہ کا پتہ لگانے والا، ReUnite (دوبارہ ملیں) اور  TriagePic (ایمرجنسی میں مریضوں کی تقدیم کی ترتیب کی تصویر) امریکی محکمہ برائے صحت و انسانی ذرائع کے رجسٹرڈ تجارتی نشانات ہیں۔",
+    "message": "لوگوں کی جگہ کا پتہ لگانے والا، ReUnite (دوبارہ ملیں) اور  TriagePic (ایمرجنسی میں مریضوں کی تقدیم کی ترتیب کی تصویر) امریکی محکمہ برائے صحت و انسانی ذرائع کے رجسٹرڈ تجارتی نشانات ہیں۔",
     "context": "Verbiage describing the three registered trademarks we hold on People Locator."
   },
   "expirationDate": {
@@ -68,7 +68,7 @@
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "plusError2": {
-    "message": "message": " نقص: آپ کا اکاؤنٹ عارضی طور پر بند ہوگیا ہے کیونکہ آپ بار بار کوشش کرنے کے بعد بھی لاگ ان نہیں کر پائے، بعد میں دوبارہ کوشش کریں",
+    "message": "نقص: آپ کا اکاؤنٹ عارضی طور پر بند ہوگیا ہے کیونکہ آپ بار بار کوشش کرنے کے بعد بھی لاگ ان نہیں کر پائے، بعد میں دوبارہ کوشش کریں",
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "plusError6": {
@@ -108,11 +108,11 @@
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
   "plusError21": {
-    "message": "نقص: پاس ورڈ میں لازمی طور پر ایک اَپر کیس حرف (A-Z) ہو
+    "message": "نقص: پاس ورڈ میں لازمی طور پر ایک اَپر کیس حرف (A-Z) ہو",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
   "plusError22": {
-    "message": "نقص: پاس ورڈ میں لازمی طور پر ایک لوور کیس (a-z) حرف ہو
+    "message": "نقص: پاس ورڈ میں لازمی طور پر ایک لوور کیس (a-z) حرف ہو",
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
   "plusError23": {
