@@ -1,11 +1,7 @@
 {
-  "languageSelector": {
-    "message": "Idioma",
-    "context": "The word used to descibe the language selection menu button."
-  },
-  "chosenLanguage": {
+  "thisLanguage": {
     "message": "Español",
-    "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
+    "context": "This word describes this language itself."
   },
   "signIn": {
     "message": "Registrarse",
@@ -215,19 +211,19 @@
     "message": "Su contraseña debe contener un número, una letra minúscula, una letra mayúscula, y ser de 8-16 caracteres de longitud.",
     "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
   },
-  "pad2notice": {
+  "omb7notice": {
     "message": "Aviso",
     "context": "This is the first word of the OMB notice."
   },
-  "pad2submission": {
+  "omb7submission": {
     "message": "La presentación de la información es de carácter voluntario. Toda la información presentada se pondrá a disposición del público.",
     "context": "These are the first two sentences of the OMB notice."
   },
-  "pad2text": {
+  "omb7text": {
     "message": "El tiempo de la recopilación de información se estima en un promedio de 3 minutos por respuesta. El cálculo incluye el tiempo para revisar las instrucciones, la recolección y la introducción de datos. Una agencia no puede realizar o patrocinar, y una persona no está obligada a responder a una solicitud de información a menos que muestre un número de control OMB válido. Envíe los comentarios sobre el cálculo de tiempo o cualquier otro aspecto de esta recopilación de información, incluyendo sugerencias para reducir esta carga, a:",
     "context": "This is the main paragraph of the OMB notice."
   },
-  "pad2sub": {
+  "omb7sub": {
     "message": "He leído y acepto esto.",
     "context": "This is the label for the OMB notice agreement button."
   },
@@ -463,89 +459,13 @@
     "message": "Encuentra y denuncia de desaparición de la familia, amigos y mascotas durante los desastres.",
     "context": "The tagline is the summary of what the application is for."
   },
+  "pageTitle": {
+    "message": "Buscar y reportar personas desaparecidas o animales durante desastres",
+    "context": "This is the page title which is very similar in nature to the tagline."
+  },
   "eventRetired": {
     "message": "El evento que ha solicitado ya no está activo.",
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
-  },
-  "seoTitle1": {
-    "message": "Busque o informe acerca de personas de",
-    "context": "Part 1 of HTML title and description tags for the home page (e.g. Find or report persons from Ecuador Earthquake)."
-  },
-  "seoTitle2": {
-    "message": "un desastre",
-    "context": "Part 2 of HTML title and description tags for the home page if no active event (e.g. Find or report persons from a disaster)."
-  },
-  "seoTitle3": {
-    "message": "Informe acerca de personas desaparecidas de",
-    "context": "HTML title tags for the report page (e.g. Report persons from Ecuador Earthquake)."
-  },
-  "seoTitle4": {
-    "message": "Busque personas desaparecidas de",
-    "context": "HTML title and description tags for the search page (e.g. Find missing persons from Ecuador Earthquake)."
-  },
-  "seoTitle5": {
-    "message": "Ayude a reportar o a buscar personas desaparecidas de",
-    "context": "HTML title tag for the help page."
-  },
-  "seoTitle6": {
-    "message": "Acerca de reportar y buscar personas desaparecidas de",
-    "context": "HTML title tag for the about page."
-  },
-  "seoTitle7": {
-    "message": "Consideraciones acerca de la privacidad para reportar o buscar personas desaparecidas",
-    "context": "HTML title tag for the privacy page."
-  },
-  "seoTitle8": {
-    "message": "Recursos para buscar o reportar personas desaparecidas",
-    "context": "HTML title tag for the resources page."
-  },
-  "seoTitle9": {
-    "message": "Registro de",
-    "context": "Part 1 of HTML title tag for the full record page (e.g. Record for John Doe)."
-  },
-  "seoTitle10": {
-    "message": "de",
-    "context": "Part 2 of HTML title tag for the full record page (e.g. from Ecuador Earthquake)."
-  },
-  "seoDescription1": {
-    "message": "Reporte personas desaparecidas o encontradas del",
-    "context": "HTML description tag for the report page (e.g. Report missing or found persons from the Ecuador Earthquake)."
-  },
-  "seoDescription2": {
-    "message": "Instrucciones de ayuda para reportar o buscar personas desaparecidas",
-    "context": "HTML description tag for the help page."
-  },
-  "seoDescription3": {
-    "message": "Acerca de la utilización del People Locator para buscar o reportar personas desaparecidas",
-    "context": "HTML description tag for the about page."
-  },
-  "seoDescription4": {
-    "message": "Consideraciones acerca de la privacidad en el uso de People Locator para reportar o buscar personas desaparecidas",
-    "context": "HTML description tag for the privacy page."
-  },
-  "seoDescription5": {
-    "message": "Otros recursos para buscar o reportar personas desaparecidas",
-    "context": "HTML description tag for the resources page."
-  },
-  "seoDescription6": {
-    "message": "Visualize o actualize el registro de",
-    "context": "Part 1 of HTML description tag for the full record page (e.g. View and update record for John Doe)."
-  },
-  "seoDescription7": {
-    "message": "del",
-    "context": "Part 2 of HTML description tag for the full record page (e.g. from the Ecuador Earthquake)."
-  },
-  "seoAlt1": {
-    "message": "Foto de",
-    "context": "Part 1 of HTML alt tag for a personal photo (e.g. Photo of John Doe)"
-  },
-  "seoAlt2": {
-    "message": "persona",
-    "context": "Part 2 of HTML alt tag for a personal photo (e.g. missing person)"
-  },
-  "seoAlt3": {
-    "message": "reportada en",
-    "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
   },
   "eventListFindReportButton": {
     "message": "Buscar o Reportar Persona o Mascota",
@@ -1008,31 +928,31 @@
     "context": "After the user clicks on the copy to clipboard button, if unsuccessful, this toast notification will appear."
   },
   "userConfirmActive": {
-    "message": "Your email address is now confirmed and your user account activated.",
+    "message": "Su dirección de correo electrónico ya está confirmada y su cuenta de usuario activada.",
     "context": "When the user visits a confirmation link emailed to them, this toast notification will appear informing the user that their account is now active and email address verified."
   },
   "userConfirmInvalid": {
-    "message": "This confirmation link is invalid.",
+    "message": "Este enlace de confirmación no es válido.",
     "context": "When the user vists an invalid email address confirmation link or an invalid password reset confirmation link, this toast notification will appear."
   },
   "userPasswordTwo": {
-    "message": "A new password has been emailed to you.",
+    "message": "Una nueva contraseña ha sido enviada por correo electrónico.",
     "context": "When the user visits a valid password reset confirmation link, this toast notification will appear to notify the user a new password has been generated and emailed to them."
   },
   "eurl1": {
-    "message": "Share this event",
+    "message": "Compartir este evento",
     "context": "This section text is displayed on the paper action dialog when a user clicks the share event button."
   },
   "eurl2": {
-    "message": "Press the button to copy this event URL to your clipboard so that you can share or bookmark it.",
+    "message": "Pulse el botón para copiar esta URL de evento en su portapapeles para poder compartirla o marcarla.",
     "context": "This text is displayed below the -copy to clipboard- button on the share event paper action dialog."
   },
   "page404": {
-    "message": "404: This page does not exist.",
+    "message": "404: Esta página no existe.",
     "context": "This toast is displayed when a user attempts to visit a non-existant page."
   },
   "ombNoticeTitle": {
-    "message": "OMB Notice",
+    "message": "Aviso OMB",
     "context": "This is the page title for the OMB Notice."
   }
 }

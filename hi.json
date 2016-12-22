@@ -1,11 +1,7 @@
 {
-  "languageSelector": {
-    "message": "भाषा",
-    "context": "Language as a single word used in the langiage selection menu."
-  },
-  "chosenLanguage": {
+  "thisLanguage": {
     "message": "हिंदी",
-    "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
+    "context": "This word describes this language itself."
   },
   "signIn": {
     "message": "साइन इन करें",
@@ -215,19 +211,19 @@
     "message": "अपना पासवर्ड एक संख्या, एक लोअरकेस अक्षर, एक अपरकेस अक्षर, और 8-16 वर्ण लंबा होना चाहिए।",
     "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
   },
-  "pad2notice": {
+  "omb7notice": {
     "message": "नोटिस",
     "context": "This is the first word of the OMB notice."
   },
-  "pad2submission": {
+  "omb7submission": {
     "message": "जानकारी के प्रस्तुत स्वैच्छिक है। सभी प्रस्तुत जानकारी सार्वजनिक रूप से उपलब्ध कराया जाएगा।",
     "context": "These are the first two sentences of the OMB notice."
   },
-  "pad2text": {
+  "omb7text": {
     "message": "सूचना के इस संग्रह के लिए सार्वजनिक रिपोर्टिंग बोझ प्रतिक्रिया के प्रति औसत 3 मिनट का अनुमान है। यह अनुमान निर्देश की समीक्षा सभा, और डेटा में प्रवेश के लिए समय भी शामिल है। यदि एक एजेंसी के आचरण या नहीं प्रायोजक है, और एक व्यक्ति जब तक यह एक वर्तमान में मान्य OMB नियंत्रण संख्या प्रदर्शित करने के लिए जानकारी का एक संग्रह, प्रतिक्रिया करने के लिए आवश्यक नहीं है। इस बोझ अनुमान या सूचना के इस संग्रह के लिए इस बोझ को कम करने के लिए सुझाव भी शामिल है के किसी अन्य पहलू के बारे में टिप्पणी भेजें :",
     "context": "This is the main paragraph of the OMB notice."
   },
-  "pad2sub": {
+  "omb7sub": {
     "message": "मैं इस के। पढ़ा है और इस बात से सहमत है.",
     "context": "This is the label for the OMB notice agreement button."
   },
@@ -463,89 +459,13 @@
     "message": "आपदाओं के दौरान लापता परिवार, दोस्तों, और जाते को पता लगाना और रिपोर्ट करना ",
     "context": "The tagline is the summary of what the application is for."
   },
+  "pageTitle": {
+    "message": "Find and report missing people or animals during disasters",
+    "context": "This is the page title which is very similar in nature to the tagline."
+  },
   "eventRetired": {
     "message": "आप का अनुरोध घटना अब सक्रिय नहीं है।",
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
-  },
-  "seoTitle1": {
-    "message": "ढूँढें या रिपोर्ट व्यक्तियों से",
-    "context": "Part 1 of HTML title and description tags for the home page (e.g. Find or report persons from Ecuador Earthquake)."
-  },
-  "seoTitle2": {
-    "message": "दुर्घटना",
-    "context": "Part 2 of HTML title and description tags for the home page if no active event (e.g. Find or report persons from a disaster)."
-  },
-  "seoTitle3": {
-    "message": "लापता लोगों के रिपोर्ट से",
-    "context": "HTML title tags for the report page (e.g. Report persons from Ecuador Earthquake)."
-  },
-  "seoTitle4": {
-    "message": "लापता लोगों का पता लगाएं से",
-    "context": "HTML title and description tags for the search page (e.g. Find missing persons from Ecuador Earthquake)."
-  },
-  "seoTitle5": {
-    "message": "लोगों के पता लगाना और रिपोर्ट करने के लिए मदद चाहिए।",
-    "context": "HTML title tag for the help page."
-  },
-  "seoTitle6": {
-    "message": "लापता और रिपोर्टिंग व्यक्तियों के बारे में",
-    "context": "HTML title tag for the about page."
-  },
-  "seoTitle7": {
-    "message": "लापता और रिपोर्टिंग व्यक्तियों के लिए गोपनीयता विचार",
-    "context": "HTML title tag for the privacy page."
-  },
-  "seoTitle8": {
-    "message": "लापता और रिपोर्टिंग व्यक्तियों के लिए साधन संसाधन",
-    "context": "HTML title tag for the resources page."
-  },
-  "seoTitle9": {
-    "message": "रिकार्ड के लिए",
-    "context": "Part 1 of HTML title tag for the full record page (e.g. Record for John Doe)."
-  },
-  "seoTitle10": {
-    "message": "ओर से",
-    "context": "Part 2 of HTML title tag for the full record page (e.g. from Ecuador Earthquake)."
-  },
-  "seoDescription1": {
-    "message": "लापता या पाया व्यक्तियों रिपोर्ट से",
-    "context": "HTML description tag for the report page (e.g. Report missing or found persons from the Ecuador Earthquake)."
-  },
-  "seoDescription2": {
-    "message": "लापता या पाया व्यक्तियों की रिपोर्टिंग के लिए मदद निर्देश",
-    "context": "HTML description tag for the help page."
-  },
-  "seoDescription3": {
-    "message": "लापता व्यक्तियों पता लगाने या रिपोर्टिंग के लिए लोग लोकेटर का उपयोग करने के बारे में",
-    "context": "HTML description tag for the about page."
-  },
-  "seoDescription4": {
-    "message": "लापता व्यक्तियों पता लगाने या रिपोर्टिंग के लिए लोग लोकेटर प्रयोग करने के लिए गोपनीयता विचार",
-    "context": "HTML description tag for the privacy page."
-  },
-  "seoDescription5": {
-    "message": "लापता व्यक्तियों पता लगाने या रिपोर्टिंग के लिए अन्य संसाधन",
-    "context": "HTML description tag for the resources page."
-  },
-  "seoDescription6": {
-    "message": "रिकॉर्ड देखें और अपडेट ककरने के लिए",
-    "context": "Part 1 of HTML description tag for the full record page (e.g. View and update record for John Doe)."
-  },
-  "seoDescription7": {
-    "message": "चुनें",
-    "context": "Part 2 of HTML description tag for the full record page (e.g. from the Ecuador Earthquake)."
-  },
-  "seoAlt1": {
-    "message": "फोटो से",
-    "context": "Part 1 of HTML alt tag for a personal photo (e.g. Photo of John Doe)"
-  },
-  "seoAlt2": {
-    "message": "व्यक्ति से",
-    "context": "Part 2 of HTML alt tag for a personal photo (e.g. missing person)"
-  },
-  "seoAlt3": {
-    "message": "रिपोर्ट से ",
-    "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
   },
   "eventListFindReportButton": {
     "message": "एक व्यक्ति या जानवर की पता लगाता या रिपोर्टिंग करता।",

@@ -1,11 +1,7 @@
 {
-  "languageSelector": {
-    "message": "மொழி",
-    "context": "Language as a single word used in the langiage selection menu."
-  },
-  "chosenLanguage": {
+  "thisLanguage": {
     "message": "ஆங்கிலம்",
-    "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
+    "context": "This word describes this language itself."
   },
   "signIn": {
     "message": "உள்நுழை அல்லது பதிவு",
@@ -215,19 +211,19 @@
     "message": "உங்கள் கடவுச்சொல் ஒரு எண்ணை , ஒரு சிறிய எழுத்து , ஒரு பேரெழுத்து இருக்க வேண்டும் , மற்றும் 8-16 எழுத்துகள் இருக்க.",
     "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
   },
-  "pad2notice": {
+  "omb7notice": {
     "message": "அறிவிப்பு",
     "context": "This is the first word of the OMB notice."
   },
-  "pad2submission": {
+  "omb7submission": {
     "message": "தகவல் சமர்ப்பித்தல் தன்னார்வ உள்ளது. சமர்ப்பிக்கப்பட்ட அனைத்து தகவல் பகிரங்கமாக கிடைக்க செய்யப்படும்.",
     "context": "These are the first two sentences of the OMB notice."
   },
-  "pad2text": {
+  "omb7text": {
     "message": "தகவல் இந்த சேகரிப்பு பொது அறிக்கை சுமையை பதில் சராசரி 3 நிமிடங்கள் என்று மதிப்பிடப்பட்டுள்ளது. இந்த மதிப்பீடு , வழிமுறைகளை மீளாய்வு சேகரித்து , மற்றும் தரவு நுழையும் நேரம் அடங்கும். ஒரு நிறுவனம் நடத்தும் இல்லை அல்லது ஸ்பான்சர் , மற்றும் ஒரு நபர் அதை ஒரு தற்போது செல்லுபடியாகும் OMB கட்டுப்பாடு எண்ணிக்கை வரை தகவல் ஒரு தொகுப்பு , பதிலளிக்க வேண்டிய அவசியம் இல்லை . க்கு , இந்த சுமையை மதிப்பீட்டை அல்லது இந்த சுமையை குறைத்து பரிந்துரைகள் உள்ளிட்ட தகவல் இந்த தொகுப்பு வேறு எந்த அம்சம் , குறித்த கருத்துக்கள் அனுப்ப:",
     "context": "This is the main paragraph of the OMB notice."
   },
-  "pad2sub": {
+  "omb7sub": {
     "message": "நான் இந்த படித்து ஏற்றுக்கொள்ள வேண்டும்.",
     "context": "This is the label for the OMB notice agreement button."
   },
@@ -463,89 +459,13 @@
     "message": "கண்டுபிடிக்க மற்றும் பேரழிவுகளின் போது குடும்பம், நண்பர்கள் , மற்றும் செல்லப்பிராணிகள் காணாமல் தெரிவிக்க.",
     "context": "The tagline is the summary of what the application is for."
   },
+  "pageTitle": {
+    "message": "Find and report missing people or animals during disasters",
+    "context": "This is the page title which is very similar in nature to the tagline."
+  },
   "eventRetired": {
     "message": "நீங்கள் கோரிய நிகழ்வு செயலில் இல்லை.",
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
-  },
-  "seoTitle1": {
-    "message": "கண்டுபிடிக்க அல்லது இருந்து நபர்கள் தெரிவிக்க",
-    "context": "Part 1 of HTML title and description tags for the home page (e.g. Find or report persons from Ecuador Earthquake)."
-  },
-  "seoTitle2": {
-    "message": "ஒரு பேரழிவு",
-    "context": "Part 2 of HTML title and description tags for the home page if no active event (e.g. Find or report persons from a disaster)."
-  },
-  "seoTitle3": {
-    "message": "காணாமல் இருந்து நபர்கள் அறிக்கை",
-    "context": "HTML title tags for the report page (e.g. Report persons from Ecuador Earthquake)."
-  },
-  "seoTitle4": {
-    "message": "இருந்து விடுபட்ட நபர்கள் கண்டுபிடிக்க",
-    "context": "HTML title and description tags for the search page (e.g. Find missing persons from Ecuador Earthquake)."
-  },
-  "seoTitle5": {
-    "message": "கண்டுபிடித்து , காணாமற்போனோரின் அறிக்கையிடல்",
-    "context": "HTML title tag for the help page."
-  },
-  "seoTitle6": {
-    "message": "காணாமல் போனோரின் கண்டுபிடித்து அறிக்கை பற்றி",
-    "context": "HTML title tag for the about page."
-  },
-  "seoTitle7": {
-    "message": "காணாமல் போனோரின் கண்டுபிடித்து அறிக்கை தனியுரிமை பரிசீலனைகள்",
-    "context": "HTML title tag for the privacy page."
-  },
-  "seoTitle8": {
-    "message": "காணாமல் போனோரின் கண்டுபிடித்து அறிக்கை வளங்கள்",
-    "context": "HTML title tag for the resources page."
-  },
-  "seoTitle9": {
-    "message": "Record for",
-    "context": "Part 1 of HTML title tag for the full record page (e.g. Record for John Doe)."
-  },
-  "seoTitle10": {
-    "message": "இருந்து",
-    "context": "Part 2 of HTML title tag for the full record page (e.g. from Ecuador Earthquake)."
-  },
-  "seoDescription1": {
-    "message": "காணாமல் அல்லது காணப்படும் இருந்து நபர்கள் அறிக்கை",
-    "context": "HTML description tag for the report page (e.g. Report missing or found persons from the Ecuador Earthquake)."
-  },
-  "seoDescription2": {
-    "message": "காணாமல் போனோரின் கண்டுபிடித்து அறிக்கை வழிமுறைகளை உதவும்",
-    "context": "HTML description tag for the help page."
-  },
-  "seoDescription3": {
-    "message": "அறிக்கை காணாமல் போனோரின் கண்டுபிடிக்க மக்கள் லொக்கேட்டர் பயன்படுத்தி மற்றும் பற்றி",
-    "context": "HTML description tag for the about page."
-  },
-  "seoDescription4": {
-    "message": "கண்டுபிடிக்க மக்கள் லொக்கேட்டர் பயன்படுத்தி தனியுரிமை பரிசீலனைகள் மற்றும் அறிக்கை காணாமல் போனோரின்",
-    "context": "HTML description tag for the privacy page."
-  },
-  "seoDescription5": {
-    "message": "காணாமல் போனோரின் கண்டுபிடித்து அறிக்கை பிற வளங்கள்",
-    "context": "HTML description tag for the resources page."
-  },
-  "seoDescription6": {
-    "message": "பார்வையிட்டுத் மேம்படுத்தல் சாதனை",
-    "context": "Part 1 of HTML description tag for the full record page (e.g. View and update record for John Doe)."
-  },
-  "seoDescription7": {
-    "message": "இருந்து",
-    "context": "Part 2 of HTML description tag for the full record page (e.g. from the Ecuador Earthquake)."
-  },
-  "seoAlt1": {
-    "message": "புகைப்பட",
-    "context": "Part 1 of HTML alt tag for a personal photo (e.g. Photo of John Doe)"
-  },
-  "seoAlt2": {
-    "message": "நபர்",
-    "context": "Part 2 of HTML alt tag for a personal photo (e.g. missing person)"
-  },
-  "seoAlt3": {
-    "message": "அறிக்கை",
-    "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
   },
   "eventListFindReportButton": {
     "message": "கண்டுபிடி / ஒரு நபர் அல்லது விலங்கு தெரிவியுங்கள்",

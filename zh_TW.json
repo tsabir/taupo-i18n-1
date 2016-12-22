@@ -1,11 +1,7 @@
 {
-  "languageSelector": {
-    "message": "語言",
-    "context": "Language as a single word used in the langiage selection menu."
-  },
-  "chosenLanguage": {
-    "message": "英語",
-    "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
+  "thisLanguage": {
+    "message": "中文(繁體)",
+    "context": "This word describes this language itself."
   },
   "signIn": {
     "message": "登錄或註冊",
@@ -215,19 +211,19 @@
     "message": "輸入的密碼中至少要有壹個數字， 壹個小寫字母， 壹個大寫字母，密碼的長度為8至16個字符。",
     "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
   },
-  "pad2notice": {
+  "omb7notice": {
     "message": "告示",
     "context": "This is the first word of the OMB notice."
   },
-  "pad2submission": {
+  "omb7submission": {
     "message": "上傳信息都是個人自願行為，所上傳的信息全部都將向公眾全部公開。",
     "context": "These are the first two sentences of the OMB notice."
   },
-  "pad2text": {
+  "omb7text": {
     "message": "公眾從輸入信息開始到完成提交報告，大約需要三分鐘。這三分鐘裏，包括了查看指令，收集和輸入數據所需的時間。除非標有美國行政管理和預算局(OMB)的有效編號，任何部門不得組織，或資助搜集此類信息，任何個人也無須而為。如果您有任何有關提交報告所需時間，或者任何有關搜集信息的建議，請送:",
     "context": "This is the main paragraph of the OMB notice."
   },
-  "pad2sub": {
+  "omb7sub": {
     "message": "我已經詳細閱讀了以上全文，並且表示完全同意。",
     "context": "This is the label for the OMB notice agreement button."
   },
@@ -463,89 +459,13 @@
     "message": "尋找和報告災害中失蹤的家人，朋友和寵物。",
     "context": "The tagline is the summary of what the application is for."
   },
+  "pageTitle": {
+    "message": "Find and report missing people or animals during disasters",
+    "context": "This is the page title which is very similar in nature to the tagline."
+  },
   "eventRetired": {
     "message": "您需要的事件已經過期。",
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
-  },
-  "seoTitle1": {
-    "message": "由此尋找或報告失蹤人員",
-    "context": "Part 1 of HTML title and description tags for the home page (e.g. Find or report persons from Ecuador Earthquake)."
-  },
-  "seoTitle2": {
-    "message": "災難",
-    "context": "Part 2 of HTML title and description tags for the home page if no active event (e.g. Find or report persons from a disaster)."
-  },
-  "seoTitle3": {
-    "message": "由此報告失蹤人員",
-    "context": "HTML title tags for the report page (e.g. Report persons from Ecuador Earthquake)."
-  },
-  "seoTitle4": {
-    "message": "由此尋找失蹤人員",
-    "context": "HTML title and description tags for the search page (e.g. Find missing persons from Ecuador Earthquake)."
-  },
-  "seoTitle5": {
-    "message": "求助如何尋找與報告失蹤人員",
-    "context": "HTML title tag for the help page."
-  },
-  "seoTitle6": {
-    "message": "關於尋找與報告失蹤人員",
-    "context": "HTML title tag for the about page."
-  },
-  "seoTitle7": {
-    "message": "有關尋找和報告失蹤人員的隱私註意事項",
-    "context": "HTML title tag for the privacy page."
-  },
-  "seoTitle8": {
-    "message": "有關用於尋找和報告失蹤人員的資源",
-    "context": "HTML title tag for the resources page."
-  },
-  "seoTitle9": {
-    "message": "詳細記錄",
-    "context": "Part 1 of HTML title tag for the full record page (e.g. Record for John Doe)."
-  },
-  "seoTitle10": {
-    "message": "從",
-    "context": "Part 2 of HTML title tag for the full record page (e.g. from Ecuador Earthquake)."
-  },
-  "seoDescription1": {
-    "message": "報告失蹤或已尋獲人員",
-    "context": "HTML description tag for the report page (e.g. Report missing or found persons from the Ecuador Earthquake)."
-  },
-  "seoDescription2": {
-    "message": "幫助尋找和報告失蹤人員的指令",
-    "context": "HTML description tag for the help page."
-  },
-  "seoDescription3": {
-    "message": "關於使用People Locator來尋找和報告失蹤人員",
-    "context": "HTML description tag for the about page."
-  },
-  "seoDescription4": {
-    "message": "關於使用People Locator尋找和報告失蹤人員的隱私註意事項",
-    "context": "HTML description tag for the privacy page."
-  },
-  "seoDescription5": {
-    "message": "尋找和報告失蹤人員的其他資源",
-    "context": "HTML description tag for the resources page."
-  },
-  "seoDescription6": {
-    "message": "查看和更新記錄",
-    "context": "Part 1 of HTML description tag for the full record page (e.g. View and update record for John Doe)."
-  },
-  "seoDescription7": {
-    "message": "從",
-    "context": "Part 2 of HTML description tag for the full record page (e.g. from the Ecuador Earthquake)."
-  },
-  "seoAlt1": {
-    "message": "照片",
-    "context": "Part 1 of HTML alt tag for a personal photo (e.g. Photo of John Doe)"
-  },
-  "seoAlt2": {
-    "message": "個人",
-    "context": "Part 2 of HTML alt tag for a personal photo (e.g. missing person)"
-  },
-  "seoAlt3": {
-    "message": "報道",
-    "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
   },
   "eventListFindReportButton": {
     "message": "尋找/報告失蹤人員或寵物",

@@ -1,11 +1,7 @@
 {
-  "languageSelector": {
-    "message": "Langue",
-    "context": "Language as a single word used in the language selection menu."
-  },
-  "chosenLanguage": {
+  "thisLanguage": {
     "message": "Français",
-    "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
+    "context": "This word describes this language itself."
   },
   "signIn": {
     "message": "Se connecter ou s'inscrire",
@@ -215,19 +211,19 @@
     "message": "Votre mot de passe doit contenir une lettre en minuscule, une lettre en majuscule et un chiffre et doit être composé de 8 à 16 caractères.",
     "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
   },
-  "pad2notice": {
+  "omb7notice": {
     "message": "Notification",
     "context": "This is the first word of the OMB notice."
   },
-  "pad2submission": {
+  "omb7submission": {
     "message": "La soumission des informations est volontaire. Toutes les informations transmises seront mises à la disposition du public.",
     "context": "These are the first two sentences of the OMB notice."
   },
-  "pad2text": {
+  "omb7text": {
     "message": "La charge de déclaration publique pour cette collecte d'informations est estimée en moyenne à 3 minutes par réponse. Cette estimation inclut le temps pour examiner les instructions, la collecte et la saisie des données. Une agence ne peut pas effectuer ou parrainer (et une personne n'est pas obligée de répondre à) une collecte d'informations si celle-ci n'affiche pas un numéro de contrôle OMB valide. Envoyer des commentaires concernant cette estimation de la charge ou tout autre aspect de cette collecte d'informations, y compris des suggestions pour réduire ce fardeau, à:",
     "context": "This is the main paragraph of the OMB notice."
   },
-  "pad2sub": {
+  "omb7sub": {
     "message": "J'ai lu et j'accepte",
     "context": "This is the label for the OMB notice agreement button."
   },
@@ -463,89 +459,13 @@
     "message": "Rechercher et déclarer des proches, amis, et animaux disparus en cas de catastrophe.",
     "context": "The tagline is the summary of what the application is for."
   },
+  "pageTitle": {
+    "message": "Find and report missing people or animals during disasters",
+    "context": "This is the page title which is very similar in nature to the tagline."
+  },
   "eventRetired": {
     "message": "L'événement que vous demandez n'est plus actif.",
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
-  },
-  "seoTitle1": {
-    "message": "Rechercher ou déclarer des personnes de :",
-    "context": "Part 1 of HTML title and description tags for the home page (e.g. Find or report persons from Ecuador Earthquake)."
-  },
-  "seoTitle2": {
-    "message": "une catastrophe",
-    "context": "Part 2 of HTML title and description tags for the home page if no active event (e.g. Find or report persons from a disaster)."
-  },
-  "seoTitle3": {
-    "message": " Déclarer des personnes de :",
-    "context": "HTML title tags for the report page (e.g. Report persons from Ecuador Earthquake)."
-  },
-  "seoTitle4": {
-    "message": "Rechercher des personnes de :",
-    "context": "HTML title and description tags for the search page (e.g. Find missing persons from Ecuador Earthquake)."
-  },
-  "seoTitle5": {
-    "message": "Aider à rechercher et déclarer des personnes disparues",
-    "context": "HTML title tag for the help page."
-  },
-  "seoTitle6": {
-    "message": "À propos de rechercher et déclarer des personnes disparues",
-    "context": "HTML title tag for the about page."
-  },
-  "seoTitle7": {
-    "message": "Considérations en matière de protection de la vie privée durant la recherche et la déclaration des personnes disparues",
-    "context": "HTML title tag for the privacy page."
-  },
-  "seoTitle8": {
-    "message": "Ressources pour la recherche et la déclaration des personnes disparues",
-    "context": "HTML title tag for the resources page."
-  },
-  "seoTitle9": {
-    "message": "Enregistrement pour",
-    "context": "Part 1 of HTML title tag for the full record page (e.g. Record for John Doe)."
-  },
-  "seoTitle10": {
-    "message": "de",
-    "context": "Part 2 of HTML title tag for the full record page (e.g. from Ecuador Earthquake)."
-  },
-  "seoDescription1": {
-    "message": " Déclarer des personnes disparues ou retrouvées à",
-    "context": "HTML description tag for the report page (e.g. Report missing or found persons from the Ecuador Earthquake)."
-  },
-  "seoDescription2": {
-    "message": "Instructions pour aider à rechercher ou déclarer des personnes disparues",
-    "context": "HTML description tag for the help page."
-  },
-  "seoDescription3": {
-    "message": "À propos de l'utilisation de People Locator pour rechercher ou déclarer des personnes disparues",
-    "context": "HTML description tag for the about page."
-  },
-  "seoDescription4": {
-    "message": "Considérations en matière de protection de la vie privée durant l'utilisation de People Locator pour rechercher ou déclarer des personnes disparues",
-    "context": "HTML description tag for the privacy page."
-  },
-  "seoDescription5": {
-    "message": "Autres ressources pour rechercher ou déclarer des personnes disparues",
-    "context": "HTML description tag for the resources page."
-  },
-  "seoDescription6": {
-    "message": "Voir et actualiser l'enregistrement de",
-    "context": "Part 1 of HTML description tag for the full record page (e.g. View and update record for John Doe)."
-  },
-  "seoDescription7": {
-    "message": "Depuis le/la",
-    "context": "Part 2 of HTML description tag for the full record page (e.g. from the Ecuador Earthquake)."
-  },
-  "seoAlt1": {
-    "message": "Photo de",
-    "context": "Part 1 of HTML alt tag for a personal photo (e.g. Photo of John Doe)"
-  },
-  "seoAlt2": {
-    "message": "personne",
-    "context": "Part 2 of HTML alt tag for a personal photo (e.g. missing person)"
-  },
-  "seoAlt3": {
-    "message": "déclaré(e) à",
-    "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
   },
   "eventListFindReportButton": {
     "message": "Find / Report a Person or Animal",

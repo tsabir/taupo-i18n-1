@@ -1,11 +1,7 @@
 {
-  "languageSelector": {
-    "message": "言語",
-    "context": "Language as a single word used in the language selection menu."
-  },
-  "chosenLanguage": {
-    "message": "英語",
-    "context": "When a language is chosen by a user, this is the word displayed to describe the chosen language."
+  "thisLanguage": {
+    "message": "日本語",
+    "context": "This word describes this language itself."
   },
   "signIn": {
     "message": "サイン イン",
@@ -215,19 +211,19 @@
     "message": "パスワードには一つ以上の数字、小文字、大文字、そして8-16の文字数が必要です。",
     "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
   },
-  "pad2notice": {
+  "omb7notice": {
     "message": "注意",
     "context": "This is the first word of the OMB notice."
   },
-  "pad2submission": {
+  "omb7submission": {
     "message": "情報の提供は、任意です。提出された情報は全て公開されます。",
     "context": "These are the first two sentences of the OMB notice."
   },
-  "pad2text": {
+  "omb7text": {
     "message": "この情報収集の報告負荷は、一件に付き平均３分です。これは、注意書きをチェックして、情報を集め、入力する時間を含んでいます。現在有効なOMB制御番号が表示されていない限り、この情報収集に関し、当局は、実行に移すことも関与することもなく、応答を要求されることはありません。この情報提供に関し予想される負荷について、或いは、報告負荷を減らすための助言を含め、他の観点からのコメントは、ここへ、お送り下さい:",
     "context": "This is the main paragraph of the OMB notice."
   },
-  "pad2sub": {
+  "omb7sub": {
     "message": "私は、これを読み同意しました。",
     "context": "This is the label for the OMB notice agreement button."
   },
@@ -463,89 +459,13 @@
     "message": "災害時における行方不明の家族、友人、動物の捜索と報告。",
     "context": "The tagline is the summary of what the application is for."
   },
+  "pageTitle": {
+    "message": "Find and report missing people or animals during disasters",
+    "context": "This is the page title which is very similar in nature to the tagline."
+  },
   "eventRetired": {
     "message": "リクエストされた災害イベントは終了いたしました。",
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
-  },
-  "seoTitle1": {
-    "message": "から失踪人の検索・報告",
-    "context": "Part 1 of HTML title and description tags for the home page (e.g. Find or report persons from Ecuador Earthquake)."
-  },
-  "seoTitle2": {
-    "message": "災害",
-    "context": "Part 2 of HTML title and description tags for the home page if no active event (e.g. Find or report persons from a disaster)."
-  },
-  "seoTitle3": {
-    "message": "行方不明の人の報告:",
-    "context": "HTML title tags for the report page (e.g. Report persons from Ecuador Earthquake)."
-  },
-  "seoTitle4": {
-    "message": "検索行方不明人 from",
-    "context": "HTML title and description tags for the search page (e.g. Find missing persons from Ecuador Earthquake)."
-  },
-  "seoTitle5": {
-    "message": "ヘルプ、行方不明人の検索・報告",
-    "context": "HTML title tag for the help page."
-  },
-  "seoTitle6": {
-    "message": "行方不明人の検索・報告について",
-    "context": "HTML title tag for the about page."
-  },
-  "seoTitle7": {
-    "message": "行方不明人検索・報告のプライバシーについての考え方",
-    "context": "HTML title tag for the privacy page."
-  },
-  "seoTitle8": {
-    "message": "行方不明人検索・報告に関する情報源",
-    "context": "HTML title tag for the resources page."
-  },
-  "seoTitle9": {
-    "message": "についてのレコード",
-    "context": "Part 1 of HTML title tag for the full record page (e.g. Record for John Doe)."
-  },
-  "seoTitle10": {
-    "message": "から",
-    "context": "Part 2 of HTML title tag for the full record page (e.g. from Ecuador Earthquake)."
-  },
-  "seoDescription1": {
-    "message": "行方不明者報告・発見から",
-    "context": "HTML description tag for the report page (e.g. Report missing or found persons from the Ecuador Earthquake)."
-  },
-  "seoDescription2": {
-    "message": "行方不明者検索・報告についての指示ヘルプ",
-    "context": "HTML description tag for the help page."
-  },
-  "seoDescription3": {
-    "message": "行方不明者検索・報告のPeople Locatorの使用について",
-    "context": "HTML description tag for the about page."
-  },
-  "seoDescription4": {
-    "message": "行方不明者の検索・報告にあたってこのPeople Locatorを使う際のプライバシーの考え方",
-    "context": "HTML description tag for the privacy page."
-  },
-  "seoDescription5": {
-    "message": "行方不明者検索・報告のための他の情報源",
-    "context": "HTML description tag for the resources page."
-  },
-  "seoDescription6": {
-    "message": "についてレコードの閲覧・更新",
-    "context": "Part 1 of HTML description tag for the full record page (e.g. View and update record for John Doe)."
-  },
-  "seoDescription7": {
-    "message": ":",
-    "context": "Part 2 of HTML description tag for the full record page (e.g. from the Ecuador Earthquake)."
-  },
-  "seoAlt1": {
-    "message": "写真:",
-    "context": "Part 1 of HTML alt tag for a personal photo (e.g. Photo of John Doe)"
-  },
-  "seoAlt2": {
-    "message": "人",
-    "context": "Part 2 of HTML alt tag for a personal photo (e.g. missing person)"
-  },
-  "seoAlt3": {
-    "message": "報告:",
-    "context": "Part 3 of HTML alt tag for a personal photo (e.g. reported in Ecuador Earthquake)"
   },
   "eventListFindReportButton": {
     "message": "人、或いは、動物の検索 / 報告",
