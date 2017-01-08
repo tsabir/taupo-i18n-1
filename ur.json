@@ -304,63 +304,63 @@
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
-    "message": "If you are unable to locate the preson or animal you seek, then you should report this person to our PEOPLE LOCATOR registry. Once you have navigated into a disaster event, you will see a pink floating action button on the bottom right of the screen. Tapping this button will initiate the reporting process and launch you into a separate wizard that will guide you through the steps of completing a new report based on the information you provide us. Once completed, your report will be entered into our searchable registry and be publicly visible to others. Once you complete the report (if not reported anonymously) you will automatically begin to follow your own report for updates as they come into our registry. Others may comment on your record providing you with new information about the person or animal you reported. Since you are following this record, updates will be sent to you via email or push notifications.",
+    "message": "آپ اس شخص یا جانور تیرا طالب کو تلاش کرنے کے قابل نہیں ہیں، تو آپ کو یہ شخص ہمارے لوگوں لوکیٹر رجسٹری میں رپورٹ کرنا چاہئے. آپ ایک تباہی واقعہ میں نیویگیٹ ہے ایک بار، آپ کی سکرین کے سب سے نیچے دائیں ایک گلابی سچل کارروائی بٹن نظر آئے گا . اس بٹن ٹیپ آپ کی رپورٹ ہماری تلاش رجسٹری میں داخل کیا جائے گا رپورٹنگ کا عمل شروع ہو جائے گا اور ایک علیحدہ وزرڈ معلومات آپ ہمیں فراہم کی بنیاد پر ایک نئی رپورٹ مکمل کرنے کے اقدامات کے ذریعے مدد کرے گا بھی میں آپ کو شروع. ایک بار مکمل، اور ہو جائے دوسروں کو عوامی طور پر مرئی. ایک بار جب آپ رپورٹ مکمل (گمنام اطلاع نہیں ہے تو) آپ کو خود بخود وہ ہمارے رجسٹری میں آنے کے طور پر اپ ڈیٹس کے لئے آپ کی اپنی رپورٹ کی پیروی کرنے شروع کر دیں گے. دیگر شخص یا جانور کے بارے میں نئی ​​معلومات کے ساتھ آپ کو فراہم کر اپنے ریکارڈ پر تبصرہ کر سکتے ہیں آپ نے اطلاع دی. آپ اس ریکارڈ پیروی کر رہے ہیں کے بعد سے، اپ ڈیٹس بذریعہ ای میل آپ کو بھیج دیا یا اطلاعات دھکا ہو جائے گا",
     "context": "This is the help page article body describing in detail how to report a person or animal."
   },
   "pageAboutTextAbout": {
-    "message": "This site is provided by the United States National Library of Medicine in Bethesda, Maryland. NLM is part of the National Institutes of Health, United States Department of Health and Human Services, and has in its mission the development and coordination of communication technology to improve the delivery of health services. This site is provided for the purpose of studying the utility of such tools in responding to disasters. The underlying technology was developed through the Lost Person Finder project, part of NLM's contribution to the Bethesda Hospitals' Emergency Preparedness Partnership. The partnership received initial federal funding for LPF and other NLM IT projects in 2008. The LPF project is currently supported by the Intramural Research Program of the NIH, through NLM's Lister Hill National Center for Biomedical Communications. Software development is headed by LHNCBC's Communication Engineering Branch, with additional content from LHNCBC's Computer Science Branch and the Disaster Information Management Research Center, part of NLM's Specialized Information Services.",
+    "message": " یہ سائٹ Bethesda, Maryland میں واقع ریاستہائے متحدہ کی قومی لائبریری برائے طب (United States National Library of Medicine) کے ذریعہ فراہم کی جا رہی ہے۔ NLM قومی ادارہ برائے صحت، ریاستہائے متحدہ کا محکمۂ صحت اور انسانی خدمات، کا ایک حصہ ہے، اور اس کے مشن میں صحی خدمات کی فراہمی کو بہتر بنانے کے لیے مواصلاتی ٹیکنالوجی کی بہتری اور ربط شامل ہے۔ یہ سائٹ اس لیے فراہم کی جارہی ہے تا کہ قدرتی آفات کے جواب میں اس طرح کے اوزاروں کی افادیت کا مطالعہ ہو سکے۔ بنیادی ٹیکنالوجی کو غائب آدمی کو پانے والا (Lost Person Finder) پروجیکٹ کے ذریعہ ترقی دی گئی تھی، جو کہ بیتھسڈا اسپتال کی ہنگامی تیاری شراکت (Bethesda Hospitals' Emergency Preparedness Partnership) کے لیے NLM کی شراکت کا ایک حصہ ہے۔ شراکت کو 2008 میں LPF اور دیگر NLM IT پروجیکٹوں کے لیے ابتدائی وفاقی فنڈنگ ملی۔LPF پروجیکٹ فی الحال NIHکے ذریعہ داخلی تحقیق پروگرام (Intramural Research Program) کے ذریعہ، NLM کے لِسٹر ہِل مرکز برائے بایو میڈیکل مواصلات (Lister Hill National Center for Biomedical Communications) کے توسط سے، سپورٹ کیا جا رہا ہے۔ سافٹ ویئر ڈیولپمنٹ کی سربراہی LHNCBC کی مواصلاتی انجینئرنگ شاخ، LHNCBC کی کمپیوٹر سائنس شاخ اور قدرتی آفات انتظام تحقیق مرکز ، جو NLM کے مخصوص معلومات خدمات (Specialized Information Service) کا حصہ ہے، سے اضافی مواد کے ساتھ کر  رہی ہے۔", 
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
   "pageAboutTextBrowser": {
-    "message": "You must have cookie and JavaScript enabled in your web browser. You must also have one of the two most recent versions of the following web browsers: Chrome, Firefox, Safari, Opera, Edge, or Internet Explorer.",
+    "message": "آپ کو اپنے براؤزر میں کُکی اور جاوا اسکرپٹ کو فعال حالت میں رکھنا ہو گا۔ آپ کے پاس لازمی طور پر مندرجہ ذیل ویب براؤزروں کے دو تازہ  ترین ورژنوں میں سے ایک ہو: کروم، فائر فاکس، سفاری، اوپیرا، ایج، یا انٹرنیٹ ایکسپلورر۔",
     "context": "This is the text on the About page describing web browsers support."
   },
   "pageAboutHeaderBrowser": {
-    "message": "Browser Support",
+     "message": "براؤزر سپورٹ",
     "context": "On the About page, section header title Browser Support."
   },
   "pageAboutHeaderFAQ": {
-    "message": "Datasheets and Frequently Asked Questions",
+     "message": "ڈیٹا شیٹ اور اکثر پوچھے جانے والے سوالات",
     "context": "On the About page, this is the link to datasheets and the FAQ."
   },
   "pageAboutFAQ": {
-    "message": "Frequently Asked Questions",
+    "message": "اکثر پوچھے جانے والے سوالات",
     "context": "Frequently Asked Questions link title on About page."
   },
   "pagePrivacyText1": {
-    "message": "Unless otherwise indicated, community-based data contained on this Web site are available to the public and are searchable by all visitors to the Web site. Data may be received from various sources, as indicated on individual records by direct reporting to NLM through :",
+    "message": "جب تک کہ کسی دیگر چیز کی نشان دہی نہ کی جائے، اس ویب سائٹ میں شامل کمیونٹی پر مبنی ڈیٹا عوام کو دستیاب ہیں اور ویب سائٹ پر آنے والے سارے لوگ انھیں تلاش کر سکتے ہیں۔ ڈیٹا متعدد ذرائع سے موصول ہو سکتے ہیں، جیسا کہ انفرادی ریکارڈوں میں اشارہ کیا گیا ہے NLM کو مندرجہ ذیل کے توسط سے براہ راست رپورٹ کر کے:",
     "context": "This is the first text paragraph on the Privacy page describing how user data is handled."
   },
   "pagePrivacyText2a": {
-    "message": "Submissions to the",
+    "message": "جمع کاریاں",
     "context": "Beginning of the second paragraph on the Privacy page."
   },
   "pagePrivacyText2b": {
-    "message": "site are not moderated and other contributing organizations should not be expected to review or verify the accuracy of any of the data presented on this Web site. Note that data received by direct submission to",
+    "message": "سائٹ کو معتدل نہیں کیا جاتا ہے اور شراکت کرنے والی دیگر تنظیموں سے یہ امید نہیں کی جانی چاہئے کہ وہ اس ویب سائٹ پر پیش کردہ کسی ڈیٹا کا جائزہ لیں یا تصدیق کریں۔ نوٹ کر لیں ۔۔۔ کے پاس براہ راست جمع کاری سے موصول ہونے والا ڈیٹا  ",
     "context": "Large portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText2c": {
-    "message": "may be disseminated to other agencies, institutions, and organizations assisting the effort to locate missing people, including but not limited to the",
+    "message": "دوسری ایجنسیوں، اداروں، اور تنظیموں کو دیا جا سکتا ہے جو ایسے غائب لوگوں کی جگہ کا پتہ لگانے کی کوشش میں تعاون کر رہے ہیں جو اِن میں شامل ہیں مگر انھیں میں محدود نہیں، ",
     "context": "End portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText3a": {
-    "message": "For direct submissions to",
+    "message": "براہ راست جمع کاری کے لیے",
     "context": "Beginning of the third paragraph on the Privacy page."
   },
   "pagePrivacyText3b": {
-    "message": "the reporter's email address and device ID will be retained but will not be displayed publicly.",
+    "message": "رپورٹر کا ای میل پتہ اور آلہ آئی ڈی قبضے میں رکھا جائے گا مگر عوامی طور پر ظاہر نہیں کیا جائے گا۔",
     "context": "End of the third paragraph on the Privacy page."
   },
   "pagePrivacyText4": {
-    "message": "NLM's Overall Privacy Statement",
+   "message": "NLM کا اخفا بیان",
     "context": "Text for the link to NLM's privacy policy page."
   },
   "pagePrivacyText5": {
-    "message": "Freedom of Information Act",
+    "message": "آزادیٔ معلومات قانون",
     "context": "Text for the link to the Freedom of Information Act site."
   },
   "forMore": {
-    "message": "For More",
+    "message": "مزید کے لیے",
     "context": "The title for a subsection on the Privacy page with links to more topics."
   },
   "the": {
@@ -368,119 +368,119 @@
     "context": "The word the."
   },
   "backButton": {
-    "message": "BACK",
+     "message": "واپس",
     "context": "The text label for all buttons allowing the user to navigate back."
   },
   "pagePrivacyBullet1": {
-    "message": "report function",
+    "message": "فنکشن کی رپورٹ کریں",
     "context": "The second half ot the first bullet point on the Privacy page."
   },
   "pagePrivacyBullet2": {
-    "message": "application",
+    "message": "ایپلی کیشن",
     "context": "The word application as it applies to the ReUnite app."
   },
   "pagePrivacyBullet3": {
-    "message": "other syndicated organizations",
+    "message": "دیگر معاونتی تنظیمیں",
     "context": "The fourth bullet point on the Privacy page."
   },
   "pageResourcesTitle1": {
-    "message": "Find Family and Friends",
+    "message": "خاندان اور دوستوں کو تلاش کریں",
     "context": "The first section title on the Resources page."
   },
   "pageResourcesTitle2": {
-    "message": "Disaster Resources",
+    "message": "قدرتی آفات ذرائع",
     "context": "The second section title on the Resources page."
   },
   "pageResourcesTitle3": {
-    "message": "Flood Resources",
+    "message": "سیلاب ذرائع",
     "context": "The third section title on the Resources page."
   },
   "pageResourcesTitle4": {
-    "message": "Tornado Resources",
+    "message": "طوفان ذرائع",
     "context": "The fourth section title on the Resources page."
   },
   "pageResourcesFamily1": {
-    "message": "Red Cross Safe and Well List",
+    "message": "ریڈ کراس محفوظ اور ٹھیک فہرست",
     "context": "First bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily2": {
-    "message": "Federal Emergency Management Agency National Emergency Family Registry and Locator System",
+    "message": "وفاقی ہنگامی انتظام ایجنسی قومی ہنگامی خاندان رجسٹری اور لوکیٹر نظام",
     "context": "Second bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily3": {
-    "message": "Next of Kin National Registry",
+    "message": "قومی رشتہ دار کی قومی رجسٹری",
     "context": "Third bullet link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFamily4": {
-    "message": "International Committee of the Red Cross Restoring Family Links",
+     "message": "ریڈر کراس خاندان بحالی رابطہ کی بین الاقوامی کمیٹی",
     "context": "fourth buller link in the Family and Friends section of the Resource page."
   },
   "pageResourcesFromDIMRC": {
-    "message": "From NLM's Disaster Information Management Research Center",
+    "message": " کے قدرتی آفات معلومات انتطام تحقیق مرکز (NLM's Disaster Information Management Research Center ) کی جانب سے",
     "context": "Text label for several links to DIMRC on the Resource page."
   },
   "pageResourcesDisaster2": {
-    "message": "Disaster Assistance",
+    "message": "قدرتی آفت معاونت",
     "context": "Second bullet link on the Disaster section of the Resource page."
   },
   "pageResourcesDisaster3": {
-    "message": "Red Cross Provides Shelters and Food",
+    "message": "ریڈ کراس پناہ گاہیں اور خوراک فراہم کرتی ہے",
     "context": "Third buller link on the Disaster section of the Resource page."
   },
   "pageResourcesFromMedlinePlus": {
-    "message": "From NLM's MedlinePlus",
+    "message": "NLM  کے MedlinePlus کی جانب سے",
     "context": "Text label for several links to Medline Plus on the Resource page."
   },
   "followUs": {
-    "message": "Follow us on...",
+     "message": "ہماری پیروی کریں ",
     "context": "Used to prompt user to follow us on a social network of their choice."
   },
   "and": {
-    "message": "and",
+   	 "message": "اور",
     "context": "The word and used between two nouns."
   },
   "trademarkText": {
-    "message": "are registered trademarks of the U.S. Department of Health & Human Services.",
+    "message": "امریکی محکمہ برائے صحت و انسانی ذرائع کے رجسٹرڈ تجارتی نشانات ہیں۔",
     "context": "The second half of the trademark sentence."
   },
   "tabDisasterEvents": {
-    "message": "Disaster Events",
+     "message": "قدرتی آفات کے وقوعے",
     "context": "The title of the 1st tab allowing the selection of particular Disaster Events."
   },
   "tabFind": {
-    "message": "Find",
+     "message": "ڈھونڈھیں",
     "context": "The title of the 2nd tab allowing someone to Find a person or pet."
   },
   "tabReport": {
-    "message": "Report",
+    "message": "رپورٹ کریں",
     "context": "The title of the 3rd tab allowing someone to Report a new person or pet."
   },
   "tagline": {
-    "message": "Find and report missing family, friends, and pets during disasters.",
+    "message": "قدرتی آفات کے دوران غائب خاندان، دوستوں، اور پالتو جانوروں کو ڈھونڈھیں اور رپورٹ کریں۔",
     "context": "The tagline is the summary of what the application is for."
   },
   "pageTitle": {
-    "message": "Find and report missing people or animals during disasters",
+    "message": "تلاش کریں اور آفات کے دوران لوگوں یا جانوروں لاپتہ رپورٹ کریں",
     "context": "This is the page title which is very similar in nature to the tagline."
   },
   "eventRetired": {
-    "message": "The event you requested is no longer active.",
+    "message": "جس وقوعے کی آپ نے درخواست کی ہے وہ اب مزید فعال نہں رہا۔",
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
   },
   "eventListFindReportButton": {
-    "message": "Find / Report a Person or Animal",
+    "message": "کسی آدمی یا جانور کو تلاش کریں/اس کی رپورٹ کریں",
     "context": "This is the button text on the home page to Find or Report a person or animal."
   },
   "searchPlaceholder": {
-    "message": "Search",
+    "message": "تلاش کریں",
     "context": "The search box starts off with this text to inform the user what the element is used for."
   },
   "records": {
-    "message": "records",
+    "message": "ریکارڈ",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 17 records"
   },
   "moreDetails": {
-    "message": "More Details",
+    "message": "مزید تفصیلات",
     "context": "When search results are displayed, a user can click on the more details link to open the record displaying all record data."
   },
   "sexMale": {
