@@ -560,11 +560,11 @@
     "context": "This is a label below the displayed gender of a person or animal."
   },
   "lastKnownLocation": {
-    "message": "最後的已知的位置",
+    "message": "已知的最後位置",
     "context": "This is a label displayed below a text box showing a person or animal last known location."
   },
   "lastKnownInformation": {
-    "message": "最後的已知信息",
+    "message": "已知的最後信息",
     "context": "This is a label displayed below a text box showing a person or animal last known information in text form."
   },
   "otherInformation": {
