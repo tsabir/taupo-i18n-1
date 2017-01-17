@@ -248,11 +248,11 @@
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
   "pad3subStatusUnsubscribed": {
-    "message": "Ngừng đăng ký thuê bao",
+    "message": "Ngừng đăng ký",
     "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
   },
   "pad3subStatusSubscribed": {
-    "message": "Ghi danh thuê bao",
+    "message": "Đã được đăng ký",
     "context": "This text label tells the status of the user being subscribed to recieve notifications."
   },
   "pad3subscribeTo": {
@@ -548,7 +548,7 @@
     "context": "This label is displayed under the person or animal name."
   },
   "status": {
-    "message": "Trạng thái",
+    "message": "Tình trạng",
     "context": "This label is displayed below the person or animal missing / found status."
   },
   "lastUpdated": {
@@ -592,27 +592,27 @@
     "context": "This is the text option displayed for a user to choose the status of the person they are reporting."
   },  
   "explainMissingP": {
-    "message": "người được cho là mất tích",
+    "message": "Người ấy cho là mất tích",
     "context": "The label next to the status selection button for missing."
   },
   "explainFoundP": {
-    "message": "người đã được tìm thấy sức khỏe chưa biết",
+    "message": "Người ấy đã được tìm thấy sức khỏe chưa biết",
     "context": "The label next to the status selection button for found."
   },
   "explainAliveP": {
-    "message": "người đã được tìm thấy vẫn mạnh khỏe",
+    "message": "Người ấy đã được tìm thấy vẫn mạnh khỏe",
     "context": "The label next to the status selection button for alive & well."
   },
   "explainInjuredP": {
-    "message": "người đã được tìm thấy đang bị thương",
+    "message": "Người ấy đã được tìm thấy đang bị thương",
     "context": "The label next to the status selection button for injured."
   },
   "explainDeceasedP": {
-    "message": "người đã được tìm thấy đã qua đời",
+    "message": "Người ấy đã được tìm thấy đã qua đời",
     "context": "The label next to the status selection button for deceased."
   },
   "explainUnknownP": {
-    "message": "thông tin được tìm về người",
+    "message": "thông tin được tìm về người ấy",
     "context": "The label next to the status selection button for unknown."
   },  
   "location": {
@@ -660,19 +660,19 @@
     "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
   },
   "explainSexMaleP": {
-    "message": "giới tính của người là nam",
+    "message": "giới tính của người ấy là nam",
     "context": "The label next to the person sex selection button for male."
   },
   "explainSexFemaleP": {
-    "message": "giới tính của người là nữ",
+    "message": "giới tính của người ấy là nữ",
     "context": "The label next to the person sex selection button for female."
   },
   "explainSexOtherP": {
-    "message": "giới tính của người là giới tính khác",
+    "message": "giới tính của người ấy là giới tính khác",
     "context": "The label next to the person sex selection button for other."
   },
   "explainSexUnknownP": {
-    "message": "giới tính của người chưa biết",
+    "message": "giới tính của người ấy chưa biết",
     "context": "The label next to the person sex selection button for unknown."
   },
   "explainSexMaleA": {
@@ -704,7 +704,7 @@
     "context": "The label next to the status selection button for unknown."
   },
   "explainAgeUnknownP": {
-    "message": "tuổi của người chưa biết",
+    "message": "tuổi của người ấy chưa biết",
     "context": "The label next to the person age selection button for unknown."
   },
   "explainAgeUnknownA": {
@@ -724,7 +724,7 @@
     "context": "This is the section title displayed for a user to enter the name and/or the buddy identification number of the animal they are reporting."
   },
   "explainNameP": {
-    "message": "Tên người",
+    "message": "Tên người ấy",
     "context": "The text label for name entry of a person."
   },
   "explainNameA": {
@@ -744,7 +744,7 @@
     "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
-    "message": "Tên của người chưa biết",
+    "message": "Tên của người ấy chưa biết",
     "context": "The label next to the person name selection button for unknown."
   },
   "explainNameUnknownA": {
@@ -896,7 +896,7 @@
     "context": "This label is displayed below the follow user toggle button explaining what the button does."
   },
   "followButtonAnon": {
-    "message": "Để theo dõi một hồ sơ và nhận thông báo khi nó được cập nhật, đầu tiên bạn phải đăng nhập",
+    "message": "Để theo dõi một hồ sơ và nhận thông báo khi nó được cập nhật, trước tiên bạn phải đăng nhập",
     "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
   },
   "longerComment": {
