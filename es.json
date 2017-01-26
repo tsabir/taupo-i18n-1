@@ -372,7 +372,7 @@
     "context": "The text label for all buttons allowing the user to navigate back."
   },
   "pagePrivacyBullet1": {
-    "message": "función de informe",//Difficult to translate without context
+    "message": "función de informe",
     "context": "The second half ot the first bullet point on the Privacy page."
   },
   "pagePrivacyBullet2": {
