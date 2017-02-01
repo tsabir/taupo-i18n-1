@@ -1,4 +1,5 @@
-{
+{ 
+  
   "thisLanguage": {
     "message": "Español",
     "context": "This word describes this language itself."
@@ -468,7 +469,7 @@
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
   },
   "eventListFindReportButton": {
-    "message": "Buscar o Reportar Persona o Mascota",
+    "message": "Buscar o Denunciar Persona o Mascota",
     "context": "This is the button text on the home page to Find or Report a person or animal."
   },
   "searchPlaceholder": {
