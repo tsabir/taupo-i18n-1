@@ -1,6 +1,5 @@
 { 
-  
-  "thisLanguage": {
+    "thisLanguage": {
     "message": "Español",
     "context": "This word describes this language itself."
   },
@@ -349,7 +348,7 @@
     "context": "Beginning of the third paragraph on the Privacy page."
   },
   "pagePrivacyText3b": {
-    "message": "la  dirección de correo electrónico y el ID del dispositivo  de la persona que reporta se guardan, pero no son visibles al público.",
+    "message": "la  dirección de correo electrónico y el identificador del dispositivo  de la persona que denuncia se archivan, pero no son visibles al público.",
     "context": "End of the third paragraph on the Privacy page."
   },
   "pagePrivacyText4": {
@@ -461,7 +460,7 @@
     "context": "The tagline is the summary of what the application is for."
   },
   "pageTitle": {
-    "message": "Buscar y reportar personas desaparecidas o animales durante desastres",
+    "message": "Buscar o Denunciar personas desaparecidas o animales durante desastres",
     "context": "This is the page title which is very similar in nature to the tagline."
   },
   "eventRetired": {
@@ -589,7 +588,7 @@
     "context": "This is the text label on a button a user presses to choose an animal report."
   },
   "reportChoiceStatusP": {
-    "message": "Por favor indicar el estado de la persona que está reportando.",
+    "message": "Por favor indicar el estado de la persona que está denunciando.",
     "context": "This is the text option displayed for a user to choose the status of the person they are reporting."
   },  
   "explainMissingP": {
@@ -625,7 +624,7 @@
     "context": "Text label for Photo."
   },
   "reportChoiceStatusA": {
-    "message": "Por favor indicar el estado del animal que está reportando.",
+    "message": "Por favor indicar el estado del animal que está denunciando.",
     "context": "This is the text option displayed for a user to choose the status of the animal they are reporting."
   },
   "explainMissingA": {
@@ -653,11 +652,11 @@
     "context": "The label next to the status selection button for unknown."
   },
   "reportChoiceSexP": {
-    "message": "Por favor indicar el sexo de la persona que está reportando.",
+    "message": "Por favor indicar el sexo de la persona que está denunciando.",
     "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
   },
   "reportChoiceSexA": {
-    "message": "Por favor indicar el sexo de la persona que está reportando.",
+    "message": "Por favor indicar el sexo de la persona que está denunciando.",
     "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
   },
   "explainSexMaleP": {
@@ -693,11 +692,11 @@
     "context": "The label next to the animal sex selection button for unknown."
   },
   "reportChoiceAgeP": {
-    "message": "Por favor seleccione la edad aproximada de la persona que está reportando",
+    "message": "Por favor seleccione la edad aproximada de la persona que está denunciando",
     "context": "This is the text option displayed for a user to choose the age of the person they are reporting."
   },
   "reportChoiceAgeA": {
-    "message": "Por favor seleccione la edad aproximada del animal que está reportando",
+    "message": "Por favor seleccione la edad aproximada del animal que está denunciando",
     "context": "This is the text option displayed for a user to choose the age of the animal they are reporting."
   },
   "reportChoiceAgeUnknown": {
@@ -717,11 +716,11 @@
     "context": "The label of a button to continue to the next step."
   },
   "reportChoiceNameP": {
-    "message": "Por favor, introduzca el nombre de la persona que está reportando.",
+    "message": "Por favor, introduzca el nombre de la persona que está denunciando.",
     "context": "This is the section title displayed for a user to enter the name of the person they are reporting."
   },
   "reportChoiceNameA": {
-    "message": "Por favor, introduzca el nombre y / o un número de identificación del animal que está reportando.",
+    "message": "Por favor, introduzca el nombre y / o un número de identificación del animal que está denunciando.",
     "context": "This is the section title displayed for a user to enter the name and/or the buddy identification number of the animal they are reporting."
   },
   "explainNameP": {
