@@ -4,7 +4,7 @@
     "context": "This word describes this language itself."
   },
   "signIn": {
-    "message": "登錄或註冊",
+    "message": "登錄",
     "context": "A button that when clicked allows a user to login or register."
   },
   "logout": {
