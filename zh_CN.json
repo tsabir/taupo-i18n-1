@@ -4,7 +4,7 @@
     "context": "This word describes this language itself."
   },
   "signIn": {
-    "message": "登录或注册",
+    "message": "登录",
     "context": "A button that when clicked allows a user to login or register."
   },
   "logout": {
@@ -348,7 +348,7 @@
     "context": "Beginning of the third paragraph on the Privacy page."
   },
   "pagePrivacyText3b": {
-    "message": "我们将保留报告提交者的邮件地址和所用电子设备的系列编号，但这些信息是保密的，不会向公从泄露。",
+    "message": "我们将保留报告提交者的邮件地址和所用电子设备的系列编号，但这些信息是保密的，不会向公众泄露。",
     "context": "End of the third paragraph on the Privacy page."
   },
   "pagePrivacyText4": {
