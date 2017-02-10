@@ -1,10 +1,10 @@
 {
   "thisLanguage": {
-    "message": "Tiếng Anh",
+    "message": "Tiếng Việt",
     "context": "This word describes this language itself."
   },
   "signIn": {
-    "message": "Đăng nhập hoặc Ghi danh",
+    "message": "Đăng nhập",
     "context": "A button that when clicked allows a user to login or register."
   },
   "logout": {
