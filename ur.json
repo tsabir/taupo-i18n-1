@@ -680,195 +680,195 @@
   "context": "The label next to the animal sex selection button for male."
   },
   "explainSexFemaleA": {
-    "message": "gender of animal is female",
+    "message": "جانور کی جنس مادہ ہے",
     "context": "The label next to the animal sex selection button for female."
   },
   "explainSexOtherA": {
-    "message": "gender of animal is other",
+    "message": "جانور کی جنس دیگر ہے",
     "context": "The label next to the animal sex selection button for other."
   },
   "explainSexUnknownA": {
-    "message": "gender of animal is unknown",
+    "message": "جانور کی جنس نامعلوم ہے",
     "context": "The label next to the animal sex selection button for unknown."
   },
   "reportChoiceAgeP": {
-    "message": "Please select the approximate age of the person you are reporting",
+    "message": " آپ جس آدمی کی رپورٹ کر رہے ہیں برائے مہربانی اس کی تخمینی عمر منتخب کریں",
     "context": "This is the text option displayed for a user to choose the age of the person they are reporting."
   },
   "reportChoiceAgeA": {
-    "message": "Please select the approximate age of the animal you are reporting",
+    "message": "آپ جس جانور کی رپورٹ کر رہے ہیں برائے مہربانی اس کی تخمینی عمر منتخب کریں",
     "context": "This is the text option displayed for a user to choose the age of the animal they are reporting."
   },
   "reportChoiceAgeUnknown": {
-    "message": "If unsure the age, please select unknown.",
+    "message": "اگر عمر کے بارے میں پُریقین نہیں تو، برائے مہربانی نامعلوم کا انتخاب کریں۔",
     "context": "The label next to the status selection button for unknown."
   },
   "explainAgeUnknownP": {
-    "message": "age of person is unknown",
+    "message": "آدمی کی عمر نامعلوم ہے",
     "context": "The label next to the person age selection button for unknown."
   },
   "explainAgeUnknownA": {
-    "message": "age of animal is unknown",
+    "message": "جانور کی عمر نامعلوم ہے",
     "context": "The label next to the animal age selection button for unknown."
   },
   "continue": {
-    "message": "continue",
+    "message": "جاری رکھیں",
     "context": "The label of a button to continue to the next step."
   },
   "reportChoiceNameP": {
-    "message": "Please enter the name of the person you are reporting.",
+    "message": "آپ جس آدمی کی رپورٹ کر رہے ہیں برائے مہربانی اس کا نام درج کریں۔",
     "context": "This is the section title displayed for a user to enter the name of the person they are reporting."
   },
   "reportChoiceNameA": {
-    "message": "Please enter the name and/or buddy identification number of the animal you are reporting.",
+    "message": "جس جانور کی آپ رپورٹ کر رہے ہیں برائے مہربانی اس کا نام اور/یا رفیق شناخت نمبر درج کریں۔",
     "context": "This is the section title displayed for a user to enter the name and/or the buddy identification number of the animal they are reporting."
   },
   "explainNameP": {
-    "message": "name of person",
+    "message": "آدمی کا نام",
     "context": "The text label for name entry of a person."
   },
   "explainNameA": {
-    "message": "name of animal",
+    "message": "جانور کا نام",
     "context": "The text label for name entry of an animal."
   },
   "explainBuddyA": {
-    "message": "buddy identification number of animal",
+   "message": "جانور کا رفیق شناخت نمبر",
     "context": "The text label for buddty identification number entry of an animal."
   },
   "reportChoiceNameUnknownP": {
-    "message": "If unsure the name, please select unknown.",
+   "message": "اگر نام کے بارے میں پُریقین نہیں ہیں تو، برائے مہربانی نامعلوم کا انتخاب کریں۔",
     "context": "This is the section title displayed for the use to choose name unknown."
   },
   "reportChoiceNameUnknownA": {
-    "message": "If unsure the name and buddy identification number, please select unknown.",
+    "message": "اگر نام اور رفیق کی شناخت نمبر کے بارے میں پُریقین نہیں تو، please select unknown.",
     "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
-    "message": "name of person is unknown",
+    "message": "آدمی کا نام نامعلوم ہے",
     "context": "The label next to the person name selection button for unknown."
   },
   "explainNameUnknownA": {
-    "message": "name and buddy identification number of animal is unknown",
+    "message": "جانور کا نام اور رفیق شناخت نمبر نامعلوم ہے",
     "context": "The label next to the animal name selection button for unknown."
   },
   "cameraError": {
-    "message": "No camera detected by your web browser. You may opt to use your camera app instead.",
+    "message": "آپ کے ویب براؤزر کے ذریعہ کسی کیمرہ کا سراغ نہیں لگایا گیا۔ آپ اس کے بجائے اپنے کیمرہ ایپ کے استعمال کو اختیار کر سکتے ہیں۔",
     "context": "This toast notification is displayed when there is an error detecting the camera on the user device."
   },
   "browserLimitation": {
-    "message": "Your web browser does not support this feature.",
+    "message": "آپ کا ویب براؤزر اس فیچر کو سپورٹ نہیں کرتا ہے۔",
     "context": "This toast notification is displayed when a user attempts to use a feature that their web browser does not support."
   },
   "photoOnly": {
-    "message": "JPG, GIF, and PNG files only.",
+    "message": "صرف JPG، GIF اور PNG فائلیں۔",
     "context": "This toast notification is displayed when a user attempts to use an unsupported image file format."
   },
   "reportChoicePhotoP": {
-    "message": "You may optionally add a photo to improve identification of this person.",
+    "message": "اس آدمی کی شناخت کو بہتربنانے کے لیے آپ اختیاری طور پر ایک تصویر کا اضافہ کر سکتے ہیں۔",
     "context": "Section titled telling user that they can add a photo for identification purposes."
   },
   "reportChoicePhotoA": {
-    "message": "You may optionally add a photo to improve identification of this animal.",
+    "message": "اس جانور کی شناخت کو بہتربنانے کے لیے آپ اختیاری طور پر ایک تصویر کا اضافہ کر سکتے ہیں",
     "context": "Section titled telling user that they can add a photo for identification purposes."
   },
   "reportChoicePhotoCapture": {
-    "message": "Capture",
+   "message": "قید کریں",
     "context": "This is the button label used to capture a photograph using the device camera."
   },
   "reportChoicePhotoSelectFile": {
-    "message": "Select File",
+   "message": "فائل منتخب کریں",
     "context": "This is the button label used to select an image file from local device storage."
   },
   "reportChoicePhotoTake": {
-    "message": "Take a Photo",
+    "message": "تصویر لیں",
     "context": "This is the button label used to open the device camera before capturing an image."
   },
   "reportChoicePhotoDelete": {
-    "message": "Delete",
+   "message": "حذف کریں",
     "context": "This is the button label used to delete an image the user has already submitted."
   },
   "reportChoicePhotoHelp": {
-    "message": "Crop or rotate the photo if necessary.",
+    "message": "اگر ضروری ہو تو تصویر کو تراشیں یا اس کا رخ بدلیں۔",
     "context": "This is the help text displayed below image manipulation controls informing the user how to alter the already submitted image."
   },
   "reportChoiceMapP": {
-    "message": "You may optionally specify a map point to assist others in locating this person.",
+    "message": " دوسروں کو اس آدمی کے مقام تک پہونچنے میں مدد کرنے کے لیے آپ اختیاری طور پر ایک نقشہ نکتہ کی تخصیص کر سکتے ہیں",
     "context": "This is the section header above the map used to specify a last known location."
   },
   "reportChoiceMapA": {
-    "message": "You may optionally specify a map point to assist others in locating this animal.",
+    "message": " دوسروں کو اس جانور کے مقام تک پہونچنے میں مدد کرنے کے لیے آپ اختیاری طور پر ایک نقشہ نکتہ کی تخصیص کر سکتے ہیں۔",
     "context": "This is the section header above the map used to specify a last known location."
   },
   "reportChoiceMapHelp": {
-    "message": "Drag the map marker to the last known location.",
+    "message": "نقشہ کے مارکر کو کھینچ کر آخری معلوم جگہ تک لے جائیں۔",
     "context": "This is the help text below the last know location map informing a user what to do."
   },
   "information": {
-    "message": "Information",
+   "message": "معلومات",
     "context": "This a label for a tab in the reporting wizard where a user enters free text about Last Known Information."
   },
   "submit": {
-    "message": "Submit",
+    "message": "جمع کریں",
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report."
   },
   "submitAnon": {
-    "message": "Submit Anonymously",
+    "message": "گمنام کے طور پر جمع کریں",
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report anonymously."
   },
   "reportChoiceInformation": {
-    "message": "Last Known Information",
+   "message": "آخری معلوم معلومات",
     "context": "This is the section title for allowing the user to enter free text information about the person/animal."
   },
   "reportChoiceInformationHelpP": {
-    "message": "You may optionally provide any additional information that you feel would assist others in identifying or locating this person.",
+    "message": "آپ اختیاری طور پر کوئی اضافی معلومات فراہم کر سکتے ہیں جس کے بارے میں آ پ کا خیال ہے کہ اس سے دوسروں کو اس آدمی کی شناخت کرنے یا اس کی تعیین کرنے میں مدد ملے گی۔",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the person."
   },
   "reportChoiceInformationHelpA": {
-    "message": "You may optionally provide any additional information that you feel would assist others in identifying or locating this animal.",
+    "message": " آپ اختیاری طور پر کوئی اضافی معلومات فراہم کر سکتے ہیں جس کے بارے میں آ پ کا خیال ہے کہ اس سے دوسروں کو اس جانور کی شناخت کرنے یا اس کی تعیین کرنے میں مدد ملے گی۔",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the animal."
   },
   "reportBeingSubmittedToast": {
-    "message": "Report being submitted ...",
+   "message": "رپورٹ جمع کی جا رہی ہے۔۔۔",
     "context": "This toast notification will be displayed while the report is being sent in."
   },
   "reportSubmit": {
-    "message": "Submit Report",
+    "message": "رپورٹ جمع کریں",
     "context": "This is the section title on the last page of the reporting wizard. The user will choose how to submit the report."
   },
   "explainSignInP": {
-    "message": "If you would like to be notified when additional information about this person becomes available, please sign in before submitting the report.",
+    "message": " اگر آپ چاہتے ہیں کہ جب اس آدمی کے بارے میں اضافی معلومات دستیاب ہوں تو آپ کو اطلاع ملے تو، برائے مہربانی رپورٹ جمع کرنے سے پہلے سائن اِن کریں۔",
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSignInA": {
-    "message": "If you would like to be notified when additional information about this animal becomes available, please sign in before submitting the report.",
+    "message": " اگر آپ چاہتے ہیں کہ جب اس جانور کے بارے میں اضافی معلومات دستیاب ہوں تو آپ کو اطلاع ملے تو، برائے مہربانی رپورٹ جمع کرنے سے پہلے سائن اِن کریں۔",
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSubmitP": {
-    "message": "If you would like to be notified when additional information about this person becomes available, choose to submit the report now.",
+    "message": "اگر آپ چاہتے ہیں کہ جب اس آدمی کے بارے میں اضافی معلومات دستیاب ہوں تو آپ کو اطلاع ملے تو، رپورٹ کو اب جمع کرنے کا انتخاب کریں۔",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainSubmitA": {
-    "message": "If you would like to be notified when additional information about this animal becomes available, choose to submit the report now.",
+    "message": " اگر آپ چاہتے ہیں کہ جب اس جانور کے بارے میں اضافی معلومات دستیاب ہوں تو آپ کو اطلاع ملے تو، رپورٹ کو اب جمع کرنے کا انتخاب کریں۔",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainAnonP": {
-    "message": "Submit anonymously and you will not be notified when more information about this person becomes available.",
+    "message": "گمنام طور پر جمع کریں گے تو اس آدمی کے بارے میں جب مزید معلومات دستیاب ہوں گی  تو آپ کو اطلاع نہیں دی جائے گی۔",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "explainAnonA": {
-    "message": "Submit anonymously and you will not be notified when more information about this animal becomes available.",
+    "message": "گمنام طور پر جمع کریں گے تو اس آدمی کے بارے میں جب مزید معلومات دستیاب ہوں گی  تو آپ کو اطلاع نہیں دی جائے گی۔",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
-    "message": "Report Complete",
+   "message": "رپورٹ مکمل",
     "context": "This is the section title on the final page of the reporting wizard. The report has been completed."
   },
   "explainCopy1": {
-    "message": "This is the URL for your completed report. You may return to this URL at a later time to view updates and/or comments made to this record.",
+    "message": "یہ آپ کی مکمل کردہ رپورٹ کا یوآرایل ہے۔ آپ اس ریکارڈ پر اپ ڈیٹ اور/یا تبصرے دیکھنے کے لیے بعد میں اس یوآرایل پر واپس آ سکتے ہیں۔",
     "context": "We inform the user of the URL that corresponds to the report they just completed so that they may bookkmark or share it for later."
   },
   "explainCopy2": {
-    "message": "Copy this URL to your clipboard so that you can share or bookmark it.",
+    "message": "اس یوآرایل کو اپنے کلپ بورڈ پر کاپی کریں تا کہ آپ اس کو شیئر یا اسے بُک مارک کر سکیں۔",
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
   },
   "buddyIdentificationNumber": {
