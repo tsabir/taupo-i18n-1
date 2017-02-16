@@ -860,7 +860,7 @@
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
-    "message": "報告完了",
+    "message": "Report Complete and Submitted, Thank you.",
     "context": "This is the section title on the final page of the reporting wizard.The report has been completed."
   },
   "explainCopy1": {

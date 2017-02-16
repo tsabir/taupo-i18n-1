@@ -484,200 +484,200 @@
     "context": "When search results are displayed, a user can click on the more details link to open the record displaying all record data."
   },
   "sexMale": {
-  "message": "نر",
-  "context": "Sex = Male"
+    "message": "نر",
+    "context": "Sex = Male"
   },
   "sexFemale": {
-  "message": "مادہ",
-  "context": "Sex = Female"
+    "message": "مادہ",
+    "context": "Sex = Female"
   },
   "sexOther": {
-  "message": "دیگر",
-  "context": "Sex = Other"
+    "message": "دیگر",
+    "context": "Sex = Other"
   },
   "statusMissing": {
-  "message": "غائب",
-  "context": "Status is Missing"
+    "message": "غائب",
+    "context": "Status is Missing"
   },
   "statusFound": {
-  "message": "ملا",
-  "context": "Status is Found"
-  } ,
+    "message": "ملا",
+    "context": "Status is Found"
+  },
   "statusDeceased": {
-  "message": "بیمار",
-  "context": "Status is Deceased"
+    "message": "بیمار",
+    "context": "Status is Deceased"
   },
   "statusInjured": {
-  "message": "زخمی",
-  "context": "Status is Injured"
+    "message": "زخمی",
+    "context": "Status is Injured"
   },
   "statusAlive": {
-  "message": "زندہ و ٹھیک",
-  "context": "Status is Alive and Well"
+    "message": "زندہ و ٹھیک",
+    "context": "Status is Alive and Well"
   },
   "statusUnknown": {
-  "message": "نامعلوم",
-  "context": "Status, Location, or other attribute is Unknown"
+    "message": "نامعلوم",
+    "context": "Status, Location, or other attribute is Unknown"
   },
   "age": {
-  "message": "عمر",
-  "context": "Age of person or animal"
+    "message": "عمر",
+    "context": "Age of person or animal"
   },
   "comments": {
-  "message": "تبصرے",
-  "context": "Comments that others may add to a person or animal record."
+    "message": "تبصرے",
+    "context": "Comments that others may add to a person or animal record."
   },
   "addComment": {
-  "message": "ایک تبصرہ کا اضافہ کریں",
-  "context": "The label for a button allowing a user to add a comment to a record."
+    "message": "ایک تبصرہ کا اضافہ کریں",
+    "context": "The label for a button allowing a user to add a comment to a record."
   }, 
   "addCommentLabel": {
-  "message": "اس ریکارڈ کے بارے میں کسی ایسی اضافی معلومات کا اضافہ کریں جو ممکن ہے کہ آپ کے پاس ہو",
-  "context": "This is the label below the add comment button explaining to a user what it does."
+    "message": "اس ریکارڈ کے بارے میں کسی ایسی اضافی معلومات کا اضافہ کریں جو ممکن ہے کہ آپ کے پاس ہو",
+    "context": "This is the label below the add comment button explaining to a user what it does."
   },
   "followButton": {
-  "message": "پیروی کریں",
-  "context": "A button allows a user to follow record updates."
+    "message": "پیروی کریں",
+    "context": "A button allows a user to follow record updates."
   },
   "followButtonLabel": {
-  "message": "اس شخص کے تعلق سے ساری اپ ڈیٹ ای میل کے توسط سے موصول کریں",
-  "context": "This is the label below the follow button explaining to a user what it does."
+    "message": "اس شخص کے تعلق سے ساری اپ ڈیٹ ای میل کے توسط سے موصول کریں",
+    "context": "This is the label below the follow button explaining to a user what it does."
   },
   "name": {
-  "message": "نام",
-  "context": "This label is displayed under the person or animal name."
+    "message": "نام",
+    "context": "This label is displayed under the person or animal name."
   },
   "status": {
-  "message": "حالت",
-  "context": "This label is displayed below the person or animal missing / found status."
+    "message": "حالت",
+    "context": "This label is displayed below the person or animal missing / found status."
   },
   "lastUpdated": {
-  "message": "آخری بار اپ ڈیٹ کیا گیا",
-  "context": "This label is displayed under the date / time of when a record was last updated."
+    "message": "آخری بار اپ ڈیٹ کیا گیا",
+    "context": "This label is displayed under the date / time of when a record was last updated."
   },
   "gender": {
-  "message": "جنس",
-  "context": "This is a label below the displayed gender of a person or animal."
+    "message": "جنس",
+    "context": "This is a label below the displayed gender of a person or animal."
   },
   "lastKnownLocation": {
-  "message": "آخری معلوم جائے وقوع",
-  "context": "This is a label displayed below a text box showing a person or animal last known location."
+    "message": "آخری معلوم جائے وقوع",
+    "context": "This is a label displayed below a text box showing a person or animal last known location."
   },
   "lastKnownInformation": {
-  "message": "آخری معلوم معلومات",
-  "context": "This is a label displayed below a text box showing a person or animal last known information in text form."
+    "message": "آخری معلوم معلومات",
+    "context": "This is a label displayed below a text box showing a person or animal last known information in text form."
   },
   "otherInformation": {
-  "message": "دیگر معلومات",
-  "context": "This is a label displayed below a text box showing other information about a person or animal."
+    "message": "دیگر معلومات",
+    "context": "This is a label displayed below a text box showing other information about a person or animal."
   },
   "newReport": {
-  "message": "نئی رپورٹ",
-  "context": "This is the window title when a new person or animal is being reported."
+    "message": "نئی رپورٹ",
+    "context": "This is the window title when a new person or animal is being reported."
   },
   "reportChoicePA": {
-  "message": "آپ کسی آدمی کی رپورٹ کرنا چاہیں گے یا کسی جانور کی؟",
-  "context": "This is the text option displayed for a user to choose and fill out either a person or animal report."
+    "message": "آپ کسی آدمی کی رپورٹ کرنا چاہیں گے یا کسی جانور کی؟",
+    "context": "This is the text option displayed for a user to choose and fill out either a person or animal report."
   },
   "person": {
-  "message": "آدمی",
-  "context": "This is the text label on a button a user presses to choose a person report."
+    "message": "آدمی",
+    "context": "This is the text label on a button a user presses to choose a person report."
   },
   "animal": {
-  "message": "جانور",
-  "context": "This is the text label on a button a user presses to choose an animal report."
+    "message": "جانور",
+    "context": "This is the text label on a button a user presses to choose an animal report."
   },
   "reportChoiceStatusP": {
-  "message": "آپ جس آدمی کی رپورٹ کر رہے ہیں برائے مہربانی اس کی حالت کی نشان دہی کریں۔",
-  "context": "This is the text option displayed for a user to choose the status of the person they are reporting."
+    "message": "آپ جس آدمی کی رپورٹ کر رہے ہیں برائے مہربانی اس کی حالت کی نشان دہی کریں۔",
+    "context": "This is the text option displayed for a user to choose the status of the person they are reporting."
   }, 
   "explainMissingP": {
-  "message": "آدمی کے بارے میں مانا جا رہا ہے کہ وہ غائب ہے",
-  "context": "The label next to the status selection button for missing."
+    "message": "آدمی کے بارے میں مانا جا رہا ہے کہ وہ غائب ہے",
+    "context": "The label next to the status selection button for missing."
   },
   "explainFoundP": {
-  "message": "آدمی مل گیا ہے صحت نامعلوم",
-  "context": "The label next to the status selection button for found."
+    "message": "آدمی مل گیا ہے صحت نامعلوم",
+    "context": "The label next to the status selection button for found."
   },
   "explainAliveP": {
-  "message": "آدمی مل گیا ہے اور ٹھیک ہے",
-  "context": "The label next to the status selection button for alive & well."
+    "message": "آدمی مل گیا ہے اور ٹھیک ہے",
+    "context": "The label next to the status selection button for alive & well."
   },
   "explainInjuredP": {
-  "message": "آدمی مل گیا ہے اور زخمی ہے",
-  "context": "The label next to the status selection button for injured."
+    "message": "آدمی مل گیا ہے اور زخمی ہے",
+    "context": "The label next to the status selection button for injured."
   },
   "explainDeceasedP": {
-  "message": " آدمی مل گیا ہے اور زخمی ہے ",
-  "context": "The label next to the status selection button for deceased."
+    "message": " آدمی مل گیا ہے اور زخمی ہے ",
+    "context": "The label next to the status selection button for deceased."
   },
   "explainUnknownP": {
-  "message": "معلومات آدمی کے بارے میں چاہی جا رہی ہیں",
-  "context": "The label next to the status selection button for unknown."
+    "message": "معلومات آدمی کے بارے میں چاہی جا رہی ہیں",
+    "context": "The label next to the status selection button for unknown."
   }, 
   "location": {
-  "message": "محل وقوع",
-  "context": "Text label for Location."
+    "message": "محل وقوع",
+    "context": "Text label for Location."
   },
   "photo": {
-  "message": "تصویر",
-  "context": "Text label for Photo."
+    "message": "تصویر",
+    "context": "Text label for Photo."
   },
   "reportChoiceStatusA": {
-  "message": "آپ جس جانور کی رپورٹ کر رہے ہیں برائے مہربانی اس کی حالت کی نشان دہی کریں۔",
-  "context": "This is the text option displayed for a user to choose the status of the animal they are reporting."
+    "message": "آپ جس جانور کی رپورٹ کر رہے ہیں برائے مہربانی اس کی حالت کی نشان دہی کریں۔",
+    "context": "This is the text option displayed for a user to choose the status of the animal they are reporting."
   },
   "explainMissingA": {
-  "message": "جانور کے بارے میں مانا جا رہا ہے کہ وہ غائب ہے",
-  "context": "The label next to the status selection button for missing."
+    "message": "جانور کے بارے میں مانا جا رہا ہے کہ وہ غائب ہے",
+    "context": "The label next to the status selection button for missing."
   },
   "explainFoundA": {
-  "message": "جانور مل گیا ہے صحت نامعلوم",
-  "context": "The label next to the status selection button for found."
+    "message": "جانور مل گیا ہے صحت نامعلوم",
+    "context": "The label next to the status selection button for found."
   },
   "explainAliveA": {
-  "message": "جانور مل گیا ہے اور ٹھیک ہے",
-  "context": "The label next to the status selection button for alive & well."
+    "message": "جانور مل گیا ہے اور ٹھیک ہے",
+    "context": "The label next to the status selection button for alive & well."
   },
   "explainInjuredA": {
-  "message": "جانور مل گیا ہے اور زخمی ہے",
-  "context": "The label next to the status selection button for injured."
+    "message": "جانور مل گیا ہے اور زخمی ہے",
+    "context": "The label next to the status selection button for injured."
   },
   "explainDeceasedA": {
-  "message": "جانور مل گیا ہے اور بیمار ہے",
-  "context": "The label next to the status selection button for deceased."
+    "message": "جانور مل گیا ہے اور بیمار ہے",
+    "context": "The label next to the status selection button for deceased."
   },
   "explainUnknownA": {
-  "message": "معلومات جانور کے بارے میں چاہی جا رہی ہیں",
-  "context": "The label next to the status selection button for unknown."
+    "message": "معلومات جانور کے بارے میں چاہی جا رہی ہیں",
+    "context": "The label next to the status selection button for unknown."
   },
   "reportChoiceSexP": {
-  "message": "آپ جس آدمی کی رپورٹ کر رہے ہیں برائے مہربانی اس کی جنس کی نشان دہی کریں۔",
-  "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
+    "message": "آپ جس آدمی کی رپورٹ کر رہے ہیں برائے مہربانی اس کی جنس کی نشان دہی کریں۔",
+    "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
   },
   "reportChoiceSexA": {
-  "message": "آپ جس آدمی کی رپورٹ کر رہے ہیں برائے مہربانی اس کی جنس کی نشان دہی کریں",
-  "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
+    "message": "آپ جس آدمی کی رپورٹ کر رہے ہیں برائے مہربانی اس کی جنس کی نشان دہی کریں",
+    "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
   },
   "explainSexMaleP": {
-  "message": "آدمی کی جنس نر ہے",
-  "context": "The label next to the person sex selection button for male."
+    "message": "آدمی کی جنس نر ہے",
+    "context": "The label next to the person sex selection button for male."
   },
   "explainSexFemaleP": {
-  "message": "آدمی کی جنس مادہ ہے",
-  "context": "The label next to the person sex selection button for female."
+    "message": "آدمی کی جنس مادہ ہے",
+    "context": "The label next to the person sex selection button for female."
   },
   "explainSexOtherP": {
-  "message": "آدمی کی جنس دیگر ہے",
-  "context": "The label next to the person sex selection button for other."
+    "message": "آدمی کی جنس دیگر ہے",
+    "context": "The label next to the person sex selection button for other."
   },
   "explainSexUnknownP": {
-  "message": "آدمی کی جنس نامعلوم ہے",
-  "context": "The label next to the person sex selection button for unknown."
+    "message": "آدمی کی جنس نامعلوم ہے",
+    "context": "The label next to the person sex selection button for unknown."
   },
   "explainSexMaleA": {
-  "message": "جانور کی جنس نر ہے",
-  "context": "The label next to the animal sex selection button for male."
+    "message": "جانور کی جنس نر ہے",
+    "context": "The label next to the animal sex selection button for male."
   },
   "explainSexFemaleA": {
     "message": "جانور کی جنس مادہ ہے",
