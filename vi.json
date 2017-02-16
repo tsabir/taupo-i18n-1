@@ -860,7 +860,7 @@
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
-    "message": "Report Complete and Submitted, Thank you.",
+    "message": "Hồ sơ hoàn thành và đã được đăng, Cảm ơn bạn.",
     "context": "This is the section title on the final page of the reporting wizard. The report has been completed."
   },
   "explainCopy1": {
