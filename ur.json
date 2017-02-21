@@ -871,88 +871,88 @@
     "message": "اس یوآرایل کو اپنے کلپ بورڈ پر کاپی کریں تا کہ آپ اس کو شیئر یا اسے بُک مارک کر سکیں۔",
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
   },
-  "buddyIdentificationNumber": {
-    "message": "Buddy Identification Number",
+ "buddyIdentificationNumber": {
+    "message": "بڈی شناختی نمبر",
     "context": "This is the label to the Buddy Identification Number field which is displayed for animals."
   },
   "notifyRecordFollow": {
-    "message": "You are now following this record and will recieve updates as it changes or a comment is added",
+    "message": "اب آپ اس ریکارڈ کی پیروی کر رہے ہیں اور اس میں تبدیلی یا ایک تبصرہ شامل کیا جاتا ہے کے طور پر اپ ڈیٹ recieve گا",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },  
   "notifyRecordUnfollow": {
-    "message": "You are no longer following this record",
+    "message": "اب آپ اس ریکارڈ پیروی کر رہے ہیں",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },
   "followStatusTrue": {
-    "message": "Following",
+    "message": "پیروی",
     "context": "This label is displayed next to a toggle switch displaying that the user is folliwng the currently viewed record."
   },
   "followStatusFalse": {
-    "message": "Not Following",
+    "message": "نہیں پیروی",
     "context": "This label is displayed next to a toggle switch displaying that the user is not folliwng the currently viewed record."
   },
   "followButtonExplain": {
-    "message": "Recieve a notification when a change is made to this record or a comment is added",
+    "message": "ایک تبدیلی اس ریکارڈ کو کی جاتی ہے یا ایک تبصرہ شامل ہے جب ایک اطلاع موصول کریں",
     "context": "This label is displayed below the follow user toggle button explaining what the button does."
   },
   "followButtonAnon": {
-    "message": "To follow a record and recieve notifications when it is updated, you must first sign in",
+    "message": "ایک ریکارڈ کی پیروی اور جب اسے اپ ڈیٹ کیا ہے اطلاعات کے recieve کرنے کے، آپ سب سے پہلے سائن ان کرنا ضروری",
     "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
   },
   "longerComment": {
-    "message": "Please enter a longer comment",
+    "message": "ایک طویل تبصرہ درج کریں",
     "context": "The user is notified to enter a longer comment if it is too short"
   },
   "commentBeingSubmittedToast": {
-    "message": "Comment being submitted ...",
+    "message": "تبصرہ پیش کیا جا رہا ...",
     "context": "This toast notification will be displayed while the new comment is being sent in."
   },
   "eventInvalid": {
-    "message": "This event does not exist.",
+    "message": ".یہ واقعہ موجود نہیں ہے",
     "context": "If the user comes to the site with a direct URL linking to an invalid event, this toast notification will appear."
   },
   "moduleInvalid": {
-    "message": "This module does not exist.",
+    "message": ".یہ ماڈیول کا کوئی وجود نہیں",
     "context": "If the user attempts to access a non-existant portion of the site (very unlikely) this toast notification will appear."
   },
   "moduleAccess": {
-    "message": "You do not have permission to access this module.",
+    "message": ".آپ اس ماڈیول تک رسائی حاصل کرنے کی اجازت نہیں ہے",
     "context": "If the user attempts to access a portion of the site they do not have permission for, this toast notification will appear."
   },
   "copyTrue": {
-    "message": "URL copied to clipboard.",
+    "message": ".URL کلپ بورڈ پر کاپی",
     "context": "After the user clicks on the copy to clipboard button, if successful, this toast notification will appear."
   },
   "copyFalse": {
-    "message": "Failed to copy URL to clipboard.",
+    "message": ".کلپ بورڈ میں یو آر ایل کاپی کرنے میں ناکام",
     "context": "After the user clicks on the copy to clipboard button, if unsuccessful, this toast notification will appear."
   },
   "userConfirmActive": {
-    "message": "Your email address is now confirmed and your user account activated.",
+    "message": ".آپ کا ای میل ایڈریس اب تصدیق کی ہے اور آپ کے صارف اکاؤنٹ چالو",
     "context": "When the user visits a confirmation link emailed to them, this toast notification will appear informing the user that their account is now active and email address verified."
   },
   "userConfirmInvalid": {
-    "message": "This confirmation link is invalid.",
+    "message": ".یہ تصدیق لنک غلط ہے",
     "context": "When the user vists an invalid email address confirmation link or an invalid password reset confirmation link, this toast notification will appear."
   },
   "userPasswordTwo": {
-    "message": "A new password has been emailed to you.",
+    "message": ".ایک نیا پاس ورڈ آپ کو ای میل کر دیا گیا ہے",
     "context": "When the user visits a valid password reset confirmation link, this toast notification will appear to notify the user a new password has been generated and emailed to them."
   },
   "eurl1": {
-    "message": "Share this event",
+    "message": "اس واقعہ کا اشتراک",
     "context": "This section text is displayed on the paper action dialog when a user clicks the share event button."
   },
   "eurl2": {
-    "message": "Press the button to copy this event URL to your clipboard so that you can share or bookmark it.",
+    "message": ".آپ کے کلپ بورڈ پر اس ایونٹ URL کاپی کرنے کے لئے آپ کو اس کا اشتراک یا بک مارک کر سکتے ہیں تاکہ بٹن دبائیں",
     "context": "This text is displayed below the -copy to clipboard- button on the share event paper action dialog."
   },
   "page404": {
-    "message": "404: This page does not exist.",
+    "message": "404: یہ صفحہ موجود نہیں ہے.",
     "context": "This toast is displayed when a user attempts to visit a non-existant page."
   },
   "ombNoticeTitle": {
-    "message": "OMB Notice",
+    "message": "OMB نوٹس",
     "context": "This is the page title for the OMB Notice."
   }
 }
