@@ -67,33 +67,25 @@
     "message": "Lỗi: Tài khoản của bạn tạm thời bị khóa sau nhiều lần thất bại trong việc đăng nhập, hãy thử lại sau",
     "context": "Error message presented when a user fails to login repeatedly." 
   },
-  "plusError6": {
+  "restError2000": {
     "message": "Lỗi: người dùng đã tồn tại với địa chỉ email cung cấp",
     "context": "Error message presented when user tries to use an email address already in use."
   },
-  "plusError7": {
-    "message": "Lỗi: tên người dùng mà bạn cung cấp không có",
-    "context": "Error message presented when a user attempts to register with a username that is already in use by another user."
-  },
-  "plusError8": {
+  "restError2001": {
     "message": "Lỗi: địa chỉ thư điện tử không hợp lệ",
     "context": "Error message presented when a user provides an invalid email address."
   },
-  "plusError9": {
+  "restError2002": {
     "message": "Lỗi: Mật khẩu phải có 8-16 ký tự, phải có ít nhất một chữ hoa, một chữ thường và một ký tự số",
     "context": "Error message presented when user enters an invalid password."
+  },
+  "restError2003": {
+    "message": "Lỗi: kết quả kiểm tra xác nhận người dùng không chính xác, vui lòng tải lại trang",
+    "context": "Error message presented when the captcha system encounters invalid data."
   },
   "plusError11": {
     "message": "Lỗi: địa chỉ email được cung cấp không hợp với bất kỳ tài khoản người dùng",
     "context": "Error message presented when user attempts to reset password with an unregistered email address."
-  },
-  "plusError14": {
-    "message": "Lỗi: kết quả kiểm tra xác nhận người dùng không chính xác, vui lòng tải lại trang",
-    "context": "Error message presented when the captcha system encounters invalid data."
-  },
-  "plusError15": {
-    "message": "Lỗi: phiên reCaptcha hết hạn, xin vui lòng tải lại trang web",
-    "context": "Error message presented when the reCaptcha session has expired and the user must reload the page to continue."
   },
   "plusError16": {
     "message": "Lỗi: mật khẩu không đúng",
@@ -954,5 +946,65 @@
   "ombNoticeTitle": {
     "message": "Chú thích từ OBM",
     "context": "This is the page title for the OMB Notice."
+  },
+  "abuseReportAbuse": {
+    "message": "Report Abuse",
+    "context": "This is used as a sectional header and the label of the report abuse button."
+  },
+  "abuseWhatReport": {
+    "message": "What would you like to report?",
+    "context": "This is the query presented to a user when asked to be more specific about the type of abuse report the user is filing."
+  },
+  "abuseReportSpam": {
+    "message": "Spam",
+    "context": "This is the button label to select a report abuse claim of type spam."
+  },
+  "abuseReportSex": {
+    "message": "Sexually Explicit",
+    "context": "This is the button label to select a report abuse claim of type sexually explicit."
+  },
+  "abuseReportHate": {
+    "message": "Hate Speech",
+    "context": "This is the button label to select a report abuse claim of type hate speech."
+  },
+  "abuseReportViolence": {
+    "message": "Violence",
+    "context": "This is the button label to select a report abuse claim of type violence"
+  },
+  "abuseReportElse": {
+    "message": "Something Else",
+    "context": "This button label is to select a report abuse claim of type something else."
+  },
+  "abuseThanks": {
+    "message": "Thanks. We have received your abuse claim. Our site staff will review this record and remove any inappropriate content.",
+    "context": ""
+  },
+  "deleteRecord": {
+    "message": "Delete Record",
+    "context": "This is used as a button label and dialog header allowing a user to delete a record from the system."
+  },
+  "deleteRecordConfirm": {
+    "message": "Are you sure you want to delete this record? There is no way to recover your record data once it has been deleted.",
+    "context": "This is the question prompting a user when they choose to delete a record. We confirm they are certain with their decision."
+  },
+  "deleteRecordCancel": {
+    "message": "Cancel",
+    "context": "Button label to cancel the action of deleting a record."
+  },
+  "deleteRecordDelete": {
+    "message": "Delete",
+    "context": "Button label to confirm the deletion of a record."
+  },
+  "deleteRecordDone": {
+    "message": "Record Deleted",
+    "context": "A toast notification displayed to inform the user the deletion of a record action has been completed."
+  },
+  "seconds": {
+    "message": "seconds",
+    "context": "This word means seconds of time."
+  },
+  "record": {
+    "message": "record",
+    "context": "When a search is performed this word is prefixed with the number of results, ie. 1 record -- special case when only 1 result"
   }
 }
