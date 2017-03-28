@@ -947,64 +947,64 @@
     "message": "OMB 告示",
     "context": "This is the page title for the OMB Notice."
   },
-  "abuseReportAbuse": {
-    "message": "Report Abuse",
+ "abuseReportAbuse": {
+    "message": "举告滥用",
     "context": "This is used as a sectional header and the label of the report abuse button."
   },
   "abuseWhatReport": {
-    "message": "What would you like to report?",
+    "message": "你想举告什么?",
     "context": "This is the query presented to a user when asked to be more specific about the type of abuse report the user is filing."
   },
   "abuseReportSpam": {
-    "message": "Spam",
+    "message": "垃圾邮件",
     "context": "This is the button label to select a report abuse claim of type spam."
   },
   "abuseReportSex": {
-    "message": "Sexually Explicit",
+    "message": "色情内容",
     "context": "This is the button label to select a report abuse claim of type sexually explicit."
   },
   "abuseReportHate": {
-    "message": "Hate Speech",
+    "message": "仇恨言论",
     "context": "This is the button label to select a report abuse claim of type hate speech."
   },
   "abuseReportViolence": {
-    "message": "Violence",
+    "message": "暴力",
     "context": "This is the button label to select a report abuse claim of type violence"
   },
   "abuseReportElse": {
-    "message": "Something Else",
+    "message": "其他的内容",
     "context": "This button label is to select a report abuse claim of type something else."
   },
   "abuseThanks": {
-    "message": "Thanks. We have received your abuse claim. Our site staff will review this record and remove any inappropriate content.",
+    "message": "谢谢.我们已收到你的举告。我们的网站工作人员将审查此记录，并删除任何不适当的内容。",
     "context": ""
   },
   "deleteRecord": {
-    "message": "Delete Record",
+    "message": "删除记录",
     "context": "This is used as a button label and dialog header allowing a user to delete a record from the system."
   },
   "deleteRecordConfirm": {
-    "message": "Are you sure you want to delete this record? There is no way to recover your record data once it has been deleted.",
+    "message": "您确定要删除此记录吗？记录数据一旦被删除后就无法恢复。",
     "context": "This is the question prompting a user when they choose to delete a record. We confirm they are certain with their decision."
   },
   "deleteRecordCancel": {
-    "message": "Cancel",
+    "message": "取消",
     "context": "Button label to cancel the action of deleting a record."
   },
   "deleteRecordDelete": {
-    "message": "Delete",
+    "message": "删除",
     "context": "Button label to confirm the deletion of a record."
   },
   "deleteRecordDone": {
-    "message": "Record Deleted",
+    "message": "记录已删除",
     "context": "A toast notification displayed to inform the user the deletion of a record action has been completed."
   },
   "seconds": {
-    "message": "seconds",
+    "message": "秒",
     "context": "This word means seconds of time."
   },
   "record": {
-    "message": "record",
+    "message": "记录",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 1 record -- special case when only 1 result"
   }
 }
