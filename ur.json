@@ -83,10 +83,6 @@
     "message": "نقص: انسانی درستگی جانچ کا غیرصحیح نتیجہ، برائے مہربانی صفحہ کو دوبارہ لوڈ کریں",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
-  "plusError11": {
-    "message": "نقص: فراہم کردہ ای میل پتہ کسی صارف اکاؤنٹ کے ساتھ منسلک نہیں ہے",
-    "context": "Error message presented when user attempts to reset password with an unregistered email address."
-  },
   "plusError16": {
     "message": "نقص: پاس ورڈ میل نہیں کھاتے ہیں",
     "context": "Error message presented when entered password do not match one another."
@@ -110,18 +106,6 @@
   "plusError100": {
     "message":"نیٹ ورک کا نقص۔ برائے مہربانی اپنا کنیکشن چیک کریں اور دوبارہ کوشش کریں۔",
     "context": "Error message presented when there is a network / internet issue."
-  },
-  "plusError600": {
-    "message": "نقص: کسی ایسے ریکارڈ کی پیروی نہیں کر سکتے جو موجود نہیں ہے یا جس تک رسائی کا آپ کو حق حاصل نہیں",
-    "context": "Error message presented when user attempts to follow a record they have no permission to access."
-  },
-  "plusError601": {
-    "message": "نقص: اس ریکارڈ کی پیروی نہیں کر سکتے کیونکہ آپ اس کی پہلے ہی پیروی کر رہے ہیں",
-    "context": "Error message presented when attempting to follow a record the user is already following."
-  },
-  "plusError602": {
-    "message": "نقص: اس ریکارڈ کی پیروی ختم نہیں کر سکتے کیونکہ آپ فی الحال اس کی پیروی کر رہے ہیں",
-    "context": "Error message presented when "
   },
   "plusError9999": {
     "message": "کوئی نامعلوم نقص واقع ہو گیا ہے۔",
@@ -150,10 +134,6 @@
   "notifyPasswordChanged": {
     "message": "پاس ورڈ کامیابی کے ساتھ بدل دیا گیا۔",
     "context": "This notification will appear after the user successfully changes their password."
-  },
-  "notifyRecordUnfollowed": {
-    "message":  "ریکارڈ کی پیروی ختم کی گئی۔",
-    "context": "This notification will appear after the user unfollows a particular record."
   },
   "notifyUnsubscribed": {
     "message": "اطلاعات موصول کرنے کے لیے آپ کی رکنیت اب مزید نہیں رہی ہے۔",
@@ -1006,5 +986,9 @@
   "record": {
     "message": "record",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 1 record -- special case when only 1 result"
+  },
+  "notifyLogout": {
+    "message": "Logged out.",
+    "context": "This notification will appear after the user successfully logs out."
   }
 }

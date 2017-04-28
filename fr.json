@@ -83,10 +83,6 @@
     "message": "Erreur : échec du test humain, veuillez recharger la page",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
-  "plusError11": {
-    "message": "Erreur : l'adresse email fournie ne correspond à aucun compte utilisateur",
-    "context": "Error message presented when user attempts to reset password with an unregistered email address."
-  },
   "plusError16": {
     "message": "Erreur : les mots de passe ne correspondent pas",
     "context": "Error message presented when entered password do not match one another."
@@ -110,18 +106,6 @@
   "plusError100": {
     "message": "Erreur réseau : veuillez vérifier votre connexion et réessayer.",
     "context": "Error message presented when there is a network / internet issue."
-  },
-  "plusError600": {
-    "message": "Erreur : vous ne pouvez pas suivre un enregistrement qui n'existe pas ou vous ne disposez pas des autorisations requises pour y accéder.",
-    "context": "Error message presented when user attempts to follow a record they have no permission to access."
-  },
-  "plusError601": {
-    "message": "Erreur : vous ne pouvez pas suivre cet enregistrement puisque vous le suivez déjà",
-    "context": "Error message presented when attempting to follow a record the user is already following."
-  },
-  "plusError602": {
-    "message": "Erreur : vous ne pouvez pas vous désabonner de cet enregistrement puisque vous ne le suivez pas actuellement",
-    "context": "Error message presented when "
   },
   "plusError9999": {
     "message": "Une erreur inconnue s'est produite.",
@@ -150,10 +134,6 @@
   "notifyPasswordChanged": {
     "message": "Votre mot de passe a été modifié avec succès.",
     "context": "This notification will appear after the user successfully changes their password."
-  },
-  "notifyRecordUnfollowed": {
-    "message": "Vous êtes désabonné de cet enregistrement.",
-    "context": "This notification will appear after the user unfollows a particular record."
   },
   "notifyUnsubscribed": {
     "message": "Vous n'êtes plus abonné aux notifications.",
@@ -1006,5 +986,9 @@
   "record": {
     "message": "record",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 1 record -- special case when only 1 result"
+  },
+  "notifyLogout": {
+    "message": "Logged out.",
+    "context": "This notification will appear after the user successfully logs out."
   }
 }

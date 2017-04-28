@@ -111,18 +111,6 @@
     "message": "网络错误：请检查您的线路再试",
     "context": "Error message presented when there is a network / internet issue."
   },
-  "plusError600": {
-    "message": "错误：您所寻找的数据不存在，或因为您没有相应的权限查询",
-    "context": "Error message presented when user attempts to follow a record they have no permission to access."
-  },
-  "plusError601": {
-    "message": "错误：无法连接，因为您已进入此数据的连接里",
-    "context": "Error message presented when attempting to follow a record the user is already following."
-  },
-  "plusError602": {
-    "message": "错误：无法退出，您已经退出了此数据的连接",
-    "context": "Error message presented when "
-  },
   "plusError9999": {
     "message": "错误：原因未知",
     "context": "Error message presented when an unknown error has occurred."
@@ -150,10 +138,6 @@
   "notifyPasswordChanged": {
     "message": "密码修改成功。",
     "context": "This notification will appear after the user successfully changes their password."
-  },
-  "notifyRecordUnfollowed": {
-    "message": "没有跟踪数据。",
-    "context": "This notification will appear after the user unfollows a particular record."
   },
   "notifyUnsubscribed": {
     "message": "您已经退出订阅，从此不会再收到我们的推送通知。",
@@ -1006,5 +990,9 @@
   "record": {
     "message": "记录",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 1 record -- special case when only 1 result"
+  },
+  "notifyLogout": {
+    "message": "Logged out.",
+    "context": "This notification will appear after the user successfully logs out."
   }
 }

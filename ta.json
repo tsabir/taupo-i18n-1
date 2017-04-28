@@ -83,10 +83,6 @@
     "message": "பிழை: தவறான மனித சரிபார்த்தல் சோதனை விளைவாக , பக்கத்தை மீண்டும் ஏற்றுக",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
-  "plusError11": {
-    "message": "பிழை: வழங்கிய எந்த பயனர் கணக்கு தொடர்புடைய இல்லை மின்னஞ்சல் முகவரியை",
-    "context": "Error message presented when user attempts to reset password with an unregistered email address."
-  },
   "plusError16": {
     "message": "பிழை: கடவுச்சொல் பொருத்தமாக இல்லை",
     "context": "Error message presented when entered password do not match one another."
@@ -110,18 +106,6 @@
   "plusError100": {
     "message": "பிணைய பிழை. உங்கள் இணைப்பைச் சரிபார்த்து , மீண்டும் முயற்சிக்கவும்.",
     "context": "Error message presented when there is a network / internet issue."
-  },
-  "plusError600": {
-    "message": "பிழை: உள்ளன என்று இல்லை அல்லது நீங்கள் அணுக சலுகை இல்லை ஒரு பதிவு பின்பற்ற முடியாது",
-    "context": "Error message presented when user attempts to follow a record they have no permission to access."
-  },
-  "plusError601": {
-    "message": "பிழை: நீங்கள் ஏற்கனவே பின்வரும் என்பதால் இந்த சாதனையை பின்பற்ற முடியாது",
-    "context": "Error message presented when attempting to follow a record the user is already following."
-  },
-  "plusError602": {
-    "message": "பிழை: நீங்கள் தற்போது அது பின்வரும் இல்லை என்பதால் இந்த சாதனையை பின்தொடர்வதை நிறுத்தி முடியாது",
-    "context": "Error message presented when "
   },
   "plusError9999": {
     "message": "அறியாத தவறு ஒன்று நிகழ்ந்து உள்ளது.",
@@ -150,10 +134,6 @@
   "notifyPasswordChanged": {
     "message": "கடவுச்சொல் வெற்றிகரமாக மாற்றப்பட்டது.",
     "context": "This notification will appear after the user successfully changes their password."
-  },
-  "notifyRecordUnfollowed": {
-    "message": "பதிவு பின்தொடர்வதை.",
-    "context": "This notification will appear after the user unfollows a particular record."
   },
   "notifyUnsubscribed": {
     "message": "நீங்கள் அறிவிப்புகளை பொருத்தவும் குழுசேர்ந்துள்ளார் இனி.",
@@ -1006,5 +986,9 @@
   "record": {
     "message": "record",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 1 record -- special case when only 1 result"
+  },
+  "notifyLogout": {
+    "message": "Logged out.",
+    "context": "This notification will appear after the user successfully logs out."
   }
 }

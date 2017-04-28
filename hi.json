@@ -83,10 +83,6 @@
     "message": "त्रुटि: गलत मानव सत्यापन परीक्षा परिणाम , पृष्ठ पुनः लोड करें",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
-  "plusError11": {
-    "message": "रुटि: ईमेल पता प्रदान की किसी भी उपयोगकर्ता खाते के साथ संबद्ध नहीं है",
-    "context": "Error message presented when user attempts to reset password with an unregistered email address."
-  },
   "plusError16": {
     "message": "त्रुटि: पासवर्ड मेल नहीं खाते",
     "context": "Error message presented when entered password do not match one another."
@@ -110,18 +106,6 @@
   "plusError100": {
     "message": "नेटवर्क त्रुटि। अपने कनेक्शन की जांच करें और पुन: प्रयास करें।",
     "context": "Error message presented when there is a network / internet issue."
-  },
-  "plusError600": {
-    "message": "त्रुटि: मौजूद नहीं है जो एक रिकॉर्ड का अनुसरण नहीं कर सकते या आप का उपयोग करने के लिए विशेषाधिकार नहीं है",
-    "context": "Error message presented when user attempts to follow a record they have no permission to access."
-  },
-  "plusError601": {
-    "message": "त्रुटि: इस रिकॉर्ड का अनुसरण नहीं कर सकते हैं क्योंकि आप पहले से ही अनुसरण कर रहे हैं",
-    "context": "Error message presented when attempting to follow a record the user is already following."
-  },
-  "plusError602": {
-    "message": "त्रुटि: इस रिकॉर्ड अनुसरण नहीं कर सकते क्योंकि आप वर्तमान में यह अनुसरण नहीं कर रहे",
-    "context": "Error message presented when attempting to unfollow a record the user is already following"
   },
   "plusError9999": {
     "message": "एक अज्ञात त्रुटि उत्पन्न हुई । ",
@@ -150,10 +134,6 @@
   "notifyPasswordChanged": {
     "message": "पासवर्ड सफलतापूर्वक बदल दिया है।",
     "context": "This notification will appear after the user successfully changes their password."
-  },
-  "notifyRecordUnfollowed": {
-    "message": "रिकार्ड का अनुसरण रद्द ।",
-    "context": "This notification will appear after the user unfollows a particular record."
   },
   "notifyUnsubscribed": {
     "message": "अब आप सूचनाएं प्राप्त करने के लिए सदस्यता ले ली है ।",
@@ -1006,5 +986,9 @@
   "record": {
     "message": "record",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 1 record -- special case when only 1 result"
+  },
+  "notifyLogout": {
+    "message": "Logged out.",
+    "context": "This notification will appear after the user successfully logs out."
   }
 }
