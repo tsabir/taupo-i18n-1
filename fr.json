@@ -59,11 +59,11 @@
     "message": "Date d'expiration",
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
-  "plusError1": {
+  "restError1": {
     "message": "Erreur : nom d'utilisateur ou mot de passe invalide",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
-  "plusError2": {
+  "restError2": {
     "message": "Erreur : votre compte est temporairement bloqué à la suite de l'échec de plusieurs tentatives de connexion. Veuillez réessayer ultérieurement",
     "context": "Error message presented when a user fails to login repeatedly."
   },
@@ -83,31 +83,31 @@
     "message": "Erreur : échec du test humain, veuillez recharger la page",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
-  "plusError16": {
+  "restError2004": {
     "message": "Erreur : les mots de passe ne correspondent pas",
     "context": "Error message presented when entered password do not match one another."
   },
-  "plusError20": {
+  "passError0": {
     "message": "Erreur : le mot de passe doit être composé de 8 à 16 caractères",
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
-  "plusError21": {
+  "passError1": {
     "message": "Erreur : le mot de passe doit contenir au moins une lettre en majuscule (A-Z)",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
-  "plusError22": {
+  "passError2": {
     "message": "Erreur : le mot de passe doit contenir au moins une lettre en minuscule (a-z)",
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
-  "plusError23": {
+  "passError3": {
     "message": "Erreur : le mot de passe doit contenir au moins un chiffre (0-9)",
     "context": "Error message presented when entered password does not contain at least one digit."
   },
-  "plusError100": {
+  "restError5000": {
     "message": "Erreur réseau : veuillez vérifier votre connexion et réessayer.",
     "context": "Error message presented when there is a network / internet issue."
   },
-  "plusError9999": {
+  "restError9999": {
     "message": "Une erreur inconnue s'est produite.",
     "context": "Error message presented when an unknown error has occurred."
   },

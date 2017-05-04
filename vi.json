@@ -59,11 +59,11 @@
     "message": "NGÀY HẾT HẠN",
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
-  "plusError1": {
+  "restError1": {
     "message": "Lỗi: tên người dùng hoặc mật khẩu không hợp lệ",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
-  "plusError2": {
+  "restError2": {
     "message": "Lỗi: Tài khoản của bạn tạm thời bị khóa sau nhiều lần thất bại trong việc đăng nhập, hãy thử lại sau",
     "context": "Error message presented when a user fails to login repeatedly." 
   },
@@ -83,31 +83,31 @@
     "message": "Lỗi: kết quả kiểm tra xác nhận người dùng không chính xác, vui lòng tải lại trang",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
-  "plusError16": {
+  "restError2004": {
     "message": "Lỗi: mật khẩu không đúng",
     "context": "Error message presented when entered password do not match one another."
   },
-  "plusError20": {
+  "passError0": {
     "message": "Lỗi: mật khẩu phải có 8-16 ký tự",
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
-  "plusError21": {
+  "passError1": {
     "message": "Lỗi: Mật khẩu phải chứa ít nhất một chữ hoa (A-Z)",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
-  "plusError22": {
+  "passError2": {
     "message": "Lỗi: Mật khẩu phải chứa ít nhất một chữ thường (a-z)",
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
-  "plusError23": {
+  "passError3": {
     "message": "Lỗi: Mật khẩu phải chứa ít nhất một con số (0-9)",
     "context": "Error message presented when entered password does not contain at least one digit."
   },
-  "plusError100": {
+  "restError5000": {
     "message": "Lỗi mạng. Vui lòng kiểm tra kết nối của bạn và thử lại.",
     "context": "Error message presented when there is a network / internet issue."
   },
-  "plusError9999": {
+  "restError9999": {
     "message": "Một lỗi không rỏ đã xảy ra.",
     "context": "Error message presented when an unknown error has occurred."
   },

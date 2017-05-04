@@ -59,11 +59,11 @@
     "message": "समाप्ति की तारीख",
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
-  "plusError1": {
+  "restError1": {
     "message": "त्रुटि: अमान्य उपयोगकर्ता नाम या पासवर्ड",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
-  "plusError2": {
+  "restError2": {
     "message": "त्रुटि: आपके अकाउंट अस्थायी रूप से बार बार लॉग इन करने में नाकाम रहने के लिए बंद कर दिया जाता है, बाद में फिर से कोशिश करें",
     "context": "Error message presented when a user fails to login repeatedly."
   },
@@ -83,31 +83,31 @@
     "message": "त्रुटि: गलत मानव सत्यापन परीक्षा परिणाम , पृष्ठ पुनः लोड करें",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
-  "plusError16": {
+  "restError2004": {
     "message": "त्रुटि: पासवर्ड मेल नहीं खाते",
     "context": "Error message presented when entered password do not match one another."
   },
-  "plusError20": {
+  "passError0": {
     "message": "त्रुटि: पासवर्ड 8-16 अक्षर का होना चाहिए",
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
-  "plusError21": {
+  "passError1": {
     "message": "त्रुटि: पासवर्ड कम से कम एक अपरकेस अक्षर होना चाहिए (A-Z)",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
-  "plusError22": {
+  "passError2": {
     "message": "त्रुटि: पासवर्ड कम से कम एक छोटा अक्षर शामिल होना चाहिए (a-z)",
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
-  "plusError23": {
+  "passError3": {
     "message": "त्रुटि: पासवर्ड कम से कम एक संख्या होनी चाहिए (0-9)",
     "context": "Error message presented when entered password does not contain at least one digit."
   },
-  "plusError100": {
+  "restError5000": {
     "message": "नेटवर्क त्रुटि। अपने कनेक्शन की जांच करें और पुन: प्रयास करें।",
     "context": "Error message presented when there is a network / internet issue."
   },
-  "plusError9999": {
+  "restError9999": {
     "message": "एक अज्ञात त्रुटि उत्पन्न हुई । ",
     "context": "Error message presented when an unknown error has occurred."
   },

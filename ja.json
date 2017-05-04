@@ -59,11 +59,11 @@
     "message": "失効日付",
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
-  "plusError1": {
+  "restError1": {
     "message": "エラー: ユーザ名、或いは、パスワードが違います",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
-  "plusError2": {
+  "restError2": {
     "message": "エラー: あなたのアカウントは、繰り返しログインに失敗したので、一時的にロックされています。後ほど、お試し下さい。",
     "context": "Error message presented when a user fails to login repeatedly."
   },
@@ -83,31 +83,31 @@
     "message": "エラー: 人の一致がありません、そのページを再度ロードしてください",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
-  "plusError16": {
+  "restError2004": {
     "message": "エラー: パスワードは不一致です",
     "context": "Error message presented when entered password do not match one another."
   },
-  "plusError20": {
+  "passError0": {
     "message": "エラー: パスワードは8-16文字の長さが必要です",
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
-  "plusError21": {
+  "passError1": {
     "message": "エラー: パスワードは少なくとも１文字以上の大文字(A-Z)を含んでいる必要があります",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
-  "plusError22": {
+  "passError2": {
     "message": "エラー: パスワードは少なくとも１文字以上の小文字(a-z)を含んでいる必要があります",
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
-  "plusError23": {
+  "passError3": {
     "message": "エラー: パスワードは少なくとも１つ以上の数字(0-9)を含んでいる必要があります",
     "context": "Error message presented when entered password does not contain at least one digit."
   },
-  "plusError100": {
+  "restError5000": {
     "message": "ネットワークのエラー.接続をチェックして、もう一度試して下さい。",
     "context": "Error message presented when there is a network / internet issue."
   },
-  "plusError9999": {
+  "restError9999": {
     "message": "エラーが起きました、後ほどお試してください。",
     "context": "Error message presented when an unknown error has occurred."
   },

@@ -59,11 +59,11 @@
     "message": "காலாவதி தேதி",
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
-  "plusError1": {
+  "restError1": {
     "message": "பிழை: தவறான கடவுச்சொல் அல்லது பயனாளர்",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
-  "plusError2": {
+  "restError2": {
     "message": "பிழை: உங்கள் கணக்கு தற்காலிகமாக மீண்டும் மீண்டும் உள்நுழைய தவறியதற்காக பூட்டப்பட்டுள்ளது , பின்னர் மீண்டும் முயற்சி",
     "context": "Error message presented when a user fails to login repeatedly."
   },
@@ -83,31 +83,31 @@
     "message": "பிழை: தவறான மனித சரிபார்த்தல் சோதனை விளைவாக , பக்கத்தை மீண்டும் ஏற்றுக",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
-  "plusError16": {
+  "restError2004": {
     "message": "பிழை: கடவுச்சொல் பொருத்தமாக இல்லை",
     "context": "Error message presented when entered password do not match one another."
   },
-  "plusError20": {
+  "passError0": {
     "message": "பிழை: கடவுச்சொல் 8-16 எழுத்துகள் இருக்க வேண்டும்",
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
-  "plusError21": {
+  "passError1": {
     "message": "பிழை: கடவுச்சொல் குறைந்தது ஒரு பேரெழுத்து இருக்க வேண்டும் (A முதல் Z )",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
-  "plusError22": {
+  "passError2": {
     "message": "பிழை: கடவுச்சொல் குறைந்தது ஒரு ஸ்மால் கடிதம் (a - z) இருக்க வேண்டும்",
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
-  "plusError23": {
+  "passError3": {
     "message": "பிழை: கடவுச்சொல் குறைந்தது ஒரு எண் கொண்டிருக்க வேண்டும் (0-9)",
     "context": "Error message presented when entered password does not contain at least one digit."
   },
-  "plusError100": {
+  "restError5000": {
     "message": "பிணைய பிழை. உங்கள் இணைப்பைச் சரிபார்த்து , மீண்டும் முயற்சிக்கவும்.",
     "context": "Error message presented when there is a network / internet issue."
   },
-  "plusError9999": {
+  "restError9999": {
     "message": "அறியாத தவறு ஒன்று நிகழ்ந்து உள்ளது.",
     "context": "Error message presented when an unknown error has occurred."
   },

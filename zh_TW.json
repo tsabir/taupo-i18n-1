@@ -59,11 +59,11 @@
     "message": "有效期",
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
-  "plusError1": {
+  "restError1": {
     "message": "錯誤：用戶名或密碼有錯",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
-  "plusError2": {
+  "restError2": {
     "message": "錯誤：因為登錄多次失敗，賬戶暫時關閉，請稍後再試",
     "context": "Error message presented when a user fails to login repeatedly."
   },
@@ -83,35 +83,31 @@
     "message": "錯誤：驗證結果有錯誤，請重新輸入",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
-  "plusError11": {
-    "message": "錯誤：所提供的郵件地址與現有任何用戶無關",
-    "context": "Error message presented when user attempts to reset password with an unregistered email address."
-  },
-  "plusError16": {
+  "restError2004": {
     "message": "錯誤：輸入密碼錯誤",
     "context": "Error message presented when entered password do not match one another."
   },
-  "plusError20": {
+  "passError0": {
     "message": "錯誤：密碼的長度必須是8至16個字符",
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
-  "plusError21": {
+  "passError1": {
     "message": "錯誤：密碼至少需要壹個大寫字母(A-Z)",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
-  "plusError22": {
+  "psssError2": {
     "message": "錯誤：密碼至少需要壹個小寫字母(a-z)",
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
-  "plusError23": {
+  "passError3": {
     "message": "錯誤：密碼至少需要壹個數字(0-9)",
     "context": "Error message presented when entered password does not contain at least one digit."
   },
-  "plusError100": {
+  "restError5000": {
     "message": "網絡錯誤：請檢查您的線路再試",
     "context": "Error message presented when there is a network / internet issue."
   },
-  "plusError9999": {
+  "restError9999": {
     "message": "錯誤：原因未知",
     "context": "Error message presented when an unknown error has occurred."
   },

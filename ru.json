@@ -59,11 +59,11 @@
     "message": "EXPIRATION DATE",
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
-  "plusError1": {
+  "restError1": {
     "message": "Error: invalid username or password",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
-  "plusError2": {
+  "restError2": {
     "message": "Error: your account is temporarily locked for repeatedly failing to login, try again later",
     "context": "Error message presented when a user fails to login repeatedly."
   },
@@ -83,31 +83,31 @@
     "message": "Error: incorrect human validation test result, please reload the page",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
-  "plusError16": {
+  "restError2004": {
     "message": "Error: passwords do not match",
     "context": "Error message presented when entered password do not match one another."
   },
-  "plusError20": {
+  "passError0": {
     "message": "Error: password must be 8-16 characters long",
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
-  "plusError21": {
+  "passError1": {
     "message": "Error: password must contain at least one uppercase letter (A-Z)",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
-  "plusError22": {
+  "passError2": {
     "message": "Error: password must contain at least one lowercase letter (a-z)",
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
-  "plusError23": {
+  "passError3": {
     "message": "Error: password must contain at least one number (0-9)",
     "context": "Error message presented when entered password does not contain at least one digit."
   },
-  "plusError100": {
+  "restError5000": {
     "message": "Network error. Please check your connection and try again.",
     "context": "Error message presented when there is a network / internet issue."
   },
-  "plusError9999": {
+  "restError9999": {
     "message": "An unknown error has occurred.",
     "context": "Error message presented when an unknown error has occurred."
   },

@@ -59,11 +59,11 @@
     "message": "FECHA DE CADUCIDAD",
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
-  "plusError1": {
+  "restError1": {
     "message": "Error: Nombre de usuario o contraseña inválidos",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
-  "plusError2": {
+  "restError2": {
     "message": "Error: la cuenta está bloqueada temporalmente por uso repetido de nombre de usuario o contraseña erróneos, intente más tarde",
     "context": "Error message presented when a user fails to login repeatedly."
   },
@@ -83,31 +83,31 @@
     "message": "Error: resultado de la prueba de validación humana incorrecta, por favor vuelva a cargar la página",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
-  "plusError16": {
+  "restError2004": {
     "message": "Error: las contraseñas no coinciden",
     "context": "Error message presented when entered password do not match one another."
   },
-  "plusError20": {
+  "passError0": {
     "message": "Error: la contraseña debe tener 8-16 caracteres de longitud",
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
-  "plusError21": {
+  "passError1": {
     "message": "Error: la contraseña debe contener al menos una letra mayúscula (A-Z)",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
-  "plusError22": {
+  "passError2": {
     "message": "Error: la contraseña debe contener al menos una letra en minúscula (a-z)",
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
-  "plusError23": {
+  "passError3": {
     "message": "Error: la contraseña debe contener al menos un número (0-9)",
     "context": "Error message presented when entered password does not contain at least one digit."
   },
-  "plusError100": {
+  "restError5000": {
     "message": "Error de red. Por favor verifique su conexión e intente de nuevo.",
     "context": "Error message presented when there is a network / internet issue."
   },
-  "plusError9999": {
+  "restError9999": {
     "message": "Ha ocurrido un error desconocido.",
     "context": "Error message presented when an unknown error has occurred."
   },
