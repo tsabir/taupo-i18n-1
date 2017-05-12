@@ -67,6 +67,10 @@
     "message": "Error: la cuenta está bloqueada temporalmente por uso repetido de nombre de usuario o contraseña erróneos, intente más tarde",
     "context": "Error message presented when a user fails to login repeatedly."
   },
+  "restError3": {
+    "message": "Error: cannot sign in until your email address is confirmed, please check email for the link",
+    "context": "Error message presented when a user account is not yet active."
+  },
   "restError2000": {
     "message": "Error:ya existe un usuario con la dirección de correo electrónico proporcionada",
     "context": "Error message presented when user tries to use an email address already in use."

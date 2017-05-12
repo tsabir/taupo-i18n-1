@@ -67,6 +67,10 @@
     "message": "錯誤：因為登錄多次失敗，賬戶暫時關閉，請稍後再試",
     "context": "Error message presented when a user fails to login repeatedly."
   },
+  "restError3": {
+    "message": "Error: cannot sign in until your email address is confirmed, please check email for the link",
+    "context": "Error message presented when a user account is not yet active."
+  },
   "restError2000": {
     "message": "錯誤：所輸入的郵箱地址已被占用",
     "context": "Error message presented when user tries to use an email address already in use."

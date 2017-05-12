@@ -67,6 +67,10 @@
     "message": "त्रुटि: आपके अकाउंट अस्थायी रूप से बार बार लॉग इन करने में नाकाम रहने के लिए बंद कर दिया जाता है, बाद में फिर से कोशिश करें",
     "context": "Error message presented when a user fails to login repeatedly."
   },
+  "restError3": {
+    "message": "Error: cannot sign in until your email address is confirmed, please check email for the link",
+    "context": "Error message presented when a user account is not yet active."
+  },
   "restError2000": {
     "message": "त्रुटि: एक उपयोगकर्ता पहले से ही प्रदान ईमेल पते के साथ मौजूद है",
     "context": "Error message presented when user tries to use an email address already in use."

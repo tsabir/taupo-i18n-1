@@ -67,6 +67,10 @@
     "message": "Error: your account is temporarily locked for repeatedly failing to login, try again later",
     "context": "Error message presented when a user fails to login repeatedly."
   },
+  "restError3": {
+    "message": "Error: cannot sign in until your email address is confirmed, please check email for the link",
+    "context": "Error message presented when a user account is not yet active."
+  },
   "restError2000": {
     "message": "Error: a user already exists with the provided email address",
     "context": "Error message presented when user tries to use an email address already in use."

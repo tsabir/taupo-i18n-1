@@ -67,6 +67,10 @@
     "message": "نقص: آپ کا اکاؤنٹ عارضی طور پر بند ہوگیا ہے کیونکہ آپ بار بار کوشش کرنے کے بعد بھی لاگ ان نہیں کر پائے، بعد میں دوبارہ کوشش کریں",
     "context": "Error message presented when a user fails to login repeatedly."
   },
+  "restError3": {
+    "message": "Error: cannot sign in until your email address is confirmed, please check email for the link",
+    "context": "Error message presented when a user account is not yet active."
+  },
   "restError2000": {
     "message": "نقص: فراہم کردہ ای میل پتہ والا ایک صارف پہلے سے موجود ہے",
     "context": "Error message presented when user tries to use an email address already in use."

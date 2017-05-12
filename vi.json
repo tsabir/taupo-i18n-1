@@ -67,6 +67,10 @@
     "message": "Lỗi: Tài khoản của bạn tạm thời bị khóa sau nhiều lần thất bại trong việc đăng nhập, hãy thử lại sau",
     "context": "Error message presented when a user fails to login repeatedly." 
   },
+  "restError3": {
+    "message": "Error: cannot sign in until your email address is confirmed, please check email for the link",
+    "context": "Error message presented when a user account is not yet active."
+  },
   "restError2000": {
     "message": "Lỗi: người dùng đã tồn tại với địa chỉ email cung cấp",
     "context": "Error message presented when user tries to use an email address already in use."

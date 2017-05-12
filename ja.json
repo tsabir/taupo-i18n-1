@@ -67,6 +67,10 @@
     "message": "エラー: あなたのアカウントは、繰り返しログインに失敗したので、一時的にロックされています。後ほど、お試し下さい。",
     "context": "Error message presented when a user fails to login repeatedly."
   },
+  "restError3": {
+    "message": "Error: cannot sign in until your email address is confirmed, please check email for the link",
+    "context": "Error message presented when a user account is not yet active."
+  },
   "restError2000": {
     "message": "エラー: その電子メールアドレスのユーザは、既に存在しています。",
     "context": "Error message presented when user tries to use an email address already in use."

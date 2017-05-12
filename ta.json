@@ -67,6 +67,10 @@
     "message": "பிழை: உங்கள் கணக்கு தற்காலிகமாக மீண்டும் மீண்டும் உள்நுழைய தவறியதற்காக பூட்டப்பட்டுள்ளது , பின்னர் மீண்டும் முயற்சி",
     "context": "Error message presented when a user fails to login repeatedly."
   },
+  "restError3": {
+    "message": "Error: cannot sign in until your email address is confirmed, please check email for the link",
+    "context": "Error message presented when a user account is not yet active."
+  },
   "restError2000": {
     "message": "பிழை: ஒரு பயனர் ஏற்கனவே வழங்கிய வழங்கிய மின்னஞ்சல் முகவரி மட்டுமே உள்ளது",
     "context": "Error message presented when user tries to use an email address already in use."
