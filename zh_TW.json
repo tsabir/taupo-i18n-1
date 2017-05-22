@@ -99,7 +99,7 @@
     "message": "錯誤：密碼至少需要壹個大寫字母(A-Z)",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
-  "psssError2": {
+  "passError2": {
     "message": "錯誤：密碼至少需要壹個小寫字母(a-z)",
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
@@ -961,7 +961,7 @@
   },
   "abuseThanks": {
     "message": "謝謝.我們已收到你的舉告。我們的網站工作人員將審查此記錄，並刪除任何不適當的內容。",
-    "context": 
+    "context": ""
   },
   "deleteRecord": {
     "message": "刪除記錄",
@@ -994,5 +994,17 @@
   "notifyLogout": {
     "message": "Logged out.",
     "context": "This notification will appear after the user successfully logs out."
+  },
+  "uploadingPhoto": {
+    "message": "Uploading Photo...",
+    "context": "This message is displayed after a user selects an image file to search by photo as the file is being uploaded."
+  },
+  "searchByPhoto": {
+    "message": "Search by Photo",
+    "context": "When a user elects to search by photo from the search query bar, a dialog box appears with this as the title."
+  },
+  "dragAndDrop": {
+    "message": "Drag and drop",
+    "context": "A user may drag and drop a file to search by image. This message shows the user where to drag and drop the file ~ the target."
   }
 }
