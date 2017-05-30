@@ -80,7 +80,7 @@
     "context": "Error message presented when a user provides an invalid email address."
   },
   "restError2002": {
-    "message": "Error: password must be 8-16 characters in length, must have at least one uppercase, one lowercase, and one numeric character",
+    "message": "Error: password must be 8-16 characters in length, and must have at least one uppercase, one lowercase, and one numeric character",
     "context": "Error message presented when user enters an invalid password."
   },
   "restError2003": {
@@ -112,7 +112,7 @@
     "context": "Error message presented when there is a network / internet issue."
   },
   "restError9999": {
-    "message": "An unknown error has occurred.",
+    "message": "An error has occurred, please try again later.",
     "context": "Error message presented when an unknown error has occurred."
   },
   "errorGettingSubscription": {
@@ -132,7 +132,7 @@
     "context": "This notification will appear after the user newly registers and is automatically logged in."
   },
   "notifyRegistering": {
-    "message": "Registering...",
+    "message": "Registering ...",
     "context": "This notification will appear briefly as the system registers and creates a new account for the user."
   },
   "notifyPasswordChanged": {
@@ -140,11 +140,11 @@
     "context": "This notification will appear after the user successfully changes their password."
   },
   "notifyUnsubscribed": {
-    "message": "You are no longer subscribed to recieve notifications.",
+    "message": "You are no longer subscribed to receive notifications.",
     "context": "This notification will appear after the user unsubscribed from recieving notifications."
   },
   "notifySubscribed": {
-    "message": "You are now subscribed to recieve notifications.",
+    "message": "You are now subscribed to receive notifications.",
     "context": "This notification will appear after the user subscribes to recieving notifications."
   },
   "notifyResetPassword": {
@@ -168,7 +168,7 @@
     "context": "This is the text label on the forgot my password dialog to submit the form."
   },
   "pad1loginForgot": {
-    "message": "Forgot username or password ?",
+    "message": "Forgot username or password?",
     "context": "This is the text label for the forgot my password button on the login dialog."
   },
   "pad1loginUsernamePlaceholder": {
@@ -272,7 +272,7 @@
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. When you first arrive at PEOPLE LOCATOR, you are presented with a list of available disaster events. Each event has a name, a descriptive image related to the event, and some text describing the situation. If you scroll down, you will see there are a few different events from which you may select. Choose the event which you believe the person or animal you are trying to locate would most likely be associated with. For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, you would choose this event. You would select an event by tapping on the large green button under the image; this will take you directly to the search engine for this particular disaster event. A new search box will appear at the top after you have made your selection. Enter the name of the person you are attempting to locate in this search box. The search results update automatically with the most relevant results on near the top. You may acquire more information about by tapping on the details link near the bottom of any partuclar record, this opens a detail view. On this detail view, you may view more detailed record information, add a comment of your own, or begin following a record for updates.",
+    "message": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. When you first arrive at PEOPLE LOCATOR, you are presented with a list of available disaster events. Each event has a name, a descriptive image related to the event, and some text describing the situation. If you scroll down, you will see there are a few different events from which you may select. Choose the event which you believe the person or animal you are trying to locate would most likely be in. For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, you would choose this event. You can select an event by tapping/clicking on the large green button under the image. This will take you directly to the search screen for this particular disaster event. A new search box will appear at the top after you have made your selection. Enter the name of the person you are attempting to locate in this search box and press Enter. The search results will update with the most relevant matches at the top. You may acquire more information about a result by tapping on the details link near the bottom of the record. This opens a detailed view in which you may view more detailed record information, add a comment of your own, or begin following a record to be notified about updates.",
     "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
@@ -280,7 +280,7 @@
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
-    "message": "If you are unable to locate the preson or animal you seek, then you should report this person to our PEOPLE LOCATOR registry. Once you have navigated into a disaster event, you will see a pink floating action button on the bottom right of the screen. Tapping this button will initiate the reporting process and launch you into a separate wizard that will guide you through the steps of completing a new report based on the information you provide us. Once completed, your report will be entered into our searchable registry and be publicly visible to others. Once you complete the report (if not reported anonymously) you will automatically begin to follow your own report for updates as they come into our registry. Others may comment on your record providing you with new information about the person or animal you reported. Since you are following this record, updates will be sent to you via email or push notifications.",
+    "message": "If you are unable to locate the person or animal you seek, then you may report this person or animal to our PEOPLE LOCATOR registry. Once you have navigated to a disaster event, you will see a pink floating action button on the bottom right of the screen. Tapping/clicking this button will launch you into a wizard that will guide you through the process of filing a report. Once completed, your report will be entered into our searchable registry and be publicly visible to others. If your report was not done anonymously, you will automatically start to follow your own report for updates as they come in. Others may comment on your record providing you with new information about the person or animal you reported. Updates will be sent to you via email or push notifications.",
     "context": "This is the help page article body describing in detail how to report a person or animal."
   },
   "pageAboutTextAbout": {
@@ -288,7 +288,7 @@
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
   "pageAboutTextBrowser": {
-    "message": "You must have cookie and JavaScript enabled in your web browser. You must also have one of the two most recent versions of the following web browsers: Chrome, Firefox, Safari, Opera, Edge, or Internet Explorer.",
+    "message": "You must have cookies and JavaScript enabled in your web browser. You must also have one of the two most recent versions of one of the following web browsers: Chrome, Firefox, Safari, Opera, Edge, or Internet Explorer.",
     "context": "This is the text on the About page describing web browsers support."
   },
   "pageAboutHeaderBrowser": {
@@ -408,7 +408,7 @@
     "context": "Text label for several links to Medline Plus on the Resource page."
   },
   "followUs": {
-    "message": "Follow us on...",
+    "message": "Follow us on ...",
     "context": "Used to prompt user to follow us on a social network of their choice."
   },
   "and": {
@@ -425,14 +425,14 @@
   },
   "tabFind": {
     "message": "Find",
-    "context": "The title of the 2nd tab allowing someone to Find a person or pet."
+    "context": "The title of the 2nd tab allowing someone to Find a person or animal."
   },
   "tabReport": {
     "message": "Report",
-    "context": "The title of the 3rd tab allowing someone to Report a new person or pet."
+    "context": "The title of the 3rd tab allowing someone to Report a new person or animal."
   },
   "tagline": {
-    "message": "Find and report missing family, friends, and pets during disasters.",
+    "message": "Find and report missing family, friends, and animals during disasters.",
     "context": "The tagline is the summary of what the application is for."
   },
   "pageTitle": {
@@ -508,7 +508,7 @@
     "context": "The label for a button allowing a user to add a comment to a record."
   }, 
   "addCommentLabel": {
-    "message": "Add any additional information about this record you may have",
+    "message": "Add any additional information you may have about this record",
     "context": "This is the label below the add comment button explaining to a user what it does."
   },
   "followButton": {
@@ -516,7 +516,7 @@
     "context": "A button allows a user to follow record updates."
   },
     "followButtonLabel": {
-    "message": "Recieve all updates to this person via email",
+    "message": "Receive all updates to this person via email",
     "context": "This is the label below the follow button explaining to a user what it does."
   },
   "name": {
@@ -566,7 +566,7 @@
   "reportChoiceStatusP": {
     "message": "Please indicate the status of the person you are reporting.",
     "context": "This is the text option displayed for a user to choose the status of the person they are reporting."
-  },  
+  },
   "explainMissingP": {
     "message": "person is believed to be missing",
     "context": "The label next to the status selection button for missing."
@@ -676,7 +676,7 @@
     "context": "This is the text option displayed for a user to choose the age of the animal they are reporting."
   },
   "reportChoiceAgeUnknown": {
-    "message": "If unsure the age, please select unknown.",
+    "message": "If unsure of the age, please select unknown.",
     "context": "The label next to the status selection button for unknown."
   },
   "explainAgeUnknownP": {
@@ -712,12 +712,12 @@
     "context": "The text label for buddty identification number entry of an animal."
   },
   "reportChoiceNameUnknownP": {
-    "message": "If unsure the name, please select unknown.",
+    "message": "If unsure of the name, please select unknown.",
     "context": "This is the section title displayed for the use to choose name unknown."
   },
   "reportChoiceNameUnknownA": {
-    "message": "If unsure the name and buddy identification number, please select unknown.",
-    "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
+    "message": "If unsure of the name and buddy identification number, please select unknown.",
+    "context": "This is the section title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
     "message": "name of person is unknown",
@@ -852,7 +852,7 @@
     "context": "This is the label to the Buddy Identification Number field which is displayed for animals."
   },
   "notifyRecordFollow": {
-    "message": "You are now following this record and will recieve updates as it changes or a comment is added",
+    "message": "You are now following this record and will receive updates as it changes or a comment is added",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },  
   "notifyRecordUnfollow": {
@@ -868,11 +868,11 @@
     "context": "This label is displayed next to a toggle switch displaying that the user is not folliwng the currently viewed record."
   },
   "followButtonExplain": {
-    "message": "Recieve a notification when a change is made to this record or a comment is added",
+    "message": "Receive a notification when a change is made to this record or a comment is added",
     "context": "This label is displayed below the follow user toggle button explaining what the button does."
   },
   "followButtonAnon": {
-    "message": "To follow a record and recieve notifications when it is updated, you must first sign in",
+    "message": "To follow a record and receive notifications when it is updated, you must first sign in",
     "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
   },
   "longerComment": {
