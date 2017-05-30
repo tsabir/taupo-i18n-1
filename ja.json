@@ -736,8 +736,8 @@
     "context": "This toast notification is displayed when a user attempts to use a feature that their web browser does not support."
   },
   "photoOnly": {
-    "message": "JPG, GIF,とPNG ファイルだけです。",
-    "context": "This toast notification is displayed when a user attempts to use an unsupported image file format."
+    "message": "JPEG, PNG, and TIFF image files only.",
+    "context": "This toast notification is displayed when a user attempts to use an unsupported image file format in search by photo or report."
   },
   "reportChoicePhotoP": {
     "message": "この人の同定を向上させるのに写真を加えることもできます。",
