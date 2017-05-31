@@ -1,4 +1,8 @@
 {
+  "thisLanguageDescription": {
+    "message": "Spanish",
+    "context": "This word describes this language itself IN ENGLISH! DO NOT TRANSLATE THIS!! This phrase must remain in English."
+  },
   "thisLanguage": {
     "message": "Español",
     "context": "This word describes this language itself."

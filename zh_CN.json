@@ -1,4 +1,8 @@
 {
+  "thisLanguageDescription": {
+    "message": "Chinese Simplified",
+    "context": "This word describes this language itself IN ENGLISH! DO NOT TRANSLATE THIS!! This phrase must remain in English."
+  },
   "thisLanguage": {
     "message": "中文(简体)",
     "context": "This word describes this language itself."
