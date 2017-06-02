@@ -996,19 +996,19 @@
     "context": "When a search is performed this word is prefixed with the number of results, ie. 1 record -- special case when only 1 result"
   },
   "notifyLogout": {
-    "message": "Logged out.",
+    "message": "已經退出.",
     "context": "This notification will appear after the user successfully logs out."
   },
   "uploadingPhoto": {
-    "message": "Uploading Photo...",
+    "message": "上傳照片...",
     "context": "This message is displayed after a user selects an image file to search by photo as the file is being uploaded."
   },
   "searchByPhoto": {
-    "message": "Search by Photo",
+    "message": "使用照片搜索",
     "context": "When a user elects to search by photo from the search query bar, a dialog box appears with this as the title."
   },
   "dragAndDrop": {
-    "message": "Drag and drop",
+    "message": "拖放",
     "context": "A user may drag and drop a file to search by image. This message shows the user where to drag and drop the file ~ the target."
   }
 }

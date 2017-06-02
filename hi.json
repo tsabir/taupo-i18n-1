@@ -40,15 +40,15 @@
     "context": "The link text for the Contact link."
   },
   "linkApps": {
-    "message": "Apps",
+    "message": "आप्पस",	
     "context": "The link text for the Apps link."
   },
   "linkResources": {
-    "message": "साधन",
+    "message": "सहारा",
     "context": "The link text for the Resources link."
   },
   "linkFollowUs": {
-    "message": "हमारा अनुसरण करो",
+    "message": "हमारा अनुसरण करें",
     "context": "The link text for the Follow Us link."
   },
   "linkTrademark": {
@@ -64,11 +64,11 @@
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
   "restError1": {
-    "message": "त्रुटि: अमान्य उपयोगकर्ता नाम या पासवर्ड",
+    "message": "त्रुटि: गलत प्रयोगकर्त्ता नाम या पासवर्ड",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "restError2": {
-    "message": "त्रुटि: आपके अकाउंट अस्थायी रूप से बार बार लॉग इन करने में नाकाम रहने के लिए बंद कर दिया जाता है, बाद में फिर से कोशिश करें",
+    "message": "त्रुटि: आपके अकाउंट अस्थायी रूप से बार बार लॉग इन करने में नाकाम रहने के लिए बंद कर दिया जाता है, बाद में फिर से कोशिश करें।",
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "restError3": {
@@ -76,27 +76,27 @@
     "context": "Error message presented when a user account is not yet active."
   },
   "restError2000": {
-    "message": "त्रुटि: एक उपयोगकर्ता पहले से ही प्रदान ईमेल पते के साथ मौजूद है",
+    "message": "त्रुटि: एक प्रयोगकर्त्ता पहले से ही प्रदान ई-मेल पते के साथ विद्यमान है।",
     "context": "Error message presented when user tries to use an email address already in use."
   },
   "restError2001": {
-    "message": "त्रुटि: अमान्य ईमेल पता",
+    "message": "त्रुटि: अपरिचित ई-मेल पता",
     "context": "Error message presented when a user provides an invalid email address."
   },
   "restError2002": {
-    "message": "रुटि: पासवर्ड लंबाई में 8-16 अक्षर में होना चाहिए, कम से कम एक अपरकेस, लोअरकेस एक है, और एक संख्यात्मक चरित्र होना चाहिए",
+    "message": "रुटि: पासवर्ड लंबाई में 8-16 अक्षर में होना चाहिए, कम से कम एक अपरकेस, लोअरकेस, और एक संख्यात्मक अक्षर होना चाहिए।",
     "context": "Error message presented when user enters an invalid password."
   },
   "restError2003": {
-    "message": "त्रुटि: गलत मानव सत्यापन परीक्षा परिणाम , पृष्ठ पुनः लोड करें",
+    "message": "त्रुटि: गलत मानव प्रमाण परीक्षा फल, पृष्ठ पुनः लोड करें।",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
   "restError2004": {
-    "message": "त्रुटि: पासवर्ड मेल नहीं खाते",
+    "message": "त्रुटि: पासवर्ड नहीं मिलते",
     "context": "Error message presented when entered password do not match one another."
   },
   "passError0": {
-    "message": "त्रुटि: पासवर्ड 8-16 अक्षर का होना चाहिए",
+    "message": "त्रुटि: पासवर्ड 8-16 अक्षर का होना चाहिए।",
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
   "passError1": {
@@ -104,7 +104,7 @@
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
   "passError2": {
-    "message": "त्रुटि: पासवर्ड कम से कम एक छोटा अक्षर शामिल होना चाहिए (a-z)",
+    "message": "त्रुटि: पासवर्ड कम से कम एक लोअरकेस अक्षर होना चाहिए (a-z)",
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
   "passError3": {
@@ -112,47 +112,47 @@
     "context": "Error message presented when entered password does not contain at least one digit."
   },
   "restError5000": {
-    "message": "नेटवर्क त्रुटि। अपने कनेक्शन की जांच करें और पुन: प्रयास करें।",
+    "message": "नेटवर्क त्रुटि: अपने कनेक्शन की जांच करें और पुन: प्रयास करें।",
     "context": "Error message presented when there is a network / internet issue."
   },
   "restError9999": {
-    "message": "एक अज्ञात त्रुटि उत्पन्न हुई । ",
+    "message": "एक अज्ञात त्रुटि उत्पन्न हुई। ",
     "context": "Error message presented when an unknown error has occurred."
   },
   "errorGettingSubscription": {
-    "message": "सदस्यता जानकारी प्राप्त करने में त्रुटि । कृपया पृष्ठ को फिर से लोड करें।",
+    "message": "सदस्यता सम्बाद प्राप्त करने में त्रुटि। कृपया पृष्ठ को फिर से लोड करें।",
     "context": "This error will be displayed when an error is encountered while loading the user subscription information."
   },
   "errorUnsubscribing": {
-    "message": "सदस्यता समाप्ति के दौरान कोई त्रुटि आई।",
+    "message": "सदस्यता समाप्ति के समय कोई त्रुटि हुई।",
     "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
-    "message": "लॉग इन आई।",
+    "message": "लॉग इन हुई।",
     "context": "This notification will appear after the user successfully logs in."
   },
   "notifyRegister": {
-    "message": "अब आप पंजीकृत और लॉग इन आई।",
+    "message": "अब आप रेजिस्टर्ड और लॉग इन हुई।",
     "context": "This notification will appear after the user newly registers and is automatically logged in."
   },
   "notifyRegistering": {
-    "message": "पंजीकृत कर रहा है...",
+    "message": "रेजिस्टर कर रहा है...",
     "context": "This notification will appear briefly as the system registers and creates a new account for the user."
   },
   "notifyPasswordChanged": {
-    "message": "पासवर्ड सफलतापूर्वक बदल दिया है।",
+    "message": "पासवर्ड सफलतापूर्वक बदल दिया गया है।",
     "context": "This notification will appear after the user successfully changes their password."
   },
   "notifyUnsubscribed": {
-    "message": "अब आप सूचनाएं प्राप्त करने के लिए सदस्यता ले ली है ।",
+    "message": "आप सूचना प्राप्त करने के लिए अब और रेजिस्टर्ड नहीं हुए है।",
     "context": "This notification will appear after the user unsubscribed from recieving notifications."
   },
   "notifySubscribed": {
-    "message": "अब आप सूचनाएं प्राप्त करने के लिए सदस्यता रहे हैं।",
+    "message": "अब आप सूचना प्राप्त करने के लिए रेजिस्टर्ड हैं।",
     "context": "This notification will appear after the user subscribes to recieving notifications."
   },
   "notifyResetPassword": {
-    "message": "You have been emailed instructions how to reset your password.",
+    "message": "आपको अपना पासवर्ड कैसे रीसेट करना होगा, ये निर्देश ई-मेल कर दिया गया है।",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
   },
   "pad1login": {
@@ -160,11 +160,11 @@
     "context": "This is the name of the first tab of the user dialog allowing a user to login."
   },
   "pad1register": {
-    "message": "पंजीकृत करें",
+    "message": "रेजिस्टर करें",
     "context": "This is the name of the second tab of the user dialog allowing a user to register."
   },
   "pad1forgotText": {
-    "message": "अपना ईमेल पता दर्ज करें और हम आपको अपना पासवर्ड रीसेट करने के लिए निर्देश भेज देंगे।",
+    "message": "अपना ई-मेल पता दाखिल करें और हम आपको अपना पासवर्ड रीसेट करने के लिए निर्देश भेज देंगे।",
     "context": "This text informs the user of what they must do in order to reset their password ~ they must enter their email address."
   },
   "pad1forgotSend": {
@@ -176,7 +176,7 @@
     "context": "This is the text label for the forgot my password button on the login dialog."
   },
   "pad1loginUsernamePlaceholder": {
-    "message": "उपयोगकर्ता नाम",
+    "message": "प्रयोगकर्त्ता नाम",
     "context": "This is the placeholder text for the username input."
   },
   "pad1loginPasswordPlaceholder": {
@@ -184,7 +184,7 @@
     "context": "This is the placeholder text for the password input."
   },
   "pad1registerEmailPlaceholder": {
-    "message": "ईमेल",
+    "message": "ई-मेल",
     "context": "This is the placeholder text for the email input."
   },
   "pad1registerText": {
@@ -196,15 +196,15 @@
     "context": "This is the first word of the OMB notice."
   },
   "omb7submission": {
-    "message": "जानकारी के प्रस्तुत स्वैच्छिक है। सभी प्रस्तुत जानकारी सार्वजनिक रूप से उपलब्ध कराया जाएगा।",
+    "message": "सम्बाद के प्रस्तुत स्वेच्छापूर्वक है। सभी प्रस्तुत सम्बाद सार्वजनिक रूप से उपलब्ध कराया जाएगा।",
     "context": "These are the first two sentences of the OMB notice."
   },
   "omb7text": {
-    "message": "सूचना के इस संग्रह के लिए सार्वजनिक रिपोर्टिंग बोझ प्रतिक्रिया के प्रति औसत 3 मिनट का अनुमान है। यह अनुमान निर्देश की समीक्षा सभा, और डेटा में प्रवेश के लिए समय भी शामिल है। यदि एक एजेंसी के आचरण या नहीं प्रायोजक है, और एक व्यक्ति जब तक यह एक वर्तमान में मान्य OMB नियंत्रण संख्या प्रदर्शित करने के लिए जानकारी का एक संग्रह, प्रतिक्रिया करने के लिए आवश्यक नहीं है। इस बोझ अनुमान या सूचना के इस संग्रह के लिए इस बोझ को कम करने के लिए सुझाव भी शामिल है के किसी अन्य पहलू के बारे में टिप्पणी भेजें :",
+    "message": "सूचना के इस संग्रह के लिए सार्वजनिक रिपोर्टिंग बोझ प्रतिक्रिया के प्रति औसत 3 मिनट का अनुमान है। यह अनुमान निर्देश की समीक्षा सभा, और डेटा में प्रवेश के लिए समय भी शामिल है। यदि एक एजेंसी के आचरण या नहीं प्रायोजक है, और एक व्यक्ति जब तक यह एक वर्तमान में मान्य OMB नियंत्रण संख्या प्रदर्शित करने के लिए सम्बाद का एक संग्रह, प्रतिक्रिया करने के लिए आवश्यक नहीं है। इस बोझ अनुमान या सूचना के इस संग्रह के लिए इस बोझ को कम करने के लिए सुझाव भी शामिल है के किसी अन्य पहलू के बारे में टिप्पणी भेजें :",
     "context": "This is the main paragraph of the OMB notice."
   },
   "omb7sub": {
-    "message": "मैं इस के। पढ़ा है और इस बात से सहमत है.",
+    "message": "मैं इस को पढ़ा है और इस बात से सहमत है।",
     "context": "This is the label for the OMB notice agreement button."
   },
   "pad3following": {
@@ -224,23 +224,23 @@
     "context": "This verbiage is displayed when the following records panel is displayed and the user is not following any records."
   },
   "pad3unFollow": {
-    "message": "अनुसरण बंद करना",
+    "message": "अनुसरण बंद करें",
     "context": "This is the text label applied to the button that allows a user to unfollow updates to a record."
   },
   "pad3subStatusUnsubscribed": {
     "message": "सदस्यता वापस",
-    "context": "This text label tells of the status of the user not being subscribed to recieve notifications."
+    "context": "This text label tells of the status of the user not being subscribed to receive notifications."
   },
   "pad3subStatusSubscribed": {
     "message": "सदस्यता ली",
-    "context": "This text label tells the status of the user being subscribed to recieve notifications."
+    "context": "This text label tells the status of the user being subscribed to receive notifications."
   },
   "pad3subscribeTo": {
     "message": "सूचनाओं की सदस्यता ली",
-    "context": "This is the title text to the section that allows a user to opt-in to recieve push notifications."
+    "context": "This is the title text to the section that allows a user to opt-in to receive push notifications."
   },
   "pad3Time": {
-    "message": "समय-समय पर, जब एक नई घटना बन जाता है, हम हमारे उपयोगकर्ताओं के लिए सूचनाएँ भेज सकते हैं।",
+    "message": "समय-समय पर, जब एक नई घटना बन जाता है, हम हमारे प्रयोगकर्त्ताओं के लिए सूचनाएँ भेज सकते हैं।",
     "context": "This verbiage describes the extent to which we use the push notification subscription a user provides to send out information."
   },
   "pad3changePasswordButton": {
@@ -264,27 +264,27 @@
     "context": "This is the placeholder text for the new password again input."
   },
     "pushNotificationsUnsupported": {
-    "message": "आपके ब्राउज़र पुश सूचनाएँ का समर्थन नहीं करता।",
+    "message": "आपके ब्राउज़र पुश सूचना का समर्थन नहीं करता है।",
     "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
-    "message": "आप इस साइट को सूचनाएँ प्रदर्शित करने से निषिद्ध किये हैं। आप इस सुविधा का उपयोग करने के लिए इस अनुमति को पुन: सक्षम होना चाहिए।",
+    "message": "आप इस साइट को सूचना प्रदर्शित करने से निषिद्ध किये हैं। आप इस सुविधा का उपयोग करने के लिए इस अनुमति को पुन: सक्षम होना चाहिए।",
     "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
   },
   "helpFindTitle": {
-    "message": "Help Locating a Person or Animal",
+    "message": "एक व्यक्ति या पशु का पता लगाने में मदद करें।",
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. When you first arrive at PEOPLE LOCATOR, you are presented with a list of available disaster events. Each event has a name, a descriptive image related to the event, and some text describing the situation. If you scroll down, you will see there are a few different events from which you may select. Choose the event which you believe the person or animal you are trying to locate would most likely be associated with. For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, you would choose this event. You would select an event by tapping on the large green button under the image; this will take you directly to the search engine for this particular disaster event. A new search box will appear at the top after you have made your selection. Enter the name of the person you are attempting to locate in this search box. The search results update automatically with the most relevant results on near the top. You may acquire more information about by tapping on the details link near the bottom of any partuclar record, this opens a detail view. On this detail view, you may view more detailed record information, add a comment of your own, or begin following a record for updates.",
+    "message": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. When you first arrive at PEOPLE LOCATOR, you are presented with a list of available disaster events. Each event has a name, a descriptive image related to the event, and some text describing the situation. If you scroll down, you will see there are a few different events from which you may select. Choose the event which you believe the person or animal you are trying to locate would most likely be in. For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, you would choose this event. You can select an event by tapping/clicking on the large green button under the image. This will take you directly to the search screen for this particular disaster event. A new search box will appear at the top after you have made your selection. Enter the name of the person you are attempting to locate in this search box and press Enter. The search results will update with the most relevant matches at the top. You may acquire more information about a result by tapping on the details link near the bottom of the record. This opens a detailed view in which you may view more detailed record information, add a comment of your own, or begin following a record to be notified about updates.",
     "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
-    "message": "Help Reporting a Person or Animal",
+    "message": "एक व्यक्ति या पशु रिपोर्टिंग में मदद करें।",
     "context": "This is the title of the help page section on how to report."
   },
   "helpReportText": {
-    "message": "If you are unable to locate the preson or animal you seek, then you should report this person to our PEOPLE LOCATOR registry. Once you have navigated into a disaster event, you will see a pink floating action button on the bottom right of the screen. Tapping this button will initiate the reporting process and launch you into a separate wizard that will guide you through the steps of completing a new report based on the information you provide us. Once completed, your report will be entered into our searchable registry and be publicly visible to others. Once you complete the report (if not reported anonymously) you will automatically begin to follow your own report for updates as they come into our registry. Others may comment on your record providing you with new information about the person or animal you reported. Since you are following this record, updates will be sent to you via email or push notifications.",
+    "message": "If you are unable to locate the person or animal you seek, then you may report this person or animal to our PEOPLE LOCATOR registry. Once you have navigated to a disaster event, you will see a pink floating action button on the bottom right of the screen. Tapping/clicking this button will launch you into a wizard that will guide you through the process of filing a report. Once completed, your report will be entered into our searchable registry and be publicly visible to others. If your report was not done anonymously, you will automatically start to follow your own report for updates as they come in. Others may comment on your record providing you with new information about the person or animal you reported. Updates will be sent to you via email or push notifications.",
     "context": "This is the help page article body describing in detail how to report a person or animal."
   },
   "pageAboutTextAbout": {
@@ -312,7 +312,7 @@
     "context": "This is the first text paragraph on the Privacy page describing how user data is handled."
   },
   "pagePrivacyText2a": {
-    "message": "यहॉ दाखल करना खबर ",
+    "message": "यहॉ दाखल करना सम्बाद ",
     "context": "Beginning of the second paragraph on the Privacy page."
   },
   "pagePrivacyText2b": {
@@ -328,7 +328,7 @@
     "context": "Beginning of the third paragraph on the Privacy page."
   },
   "pagePrivacyText3b": {
-    "message": "रिपोर्टर का ईमेल पता और डिवाइस आईडी बनाए रखा जाएगा लेकिन सार्वजनिक रूप से प्रदर्शित नहीं किया जाएगा।",
+    "message": "रिपोर्टर का ई-मेल पता और डिवाइस आईडी बनाए रखा जाएगा लेकिन सार्वजनिक रूप से प्रदर्शित नहीं किया जाएगा।",
     "context": "End of the third paragraph on the Privacy page."
   },
   "pagePrivacyText4": {
@@ -340,7 +340,7 @@
     "context": "Text for the link to the Freedom of Information Act site."
   },
   "forMore": {
-    "message": "अधिक जानकारी के लिए",
+    "message": "अधिक सम्बाद के लिए",
     "context": "The title for a subsection on the Privacy page with links to more topics."
   },
   "the": {
@@ -436,11 +436,11 @@
     "context": "The title of the 3rd tab allowing someone to Report a new person or pet."
   },
   "tagline": {
-    "message": "आपदाओं के दौरान लापता परिवार, दोस्तों, और जाते को पता लगाना और रिपोर्ट करना ",
+    "message": "आपदाओं के समय लापता परिवार, दोस्तों, और जाते को पता लगाना और रिपोर्ट करना ",
     "context": "The tagline is the summary of what the application is for."
   },
   "pageTitle": {
-    "message": "Find and report missing people or animals during disasters",
+    "message": "आपदाओं के समय लापता परिवार, दोस्तों, और जाते को पता लगाना और रिपोर्ट करना",
     "context": "This is the page title which is very similar in nature to the tagline."
   },
   "eventRetired": {
@@ -448,295 +448,295 @@
     "context": "We inform the user this message when they attempt to come to us via exact event url when the event is no longer open."
   },
   "eventListFindReportButton": {
-    "message": "एक व्यक्ति या जानवर की पता लगाता या रिपोर्टिंग करता।",
+    "message": "एक व्यक्ति या पशु की पता लगाता या रिपोर्टिंग करता।",
     "context": "This is the button text on the home page to Find or Report a person or animal."
   },
   "searchPlaceholder": {
-    "message": "Search",
+    "message": "खोज",
     "context": "The search box starts off with this text to inform the user what the element is used for."
   },
   "records": {
-    "message": "records",
+    "message": "अभिलेख",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 17 records"
   },
   "moreDetails": {
-    "message": "More Details",
+    "message": "अधिक सम्बाद",
     "context": "When search results are displayed, a user can click on the more details link to open the record displaying all record data."
   },
   "sexMale": {
-    "message": "Male",
+    "message": "पुरुष",
     "context": "Sex = Male"
   },
   "sexFemale": {
-    "message": "Female",
+    "message": "नारी",
     "context": "Sex = Female"
   },
   "sexOther": {
-    "message": "Other",
+    "message": "अन्य",
     "context": "Sex = Other"
   },
   "statusMissing": {
-    "message": "Missing",
+    "message": "लापता",
     "context": "Status is Missing"
   },
   "statusFound": {
-    "message": "Found",
+    "message": "प्राप्त",
     "context": "Status is Found"
   }  ,
   "statusDeceased": {
-    "message": "Deceased",
+    "message": "मृत",
     "context": "Status is Deceased"
   },
   "statusInjured": {
-    "message": "Injured",
+    "message": "आहत",
     "context": "Status is Injured"
   },
   "statusAlive": {
-    "message": "Alive & Well",
+    "message": "जीवित और सख्यम",
     "context": "Status is Alive and Well"
   },
   "statusUnknown": {
-    "message": "Unknown",
+    "message": "अज्ञात",
     "context": "Status, Location, or other attribute is Unknown"
   },
   "age": {
-    "message": "Age",
+    "message": "उम्र",
     "context": "Age of person or animal"
   },
   "comments": {
-    "message": "Comments",
+    "message": "टिप्पणी",
     "context": "Comments that others may add to a person or animal record."
   },
   "addComment": {
-    "message": "Add a comment",
+    "message": एक टिप्पणी जोड़ें",
     "context": "The label for a button allowing a user to add a comment to a record."
   }, 
   "addCommentLabel": {
-    "message": "Add any additional information about this record you may have",
+    "message": "हो सकता है तो आप इस रिकॉर्ड के बारे में कोई अतिरिक्त सम्बाद जोड़ें",
     "context": "This is the label below the add comment button explaining to a user what it does."
   },
   "followButton": {
-    "message": "Follow",
+    "message": "चालू रखें",
     "context": "A button allows a user to follow record updates."
   },
     "followButtonLabel": {
-    "message": "Recieve all updates to this person via email",
+    "message": "ई-मेल के माध्यम से इस व्यक्ति को सब से अपडेट प्राप्त करें",
     "context": "This is the label below the follow button explaining to a user what it does."
   },
   "name": {
-    "message": "Name",
+    "message": "नाम",	
     "context": "This label is displayed under the person or animal name."
   },
   "status": {
-    "message": "Status",
+    "message": "अवस्था",
     "context": "This label is displayed below the person or animal missing / found status."
   },
   "lastUpdated": {
-    "message": "Last Updated",
+    "message": "आखरी अप्डैटिड",
     "context": "This label is displayed under the date / time of when a record was last updated."
   },
   "gender": {
-    "message": "Gender",
+    "message": "लिंग",
     "context": "This is a label below the displayed gender of a person or animal."
   },
   "lastKnownLocation": {
-    "message": "Last Known Location",
+    "message": "आखरी ज्ञात स्थान",
     "context": "This is a label displayed below a text box showing a person or animal last known location."
   },
   "lastKnownInformation": {
-    "message": "Last Known Information",
+    "message": "आखरी ज्ञात सम्बाद",
     "context": "This is a label displayed below a text box showing a person or animal last known information in text form."
   },
   "otherInformation": {
-    "message": "Other Information",
+    "message": "अन्य सम्बाद",
     "context": "This is a label displayed below a text box showing other information about a person or animal."
   },
   "newReport": {
-    "message": "New Report",
+    "message": "नई रिपोर्ट",
     "context": "This is the window title when a new person or animal is being reported."
   },
   "reportChoicePA": {
-    "message": "Would you like to report a Person or an Animal?",
+    "message": "क्या आप एक व्यक्ति या किसी पशु की रिपोर्ट करने के लिए चाहते हैं?",
     "context": "This is the text option displayed for a user to choose and fill out either a person or animal report."
   },
   "person": {
-    "message": "Person",
+    "message": "व्यक्ति",
     "context": "This is the text label on a button a user presses to choose a person report."
   },
   "animal": {
-    "message": "Animal",
+    "message": "पशु",
     "context": "This is the text label on a button a user presses to choose an animal report."
   },
   "reportChoiceStatusP": {
-    "message": "Please indicate the status of the person you are reporting.",
+    "message": "जिस व्यक्ति की आप रिपोर्ट कर रहे हैं, कृपया उसके अवस्था बताइये",
     "context": "This is the text option displayed for a user to choose the status of the person they are reporting."
   },  
   "explainMissingP": {
-    "message": "person is believed to be missing",
+    "message": "व्यक्ति लापता माना जाता है",
     "context": "The label next to the status selection button for missing."
   },
   "explainFoundP": {
-    "message": "person has been found health unknown",
+    "message": "व्यक्ति पाया गया है, स्वास्थ्य अज्ञात",
     "context": "The label next to the status selection button for found."
   },
   "explainAliveP": {
-    "message": "person has been found and is well",
+    "message": "व्यक्ति पाया गया है, अवस्था अच्छी है",
     "context": "The label next to the status selection button for alive & well."
   },
   "explainInjuredP": {
-    "message": "person has been found and is injured",
+    "message": "व्यक्ति पाया गया है, लेकिन आहत है",
     "context": "The label next to the status selection button for injured."
   },
   "explainDeceasedP": {
-    "message": "person has been found and is deceased",
+    "message": "व्यक्ति मृत पाया गया है",
     "context": "The label next to the status selection button for deceased."
   },
   "explainUnknownP": {
-    "message": "information is sought about the person",
+    "message": "व्यक्ति के बारे में सम्बाद मांगी जाती है",
     "context": "The label next to the status selection button for unknown."
   },  
   "location": {
-    "message": "Location",
+    "message": "स्थान",
     "context": "Text label for Location."
   },
   "photo": {
-    "message": "Photo",
+    "message": "तसवीर",
     "context": "Text label for Photo."
   },
   "reportChoiceStatusA": {
-    "message": "Please indicate the status of the animal you are reporting.",
+    "message": "जिस पशु के आप रिपोर्ट कर रहे हैं, कृपया उसका अवस्था बताइये",
     "context": "This is the text option displayed for a user to choose the status of the animal they are reporting."
   },
   "explainMissingA": {
-    "message": "animal is believed to be missing",
+    "message": "पशु लापता माना जाता है",
     "context": "The label next to the status selection button for missing."
   },
   "explainFoundA": {
-    "message": "animal has been found health unknown",
+    "message": "पशु पाया गया है, स्वास्थ्य अज्ञात",
     "context": "The label next to the status selection button for found."
   },
   "explainAliveA": {
-    "message": "animal has been found and is well",
+    "message": "पशु पाया गया है, अवस्था अच्छी है",
     "context": "The label next to the status selection button for alive & well."
   },
   "explainInjuredA": {
-    "message": "animal has been found and is injured",
+    "message": "पशु पाया गया है, लेकिन आहत है",
     "context": "The label next to the status selection button for injured."
   },
   "explainDeceasedA": {
-    "message": "animal has been found and is deceased",
+    "message": "पशु मृत पाया गया है",
     "context": "The label next to the status selection button for deceased."
   },
   "explainUnknownA": {
-    "message": "information is sought about the animal",
+    "message": "पशु के बारे में सम्बाद मांगी जाती है",
     "context": "The label next to the status selection button for unknown."
   },
   "reportChoiceSexP": {
-    "message": "Please indicate the gender of the person you are reporting.",
+    "message": "जिस व्यक्ति की आप रिपोर्ट कर रहे हैं, कृपया उसके लिंग बताइये",
     "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
   },
   "reportChoiceSexA": {
-    "message": "Please indicate the gender of the person you are reporting.",
-    "context": "This is the text option displayed for a user to choose the gender of the person they are reporting."
+    "message": "जिस पशु की आप रिपोर्ट कर रहे हैं, कृपया उसके लिंग बताइये",
+    "context": "This is the text option displayed for a user to choose the gender of the animal they are reporting."
   },
   "explainSexMaleP": {
-    "message": "gender of person is male",
+    "message": "व्यक्ति का लिंग पुरुष है",
     "context": "The label next to the person sex selection button for male."
   },
   "explainSexFemaleP": {
-    "message": "gender of person is female",
+    "message": "व्यक्ति का लिंग नारी है",
     "context": "The label next to the person sex selection button for female."
   },
   "explainSexOtherP": {
-    "message": "gender of person is other",
-    "context": "The label next to the person sex selection button for other."
+    "message": "व्यक्ति का लिंग अन्य है",
+	"context": "The label next to the person sex selection button for other."
   },
   "explainSexUnknownP": {
-    "message": "gender of person is unknown",
+    "message": "व्यक्ति का लिंग अज्ञात है",
     "context": "The label next to the person sex selection button for unknown."
   },
   "explainSexMaleA": {
-    "message": "gender of animal is male",
+    "message": "पशु का लिंग पुरुष है",
     "context": "The label next to the animal sex selection button for male."
   },
   "explainSexFemaleA": {
-    "message": "gender of animal is female",
+    "message": "पशु का लिंग नारी है",
     "context": "The label next to the animal sex selection button for female."
   },
   "explainSexOtherA": {
-    "message": "gender of animal is other",
+    "message": "पशु का लिंग अन्य है",
     "context": "The label next to the animal sex selection button for other."
   },
   "explainSexUnknownA": {
-    "message": "gender of animal is unknown",
+    "message": "पशु का लिंग अज्ञात है",
     "context": "The label next to the animal sex selection button for unknown."
   },
   "reportChoiceAgeP": {
-    "message": "Please select the approximate age of the person you are reporting",
+    "message": "जिस व्यक्ति की आप रिपोर्ट कर रहे हैं, कृपया उसकी अनुमानित उम्र चुनिए",
     "context": "This is the text option displayed for a user to choose the age of the person they are reporting."
   },
   "reportChoiceAgeA": {
-    "message": "Please select the approximate age of the animal you are reporting",
+	"message": "जिस पशु की आप रिपोर्ट कर रहे हैं, कृपया उसकी अनुमानित उम्र चुनिए", 
     "context": "This is the text option displayed for a user to choose the age of the animal they are reporting."
   },
   "reportChoiceAgeUnknown": {
-    "message": "If unsure the age, please select unknown.",
+    "message": "यदि उम्र के बारे में अनिश्चित, कृपया अज्ञात का चयन करें",
     "context": "The label next to the status selection button for unknown."
   },
   "explainAgeUnknownP": {
-    "message": "age of person is unknown",
+    "message": "व्यक्ति की उम्र अज्ञात है",
     "context": "The label next to the person age selection button for unknown."
   },
   "explainAgeUnknownA": {
-    "message": "age of animal is unknown",
+    "message": "पशु की उम्र अज्ञात है",
     "context": "The label next to the animal age selection button for unknown."
   },
   "continue": {
-    "message": "continue",
+    "message": "जारी रखें",
     "context": "The label of a button to continue to the next step."
   },
   "reportChoiceNameP": {
-    "message": "Please enter the name of the person you are reporting.",
+    "message": "जिस व्यक्तिकी आप रिपोर्ट कर रहे हैं, कृपया उनके नाम दाखिल करें",
     "context": "This is the section title displayed for a user to enter the name of the person they are reporting."
   },
   "reportChoiceNameA": {
-    "message": "Please enter the name and/or buddy identification number of the animal you are reporting.",
+    "message": "जिस पशुकी आप रिपोर्ट कर रहे हैं, कृपया इसकी नाम और / या साथी पहचान संख्या दाखिल करे ",
     "context": "This is the section title displayed for a user to enter the name and/or the buddy identification number of the animal they are reporting."
   },
   "explainNameP": {
-    "message": "name of person",
+    "message": "व्यक्ति का नाम",
     "context": "The text label for name entry of a person."
   },
   "explainNameA": {
-    "message": "name of animal",
+    "message": "पशु का नाम",
     "context": "The text label for name entry of an animal."
   },
   "explainBuddyA": {
-    "message": "buddy identification number of animal",
+    "message": "पशु का साथी पहचान संख्या",
     "context": "The text label for buddty identification number entry of an animal."
   },
   "reportChoiceNameUnknownP": {
-    "message": "If unsure the name, please select unknown.",
+    "message": ""यदि नाम के बारे में अनिश्चित, कृपया अज्ञात का चयन करें",
     "context": "This is the section title displayed for the use to choose name unknown."
   },
   "reportChoiceNameUnknownA": {
-    "message": "If unsure the name and buddy identification number, please select unknown.",
+    "message": "यदि नाम और साथी पहचान संख्या के बारे में अनिश्चित, कृपया अज्ञात का चयन करें",
     "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
-    "message": "name of person is unknown",
+    "message": "व्यक्ति की नाम अज्ञात है",
     "context": "The label next to the person name selection button for unknown."
   },
   "explainNameUnknownA": {
-    "message": "name and buddy identification number of animal is unknown",
+    "message": "पशु का नाम और साथी पहचान संख्या अज्ञात है",
     "context": "The label next to the animal name selection button for unknown."
   },
   "cameraError": {
-    "message": "No camera detected by your web browser. You may opt to use your camera app instead.",
+    "message": "आपके वेब ब्राउज़र कोई कैमरा का पता नहीं लगा सका | इसके बजाय आप अपने कैमरा एप्लिकेशन का उपयोग कर सकते हैं",
     "context": "This toast notification is displayed when there is an error detecting the camera on the user device."
   },
   "browserLimitation": {
-    "message": "Your web browser does not support this feature.",
+    "message": "आपके वेब ब्राउज़र इस विशेषता का उपयोग नहीं करता है |",
     "context": "This toast notification is displayed when a user attempts to use a feature that their web browser does not support."
   },
   "photoOnly": {
@@ -744,271 +744,271 @@
     "context": "This toast notification is displayed when a user attempts to use an unsupported image file format in search by photo or report."
   },
   "reportChoicePhotoP": {
-    "message": "You may optionally add a photo to improve identification of this person.",
+    "message": "आप अधिक से इस व्यक्ति की पहचान में सुधार करने के लिए एक तस्वीर जोड़ सकते हैं।",
     "context": "Section titled telling user that they can add a photo for identification purposes."
   },
   "reportChoicePhotoA": {
-    "message": "You may optionally add a photo to improve identification of this animal.",
+    "message": "आप अधिक से इस पशु की पहचान में सुधार करने के लिए एक तस्वीर जोड़ सकते हैं।",
     "context": "Section titled telling user that they can add a photo for identification purposes."
   },
   "reportChoicePhotoCapture": {
-    "message": "Capture",
+    "message": "छवि लेना",
     "context": "This is the button label used to capture a photograph using the device camera."
   },
   "reportChoicePhotoSelectFile": {
-    "message": "Select File",
+    "message": "फ़ाइल चुनिए",
     "context": "This is the button label used to select an image file from local device storage."
   },
   "reportChoicePhotoTake": {
-    "message": "Take a Photo",
+    "message": "तस्वीर लीजिये",
     "context": "This is the button label used to open the device camera before capturing an image."
   },
   "reportChoicePhotoDelete": {
-    "message": "Delete",
+    "message": "काट देना",
     "context": "This is the button label used to delete an image the user has already submitted."
   },
   "reportChoicePhotoHelp": {
-    "message": "Crop or rotate the photo if necessary.",
+    "message": "यदि आवश्यक हो तो तस्वीर छाँटना या घुमाना",
     "context": "This is the help text displayed below image manipulation controls informing the user how to alter the already submitted image."
   },
   "reportChoiceMapP": {
-    "message": "You may optionally specify a map point to assist others in locating this person.",
+    "message": "आप अधिक से दूसरों के इस व्यक्ति का पता लगाने में सहायता करने के लिए एक मानचित्र बिंदु निर्दिष्ट कर सकते हैं।",
     "context": "This is the section header above the map used to specify a last known location."
   },
   "reportChoiceMapA": {
-    "message": "You may optionally specify a map point to assist others in locating this animal.",
+    "message": ""आप अधिक से दूसरों के इस पशु का पता लगाने में सहायता करने के लिए एक मानचित्र बिंदु निर्दिष्ट कर सकते हैं।",
     "context": "This is the section header above the map used to specify a last known location."
   },
   "reportChoiceMapHelp": {
-    "message": "Drag the map marker to the last known location.",
+    "message": "पिछले ज्ञात स्थान पर मैप मार्कर खींचें।",
     "context": "This is the help text below the last know location map informing a user what to do."
   },
   "information": {
-    "message": "Information",
+    "message": "सूचना",
     "context": "This a label for a tab in the reporting wizard where a user enters free text about Last Known Information."
   },
   "submit": {
-    "message": "Submit",
+    "message": "दाखल करें",
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report."
   },
   "submitAnon": {
-    "message": "Submit Anonymously",
+    "message": "अनाम रूप से दाखल करें",
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report anonymously."
   },
   "reportChoiceInformation": {
-    "message": "Last Known Information",
+    "message": "पिछले ज्ञात सम्बाद",
     "context": "This is the section title for allowing the user to enter free text information about the person/animal."
   },
   "reportChoiceInformationHelpP": {
-    "message": "You may optionally provide any additional information that you feel would assist others in identifying or locating this person.",
+    "message": "दूसरों की इस व्यक्ति का पहचान या पता लगाने में सहायता करने के लिए आप अधिकतर सम्बाद प्रदान कर सकते हैं ।",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the person."
   },
   "reportChoiceInformationHelpA": {
-    "message": "You may optionally provide any additional information that you feel would assist others in identifying or locating this animal.",
+    "message": ""दूसरों की इस पशु का पहचान या पता लगाने में सहायता करने के लिए आप अधिकतर सम्बाद प्रदान कर सकते हैं ।",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the animal."
   },
   "reportBeingSubmittedToast": {
-    "message": "Report being submitted ...",
+    "message": "रिपोर्ट प्रस्तुत किया जा रहा:...",
     "context": "This toast notification will be displayed while the report is being sent in."
   },
   "reportSubmit": {
-    "message": "Submit Report",
+    "message": "रिपोर्ट भेजें",
     "context": "This is the section title on the last page of the reporting wizard. The user will choose how to submit the report."
   },
   "explainSignInP": {
-    "message": "If you would like to be notified when additional information about this person becomes available, please sign in before submitting the report.",
-    "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
+    "message": "आप जब इस व्यक्ति के बारे में अधिक सम्बाद मिलने से सूचित होना चाहते हैं, तो कृपया रिपोर्ट भेजने से पहले साइन इन करें।",
+    "context": "If the user is not signed in, we will prompt them to sign in so that they can receive updates to their reported record."
   },
   "explainSignInA": {
-    "message": "If you would like to be notified when additional information about this animal becomes available, please sign in before submitting the report.",
-    "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
+    "message": ""आप जब इस पशु के बारे में अधिक सम्बाद मिलने से सूचित होना चाहते हैं, तो कृपया रिपोर्ट भेजने से पहले साइन इन करें।",
+    "context": "If the user is not signed in, we will prompt them to sign in so that they can receive updates to their reported record."
   },
   "explainSubmitP": {
-    "message": "If you would like to be notified when additional information about this person becomes available, choose to submit the report now.",
+    "message": "आप जब इस व्यक्ति के बारे में अधिक सम्बाद मिलने से सूचित होना चाहते हैं, तो अब रिपोर्ट प्रस्तुत करने के लिए चुनें।",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainSubmitA": {
-    "message": "If you would like to be notified when additional information about this animal becomes available, choose to submit the report now.",
+    "message": "आप जब इस पशु के बारे में अधिक सम्बाद मिलने से सूचित होना चाहते हैं, तो अब रिपोर्ट प्रस्तुत करने के लिए चुनें।",
     "context": "If the user is already signed in, we will ask them to submit the record and subscribe to updates."
   },
   "explainAnonP": {
-    "message": "Submit anonymously and you will not be notified when more information about this person becomes available.",
-    "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
+    "message": "आप जब अनाम रूप से रिपोर्ट भेजें, तब इस व्यक्ति के बारे में अधिक सम्बाद मिलने से आपको सूचित नहीं किया जाएगा।",
+    "context": "The user is prompted that they may choose to submit their report anonymoysly and not receive any updates afterwards."
   },
   "explainAnonA": {
-    "message": "Submit anonymously and you will not be notified when more information about this animal becomes available.",
-    "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
+    "message": "आप जब अनाम रूप से रिपोर्ट भेजें, तब इस पशु के बारे में अधिक सम्बाद मिलने से आपको सूचित नहीं किया जाएगा।",
+    "context": "The user is prompted that they may choose to submit their report anonymoysly and not receive any updates afterwards."
   },
   "reportComplete": {
-    "message": "Report Complete and Submitted, Thank you.",
+    "message": "रिपोर्ट संपूर्ण और प्रस्तुत, धन्यवाद।",
     "context": "This is the section title on the final page of the reporting wizard. The report has been completed."
   },
   "explainCopy1": {
-    "message": "This is the URL for your completed report. You may return to this URL at a later time to view updates and/or comments made to this record.",
+    "message": "यह अपनी पूरी रिपोर्ट के लिए URL है। आप बाद में इस रिकॉर्ड पर दिया गयी टिप्पणी और / या अधिक सम्बाद देखने के लिए यह URL को वापस आ सकते हैं।",
     "context": "We inform the user of the URL that corresponds to the report they just completed so that they may bookkmark or share it for later."
   },
   "explainCopy2": {
-    "message": "Copy this URL to your clipboard so that you can share or bookmark it.",
+    "message": "इस URL की प्रतिलिपि अपने क्लिपबोर्ड बनाएँ, क्यूँ की तब उसे बुकमार्क या शेयर कर सकें।",
     "context": "This is the text below the copy to clipboard button informing the user what the button does."
   },
   "buddyIdentificationNumber": {
-    "message": "Buddy Identification Number",
+    "message": "साथी पहचान संख्या",
     "context": "This is the label to the Buddy Identification Number field which is displayed for animals."
   },
   "notifyRecordFollow": {
-    "message": "You are now following this record and will recieve updates as it changes or a comment is added",
+    "message": "आप अब इस रिकॉर्ड का अनुसरण कर रहे हैं, यह बदलाने से या टिप्पणी जोड़ा जाने से आप अद्यतन प्राप्त करेंगे।",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },  
   "notifyRecordUnfollow": {
-    "message": "You are no longer following this record",
+    "message": "आप इस रिकॉर्ड का अनुसरण और नहीं कर रहे हैं",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },
   "followStatusTrue": {
-    "message": "Following",
+    "message": "अनुसरणकारी",
     "context": "This label is displayed next to a toggle switch displaying that the user is folliwng the currently viewed record."
   },
   "followStatusFalse": {
-    "message": "Not Following",
+    "message": "अनुसरणकारी नहीं",
     "context": "This label is displayed next to a toggle switch displaying that the user is not folliwng the currently viewed record."
   },
   "followButtonExplain": {
-    "message": "Recieve a notification when a change is made to this record or a comment is added",
+    "message": "जब यह रिकॉर्ड की कोई परिवर्तन किया गया या टिप्पणी जोड़ा गया, उसका सूचना प्राप्त करें",
     "context": "This label is displayed below the follow user toggle button explaining what the button does."
   },
   "followButtonAnon": {
-    "message": "To follow a record and recieve notifications when it is updated, you must first sign in",
+    "message": "जब यह रिकॉर्ड की कोई परिवर्तन किया गया या टिप्पणी जोड़ा गया, ये सूचना प्राप्त करने के लिए आप को पहले साइन इन करना होगा",
     "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
   },
   "longerComment": {
-    "message": "Please enter a longer comment",
+    "message": "कृपया अधिक लंबा टिप्पणी लिखें",
     "context": "The user is notified to enter a longer comment if it is too short"
   },
   "commentBeingSubmittedToast": {
-    "message": "Comment being submitted ...",
+    "message": "टिप्पणी सबमिट किया जा रहा हे।",
     "context": "This toast notification will be displayed while the new comment is being sent in."
   },
   "eventInvalid": {
-    "message": "This event does not exist.",
+    "message": "यह घटना ज्ञात नहीं है।",
     "context": "If the user comes to the site with a direct URL linking to an invalid event, this toast notification will appear."
   },
   "moduleInvalid": {
-    "message": "This module does not exist.",
+    "message": "इस मॉड्यूल ज्ञात नहीं है।",
     "context": "If the user attempts to access a non-existant portion of the site (very unlikely) this toast notification will appear."
   },
   "moduleAccess": {
-    "message": "You do not have permission to access this module.",
+    "message": "आप इस मॉड्यूल का उपयोग करने की अनुमति नहीं है।",
     "context": "If the user attempts to access a portion of the site they do not have permission for, this toast notification will appear."
   },
   "copyTrue": {
-    "message": "URL copied to clipboard.",
+    "message": "क्लिपबोर्ड में URL को नक़ल किया गया हे।",
     "context": "After the user clicks on the copy to clipboard button, if successful, this toast notification will appear."
   },
   "copyFalse": {
-    "message": "Failed to copy URL to clipboard.",
+    "message": "क्लिपबोर्ड में URL को नक़ल करना विफल हुआ।",
     "context": "After the user clicks on the copy to clipboard button, if unsuccessful, this toast notification will appear."
   },
   "userConfirmActive": {
-    "message": "Your email address is now confirmed and your user account activated.",
+    "message": "अब आपके ई-मेल पता स्वीकृत हुआ और प्रयोगकर्त्ता खाते को सक्रिय किया गया हे।",
     "context": "When the user visits a confirmation link emailed to them, this toast notification will appear informing the user that their account is now active and email address verified."
   },
   "userConfirmInvalid": {
-    "message": "This confirmation link is invalid.",
+    "message": "इस स्वीकृति लिंक अविधिमान्य है।",
     "context": "When the user vists an invalid email address confirmation link or an invalid password reset confirmation link, this toast notification will appear."
   },
   "userPasswordTwo": {
-    "message": "A new password has been emailed to you.",
+    "message": "एक नया पासवर्ड आपको इ-मेल कर दिया गया है।",
     "context": "When the user visits a valid password reset confirmation link, this toast notification will appear to notify the user a new password has been generated and emailed to them."
   },
   "eurl1": {
-    "message": "Share this event",
+    "message": "इस घटना का सहभागी होना",
     "context": "This section text is displayed on the paper action dialog when a user clicks the share event button."
   },
   "eurl2": {
-    "message": "Press the button to copy this event URL to your clipboard so that you can share or bookmark it.",
+    "message":"इस घटना URL की प्रतिलिपि अपने क्लिपबोर्ड पर बनाएँ करने के लिए यह बटन दबाएँ, क्यूँ की तब उसे बुकमार्क या शेयर कर सकें।",
     "context": "This text is displayed below the -copy to clipboard- button on the share event paper action dialog."
   },
   "page404": {
-    "message": "404: This page does not exist.",
+    "message": "404: इस पृष्ठ मौजूद नहीं है।",
     "context": "This toast is displayed when a user attempts to visit a non-existant page."
   },
   "ombNoticeTitle": {
-    "message": "OMB Notice",
+    "message": "OMB सूचना",
     "context": "This is the page title for the OMB Notice."
   },
   "abuseReportAbuse": {
-    "message": "Report Abuse",
+    "message": "कुप्रयोग की रिपोर्ट करें",
     "context": "This is used as a sectional header and the label of the report abuse button."
   },
   "abuseWhatReport": {
-    "message": "What would you like to report?",
+    "message": "आप क्या रिपोर्ट करना चाहते हैं?",
     "context": "This is the query presented to a user when asked to be more specific about the type of abuse report the user is filing."
   },
   "abuseReportSpam": {
-    "message": "Spam",
+    "message": "अवांछनीय ई-मेल",
     "context": "This is the button label to select a report abuse claim of type spam."
   },
   "abuseReportSex": {
-    "message": "Sexually Explicit",
+    "message": "कामोत्तेजक",
     "context": "This is the button label to select a report abuse claim of type sexually explicit."
   },
   "abuseReportHate": {
-    "message": "Hate Speech",
+    "message": "द्वेषपूर्ण भाषण",
     "context": "This is the button label to select a report abuse claim of type hate speech."
   },
   "abuseReportViolence": {
-    "message": "Violence",
+    "message": "हिंसात्मक",
     "context": "This is the button label to select a report abuse claim of type violence"
   },
   "abuseReportElse": {
-    "message": "Something Else",
+    "message": "और कुछ",
     "context": "This button label is to select a report abuse claim of type something else."
   },
   "abuseThanks": {
-    "message": "Thanks. We have received your abuse claim. Our site staff will review this record and remove any inappropriate content.",
+    "message": "धन्यवाद। हमें आपका दुर्व्यवहार के दावे प्राप्त हुआ है। हमारी साइट स्टाफ इस रिकॉर्ड की समीक्षा करें और किसी भी अनुचित सामग्री दूर करें। 
     "context": ""
   },
   "deleteRecord": {
-    "message": "Delete Record",
+    "message": "रिकॉर्ड हटाएँ",
     "context": "This is used as a button label and dialog header allowing a user to delete a record from the system."
   },
   "deleteRecordConfirm": {
-    "message": "Are you sure you want to delete this record? There is no way to recover your record data once it has been deleted.",
+    "message": "क्या आप इस रिकॉर्ड को ज़रूर हटाना चाहते हैं? एक बार इसे हटा दिया गया है तो आपका रिकॉर्ड डेटा को पुनर्प्राप्त करने के कोई रास्ता नहीं।"
     "context": "This is the question prompting a user when they choose to delete a record. We confirm they are certain with their decision."
   },
   "deleteRecordCancel": {
-    "message": "Cancel",
+    "message": "रद्द करें",
     "context": "Button label to cancel the action of deleting a record."
   },
   "deleteRecordDelete": {
-    "message": "Delete",
+    "message": "हटाएँ",
     "context": "Button label to confirm the deletion of a record."
   },
   "deleteRecordDone": {
-    "message": "Record Deleted",
+    "message": "रिकॉर्ड हटाया गया",
     "context": "A toast notification displayed to inform the user the deletion of a record action has been completed."
   },
   "seconds": {
-    "message": "seconds",
+    "message": "सेकंड",
     "context": "This word means seconds of time."
   },
   "record": {
-    "message": "record",
+    "message": "रिकॉर्ड",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 1 record -- special case when only 1 result"
   },
   "notifyLogout": {
-    "message": "Logged out.",
+    "message": "लॉग आउट",
     "context": "This notification will appear after the user successfully logs out."
   },
   "uploadingPhoto": {
-    "message": "Uploading Photo...",
+    "message": "फोटो अपलोड कर रहा ...",
     "context": "This message is displayed after a user selects an image file to search by photo as the file is being uploaded."
   },
   "searchByPhoto": {
-    "message": "Search by Photo",
+    "message": "फोटो के व्यवहार पर खोजें",
     "context": "When a user elects to search by photo from the search query bar, a dialog box appears with this as the title."
   },
   "dragAndDrop": {
-    "message": "Drag and drop",
+    "message": "खींचें और छोड़ें",
     "context": "A user may drag and drop a file to search by image. This message shows the user where to drag and drop the file ~ the target."
   }
 }
