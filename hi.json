@@ -716,7 +716,7 @@
     "context": "The text label for buddty identification number entry of an animal."
   },
   "reportChoiceNameUnknownP": {
-    "message": ""यदि नाम के बारे में अनिश्चित, कृपया अज्ञात का चयन करें",
+    "message": "If unsure of the name, please select unknown.",
     "context": "This is the section title displayed for the use to choose name unknown."
   },
   "reportChoiceNameUnknownA": {
@@ -776,7 +776,7 @@
     "context": "This is the section header above the map used to specify a last known location."
   },
   "reportChoiceMapA": {
-    "message": ""आप अधिक से दूसरों के इस पशु का पता लगाने में सहायता करने के लिए एक मानचित्र बिंदु निर्दिष्ट कर सकते हैं।",
+    "message": "You may optionally specify a map point to assist others in locating this animal.",
     "context": "This is the section header above the map used to specify a last known location."
   },
   "reportChoiceMapHelp": {
@@ -804,7 +804,7 @@
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the person."
   },
   "reportChoiceInformationHelpA": {
-    "message": ""दूसरों की इस पशु का पहचान या पता लगाने में सहायता करने के लिए आप अधिकतर सम्बाद प्रदान कर सकते हैं ।",
+    "message": "You may optionally provide any additional information that you feel would assist others in identifying or locating this animal.",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the animal."
   },
   "reportBeingSubmittedToast": {
@@ -820,8 +820,8 @@
     "context": "If the user is not signed in, we will prompt them to sign in so that they can receive updates to their reported record."
   },
   "explainSignInA": {
-    "message": ""आप जब इस पशु के बारे में अधिक सम्बाद मिलने से सूचित होना चाहते हैं, तो कृपया रिपोर्ट भेजने से पहले साइन इन करें।",
-    "context": "If the user is not signed in, we will prompt them to sign in so that they can receive updates to their reported record."
+    "message": "If you would like to be notified when additional information about this animal becomes available, please sign in before submitting the report.",
+    "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSubmitP": {
     "message": "आप जब इस व्यक्ति के बारे में अधिक सम्बाद मिलने से सूचित होना चाहते हैं, तो अब रिपोर्ट प्रस्तुत करने के लिए चुनें।",
@@ -964,7 +964,7 @@
     "context": "This button label is to select a report abuse claim of type something else."
   },
   "abuseThanks": {
-    "message": "धन्यवाद। हमें आपका दुर्व्यवहार के दावे प्राप्त हुआ है। हमारी साइट स्टाफ इस रिकॉर्ड की समीक्षा करें और किसी भी अनुचित सामग्री दूर करें। 
+    "message": "Thanks. We have received your abuse claim. Our site staff will review this record and remove any inappropriate content.",
     "context": ""
   },
   "deleteRecord": {
@@ -972,7 +972,7 @@
     "context": "This is used as a button label and dialog header allowing a user to delete a record from the system."
   },
   "deleteRecordConfirm": {
-    "message": "क्या आप इस रिकॉर्ड को ज़रूर हटाना चाहते हैं? एक बार इसे हटा दिया गया है तो आपका रिकॉर्ड डेटा को पुनर्प्राप्त करने के कोई रास्ता नहीं।"
+    "message": "Are you sure you want to delete this record? There is no way to recover your record data once it has been deleted.",
     "context": "This is the question prompting a user when they choose to delete a record. We confirm they are certain with their decision."
   },
   "deleteRecordCancel": {
