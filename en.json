@@ -172,7 +172,7 @@
     "context": "This is the text label on the forgot my password dialog to submit the form."
   },
   "pad1loginForgot": {
-    "message": "Forgot username or password?",
+    "message": "Forgot password?",
     "context": "This is the text label for the forgot my password button on the login dialog."
   },
   "pad1loginUsernamePlaceholder": {
