@@ -510,7 +510,7 @@
   "addComment": {
     "message": "Add a comment",
     "context": "The label for a button allowing a user to add a comment to a record."
-  }, 
+  },
   "addCommentLabel": {
     "message": "Add any additional information you may have about this record",
     "context": "This is the label below the add comment button explaining to a user what it does."

@@ -508,7 +508,7 @@
     "context": "Comments that others may add to a person or animal record."
   },
   "addComment": {
-    "message": एक टिप्पणी जोड़ें",
+    "message": "Add a comment",
     "context": "The label for a button allowing a user to add a comment to a record."
   }, 
   "addCommentLabel": {
