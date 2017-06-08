@@ -72,7 +72,7 @@
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "restError3": {
-    "message": "त्रुटि: जब तक आपके ई-मेल पते की पुष्टि की है, आप साइन इन नहीं कर सकते। कृपया लिंक के लिए ई-मेल जाँच करें।",
+    "message": "त्रुटि: जब तक आपके ई-मेल पते की साबित नहीं हुआ, आप साइन इन नहीं कर सकते। कृपया लिंक के लिए ई-मेल जाँच करें।",
     "context": "Error message presented when a user account is not yet active."
   },
   "restError2000": {
@@ -168,7 +168,7 @@
     "context": "This text informs the user of what they must do in order to reset their password ~ they must enter their email address."
   },
   "pad1forgotSend": {
-    "message": "भेजना",
+    "message": "भेजें",
     "context": "This is the text label on the forgot my password dialog to submit the form."
   },
   "pad1loginForgot": {
@@ -700,7 +700,7 @@
     "context": "This is the section title displayed for a user to enter the name of the person they are reporting."
   },
   "reportChoiceNameA": {
-    "message": "जिस पशुकी आप रिपोर्ट कर रहे हैं, कृपया इसकी नाम और / या साथी पहचान संख्या दाखिल करे ",
+    "message": "जिस पशुकी आप रिपोर्ट कर रहे हैं, कृपया इसकी नाम और / या साथी पहचान संख्या दाखिल करे",
     "context": "This is the section title displayed for a user to enter the name and/or the buddy identification number of the animal they are reporting."
   },
   "explainNameP": {
@@ -716,11 +716,11 @@
     "context": "The text label for buddty identification number entry of an animal."
   },
   "reportChoiceNameUnknownP": {
-    "message": "यदि नाम के बारे में अनिश्चित, कृपया अज्ञात का चयन करें.",
+    "message": "यदि नाम के बारे में अनिश्चित, कृपया अज्ञात का चुनें",
     "context": "This is the section title displayed for the use to choose name unknown."
   },
   "reportChoiceNameUnknownA": {
-    "message": "यदि नाम और साथी पहचान संख्या के बारे में अनिश्चित, कृपया अज्ञात का चयन करें",
+    "message": "यदि नाम और साथी पहचान संख्या के बारे में अनिश्चित, कृपया अज्ञात का चुनें",
     "context": "This is the sextion title displayed when the user does not know name and buddy identification number."
   },
   "explainNameUnknownP": {
@@ -732,15 +732,15 @@
     "context": "The label next to the animal name selection button for unknown."
   },
   "cameraError": {
-    "message": "आपके वेब ब्राउज़र कोई कैमरा का पता नहीं लगा सका | इसके बजाय आप अपने कैमरा एप्लिकेशन का उपयोग कर सकते हैं",
+    "message": "आपके वेब ब्राउज़र कोई कैमरा का पता नहीं लगा सका | इसके बजाय आप अपने कैमरा एप्लिकेशन का उपयोग कर सकते हैं|",
     "context": "This toast notification is displayed when there is an error detecting the camera on the user device."
   },
   "browserLimitation": {
-    "message": "आपके वेब ब्राउज़र इस विशेषता का उपयोग नहीं करता है |",
+    "message": "आपके वेब ब्राउज़र इस विशेषता का उपयोग नहीं करता है|",
     "context": "This toast notification is displayed when a user attempts to use a feature that their web browser does not support."
   },
   "photoOnly": {
-    "message": "JPEG, PNG, and TIFF image files only.",
+    "message": "केवल JPEG, PNG, और TIFF छवि की फ़ाइलें",
     "context": "This toast notification is displayed when a user attempts to use an unsupported image file format in search by photo or report."
   },
   "reportChoicePhotoP": {
@@ -776,7 +776,7 @@
     "context": "This is the section header above the map used to specify a last known location."
   },
   "reportChoiceMapA": {
-    "message": "आप अधिक से दूसरों के इस पशु का पता लगाने में सहायता करने के लिए एक मानचित्र बिंदु निर्दिष्ट कर सकते हैं।.",
+    "message": "आप अधिक से दूसरों के इस पशु का पता लगाने में सहायता करने के लिए एक मानचित्र बिंदु निर्दिष्ट कर सकते हैं।",
     "context": "This is the section header above the map used to specify a last known location."
   },
   "reportChoiceMapHelp": {
@@ -800,11 +800,11 @@
     "context": "This is the section title for allowing the user to enter free text information about the person/animal."
   },
   "reportChoiceInformationHelpP": {
-    "message": "दूसरों की इस व्यक्ति का पहचान या पता लगाने में सहायता करने के लिए आप अधिकतर सम्बाद प्रदान कर सकते हैं ।.",
+    "message": "दूसरों की इस व्यक्ति का पहचान या पता लगाने में सहायता करने के लिए आप अधिक सम्बाद प्रदान कर सकते हैं।",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the person."
   },
   "reportChoiceInformationHelpA": {
-    "message": "दूसरों की इस पशु का पहचान या पता लगाने में सहायता करने के लिए आप अधिकतर सम्बाद प्रदान कर सकते हैं ।.",
+    "message": "दूसरों की इस पशु का पहचान या पता लगाने में सहायता करने के लिए आप अधिक सम्बाद प्रदान कर सकते हैं।",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the animal."
   },
   "reportBeingSubmittedToast": {
@@ -820,7 +820,7 @@
     "context": "If the user is not signed in, we will prompt them to sign in so that they can receive updates to their reported record."
   },
   "explainSignInA": {
-    "message": "आप जब इस व्यक्ति के बारे में अधिक सम्बाद मिलने से सूचित होना चाहते हैं, तो कृपया रिपोर्ट भेजने से पहले साइन इन करें।.",
+    "message": "आप जब इस व्यक्ति के बारे में अधिक सम्बाद मिलने से सूचित होना चाहते हैं, तो कृपया रिपोर्ट भेजने से पहले साइन इन करें।",
     "context": "If the user is not signed in, we will prompt them to sign in so that they can recieve updates to their reported record."
   },
   "explainSubmitP": {
@@ -924,7 +924,7 @@
     "context": "This section text is displayed on the paper action dialog when a user clicks the share event button."
   },
   "eurl2": {
-    "message":"इस घटना URL की प्रतिलिपि अपने क्लिपबोर्ड पर बनाएँ करने के लिए यह बटन दबाएँ, क्यूँ की तब उसे बुकमार्क या शेयर कर सकें।",
+    "message": "इस घटना URL की प्रतिलिपि अपने क्लिपबोर्ड पर बनाएँ करने के लिए यह बटन दबाएँ, क्यूँ की तब उसे बुकमार्क या शेयर कर सकें।",
     "context": "This text is displayed below the -copy to clipboard- button on the share event paper action dialog."
   },
   "page404": {
@@ -964,7 +964,7 @@
     "context": "This button label is to select a report abuse claim of type something else."
   },
   "abuseThanks": {
-    "message": "धन्यवाद। हमें आपका दुर्व्यवहार के दावे प्राप्त हुआ है। हमारी साइट स्टाफ इस रिकॉर्ड की समीक्षा करें और किसी भी अनुचित सामग्री दूर करें।.",
+    "message": "धन्यवाद। हमें आपका दुर्व्यवहार के दावे प्राप्त हुआ है। हमारी साइट स्टाफ इस रिकॉर्ड की समीक्षा करें और किसी भी अनुचित सामग्री दूर करें।",
     "context": ""
   },
   "deleteRecord": {
@@ -972,7 +972,7 @@
     "context": "This is used as a button label and dialog header allowing a user to delete a record from the system."
   },
   "deleteRecordConfirm": {
-    "message": "क्या आप इस रिकॉर्ड को ज़रूर हटाना चाहते हैं? एक बार इसे हटा दिया गया है तो आपका रिकॉर्ड डेटा को पुनर्प्राप्त करने के कोई रास्ता नहीं।.",
+    "message": "क्या आप इस रिकॉर्ड को ज़रूर हटाना चाहते हैं? एक बार इसे हटा दिया गया है तो आपका रिकॉर्ड डेटा को पुनर्प्राप्त करने के कोई रास्ता नहीं।",
     "context": "This is the question prompting a user when they choose to delete a record. We confirm they are certain with their decision."
   },
   "deleteRecordCancel": {
