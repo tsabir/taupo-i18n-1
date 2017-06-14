@@ -440,7 +440,7 @@
     "context": "The tagline is the summary of what the application is for."
   },
   "pageTitle": {
-    "message": "Find and report missing people or animals during disasters",
+    "message": "發現和報告在災難中失蹤的人或動物",
     "context": "This is the page title which is very similar in nature to the tagline."
   },
   "eventRetired": {
@@ -740,7 +740,7 @@
     "context": "This toast notification is displayed when a user attempts to use a feature that their web browser does not support."
   },
   "photoOnly": {
-    "message": "JPEG, PNG, and TIFF image files only.",
+    "message": "請用JPEG，PNG和TIFF圖像文件。",
     "context": "This toast notification is displayed when a user attempts to use an unsupported image file format in search by photo or report."
   },
   "reportChoicePhotoP": {
