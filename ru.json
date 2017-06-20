@@ -8,27 +8,27 @@
     "context": "This word describes this language itself."
   },
   "signIn": {
-    "message": "Sign In",
+    "message": "Войти",
     "context": "A button that when clicked allows a user to login or register."
   },
   "logout": {
-    "message": "Logout",
+    "message": "Выйти",
     "context": "A label for a button allowing a user to logout."
   },
   "administration": {
-    "message": "Administration",
+    "message": "Управление",
     "context": "A label for a button allowing a user to access the Administraion module."
   },
   "linkHelp": {
-    "message": "Help",
+    "message": "Помощь",
     "context": "This is the text for a link to the Help page."
   },
   "linkAbout": {
-    "message": "About",
+    "message": "О сайте",
     "context": "The link text for the About link."
   },
   "linkPrivacy": {
-    "message": "Privacy",
+    "message": "Конфиденциальность",
     "context": "The link text for the Privacy link."
   },
   "linkAccessibility": {
@@ -36,39 +36,39 @@
     "context": "The link text for the Accessibility link."
   },
   "linkContact": {
-    "message": "Contact",
+    "message": "Контакты",
     "context": "The link text for the Contact link."
   },
   "linkApps": {
-    "message": "Apps",
+    "message": "Приложения",
     "context": "The link text for the Apps link."
   },
   "linkResources": {
-    "message": "Resources",
+    "message": "Ресурсы",
     "context": "The link text for the Resources link."
   },
   "linkFollowUs": {
-    "message": "Follow Us",
+    "message": "Подписаться",
     "context": "The link text for the Follow Us link."
   },
   "linkTrademark": {
-    "message": "Trademark",
+    "message": "Товарный знак",
     "context": "The link text for the Trademark link."
   },
   "textTrademark": {
-    "message": "PEOPLE LOCATOR, ReUnite, and TriagePic are registered trademarks of the U.S. Department of Health and Human Services.",
+    "message": "PEOPLE LOCATOR, ReUnite, и TriagePic являются зарегистрированными товарными знаками Департамента Здоровья и Социальных Служб Соединённых Штатов (U.S. Department of Health and Human Services).",
     "context": "Verbiage describing the three registered trademarks we hold on People Locator."
   },
   "expirationDate": {
-    "message": "EXPIRATION DATE",
+    "message": "Уведомление действительно до:",
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
   "restError1": {
-    "message": "Error: invalid username or password",
+    "message": "Ошибка: неверное имя пользователя или пароль",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "restError2": {
-    "message": "Error: your account is temporarily locked for repeatedly failing to login, try again later",
+    "message": "Ошибка: Ваша учётная запись временно заблокирована из-за нескольких неудачных попыток входа, повторите попытку позже",
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "restError3": {
