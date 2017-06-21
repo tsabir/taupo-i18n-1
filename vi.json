@@ -4,7 +4,7 @@
     "context": "This word describes this language itself IN ENGLISH! DO NOT TRANSLATE THIS!! This phrase must remain in English."
   },
   "thisLanguage": {
-    "message": "Tiếng V",
+    "message": "Tiếng Việt",
     "context": "This word describes this language itself."
   },
   "signIn": {
@@ -72,7 +72,7 @@
     "context": "Error message presented when a user fails to login repeatedly." 
   },
   "restError3": {
-    "message": "Error: cannot sign in until your email address is confirmed, please check email for the link",
+    "message": "Lỗi: không thể đăng nhập cho đến khi địa chỉ email của bạn được xác nhận, hãy kiểm tra email để nhận trang liên kết",
     "context": "Error message presented when a user account is not yet active."
   },
   "restError2000": {
@@ -172,7 +172,7 @@
     "context": "This is the text label on the forgot my password dialog to submit the form."
   },
   "pad1loginForgot": {
-    "message": "Forgot password?",
+    "message": "Quên mật khẩu?",
     "context": "This is the text label for the forgot my password button on the login dialog."
   },
   "pad1loginUsernamePlaceholder": {
@@ -440,7 +440,7 @@
     "context": "The tagline is the summary of what the application is for."
   },
   "pageTitle": {
-    "message": "Find and report missing people or animals during disasters",
+    "message": "Tìm và báo cáo người hoặc động vật bị mất trong thiên tai",
     "context": "This is the page title which is very similar in nature to the tagline."
   },
   "eventRetired": {
@@ -740,7 +740,7 @@
     "context": "This toast notification is displayed when a user attempts to use a feature that their web browser does not support."
   },
   "photoOnly": {
-    "message": "JPEG, PNG, and TIFF image files only.",
+    "message": "Chỉ chấp nhận JPG, PNG và TIFF.",
     "context": "This toast notification is displayed when a user attempts to use an unsupported image file format in search by photo or report."
   },
   "reportChoicePhotoP": {
@@ -756,7 +756,7 @@
     "context": "This is the button label used to capture a photograph using the device camera."
   },
   "reportChoicePhotoSelectFile": {
-    "message": "Select File",
+    "message": "Chọn tập tin",
     "context": "This is the button label used to select an image file from local device storage."
   },
   "reportChoicePhotoTake": {
