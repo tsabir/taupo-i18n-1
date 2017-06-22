@@ -8,15 +8,15 @@
     "context": "This word describes this language itself."
   },
   "signIn": {
-    "message": "Войти",
+    "message": "Sign In",
     "context": "A button that when clicked allows a user to login or register."
   },
   "logout": {
-    "message": "Выйти",
+    "message": "Выход",
     "context": "A label for a button allowing a user to logout."
   },
   "administration": {
-    "message": "Управление",
+    "message": "Aдминистрация",
     "context": "A label for a button allowing a user to access the Administraion module."
   },
   "linkHelp": {
@@ -24,7 +24,7 @@
     "context": "This is the text for a link to the Help page."
   },
   "linkAbout": {
-    "message": "О сайте",
+    "message": "Описание",
     "context": "The link text for the About link."
   },
   "linkPrivacy": {
@@ -32,15 +32,15 @@
     "context": "The link text for the Privacy link."
   },
   "linkAccessibility": {
-    "message": "Accessibility",
+    "message": "Доступность",
     "context": "The link text for the Accessibility link."
   },
   "linkContact": {
-    "message": "Контакты",
+    "message": "Контакт",
     "context": "The link text for the Contact link."
   },
   "linkApps": {
-    "message": "Приложения",
+    "message": "Программы",
     "context": "The link text for the Apps link."
   },
   "linkResources": {
@@ -48,7 +48,7 @@
     "context": "The link text for the Resources link."
   },
   "linkFollowUs": {
-    "message": "Подписаться",
+    "message": "Подписывайтесь на нас",
     "context": "The link text for the Follow Us link."
   },
   "linkTrademark": {
@@ -56,147 +56,147 @@
     "context": "The link text for the Trademark link."
   },
   "textTrademark": {
-    "message": "PEOPLE LOCATOR, ReUnite, и TriagePic являются зарегистрированными товарными знаками Департамента Здоровья и Социальных Служб Соединённых Штатов (U.S. Department of Health and Human Services).",
+    "message": "PEOPLE LOCATOR, ReUnite, and TriagePic являются зарегистрированными товарными знаками Министерства здравоохранения и социальных служб США",
     "context": "Verbiage describing the three registered trademarks we hold on People Locator."
   },
   "expirationDate": {
-    "message": "Уведомление действительно до:",
+    "message": "ДАТА ОКОНЧАНИЯ",
     "context": "Verbiage describing the expiration date of the OMB notice."
   },
   "restError1": {
-    "message": "Ошибка: неверное имя пользователя или пароль",
+    "message": "Ошибка: не правильное имя пользователя или пароль",
     "context": "Error message presented when a user provides the incorrect username and/or password."
   },
   "restError2": {
-    "message": "Ошибка: Ваша учётная запись временно заблокирована из-за нескольких неудачных попыток входа, повторите попытку позже",
+    "message": "Ошибка: ваша учётная запись временно заблокирована из-за повторного ввода не правильного пароля, повторите попытку позже",
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "restError3": {
-    "message": "Error: cannot sign in until your email address is confirmed, please check email for the link",
+    "message": "Ошибка: нельзя войти, пока ваш адрес электронной почты не будет подтверждён, проверьте адрес электронной почты для ссылки",
     "context": "Error message presented when a user account is not yet active."
   },
   "restError2000": {
-    "message": "Error: a user already exists with the provided email address",
+    "message": "Ошибка: пользователь с данным адресом электронной почты уже существует",
     "context": "Error message presented when user tries to use an email address already in use."
   },
   "restError2001": {
-    "message": "Error: invalid email address",
+    "message": "Ошибка: неверный адрес электронной почты",
     "context": "Error message presented when a user provides an invalid email address."
   },
   "restError2002": {
-    "message": "Error: password must be 8-16 characters in length, and must have at least one uppercase, one lowercase, and one numeric character",
+    "message": "Ошибка: пароль должен иметь длину 8-16 символов и должен иметь как минимум один прописной, один строчный и один цифровой символ",
     "context": "Error message presented when user enters an invalid password."
   },
   "restError2003": {
-    "message": "Error: incorrect human validation test result, please reload the page",
+    "message": "Ошибка: неверный результат проверки достоверности человека, пожалуйста перезагрузите страницу",
     "context": "Error message presented when the captcha system encounters invalid data."
   },
   "restError2004": {
-    "message": "Error: passwords do not match",
+    "message": "Ошибка: пароли не совпадают",
     "context": "Error message presented when entered password do not match one another."
   },
   "passError0": {
-    "message": "Error: password must be 8-16 characters long",
+    "message": "Ошибка: пароль должен быть длиной 8-16 символов",
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
   "passError1": {
-    "message": "Error: password must contain at least one uppercase letter (A-Z)",
+    "message": "Ошибка: пароль должен содержать хотя бы одну прописную букву (A-Z)",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
   "passError2": {
-    "message": "Error: password must contain at least one lowercase letter (a-z)",
+    "message": "Ошибка: пароль должен содержать хотя бы одну строчную букву (a-z)",
     "context": "Error message presented when entered password does not contain at least one lowercase letter."
   },
   "passError3": {
-    "message": "Error: password must contain at least one number (0-9)",
+    "message": "Ошибка: пароль должен содержать хотя бы одну цифру (0-9)",
     "context": "Error message presented when entered password does not contain at least one digit."
   },
   "restError5000": {
-    "message": "Network error. Please check your connection and try again.",
+    "message": "Ошибка сети. Проверьте подключение и повторите попытку.",
     "context": "Error message presented when there is a network / internet issue."
   },
   "restError9999": {
-    "message": "An error has occurred, please try again later.",
+    "message": "Произошла ошибка, пожалуйста попробуйте ещё раз чуть позже.",
     "context": "Error message presented when an unknown error has occurred."
   },
   "errorGettingSubscription": {
-    "message": "Error getting subscription information. Please reload the page.",
+    "message": "Ошибка при получении информации о подписке. Пожалуйста перезагрузите страницу.",
     "context": "This error will be displayed when an error is encountered while loading the user subscription information."
   },
   "errorUnsubscribing": {
-    "message": "There was an error while unsubscribing.",
+    "message": "При отмене подписки произошла ошибка.",
     "context": "This error will be displayed when an error is encountered while the user is attempting to unsubscribe from notifications."
   },
   "notifyLogin": {
-    "message": "Logged in.",
+    "message": "Вход произведён.",
     "context": "This notification will appear after the user successfully logs in."
   },
   "notifyRegister": {
-    "message": "You are now registered and logged in.",
+    "message": "Вы успешно зарегистрировались и вошли в систему.",
     "context": "This notification will appear after the user newly registers and is automatically logged in."
   },
   "notifyRegistering": {
-    "message": "Registering ...",
+    "message": "Регистрация ...",
     "context": "This notification will appear briefly as the system registers and creates a new account for the user."
   },
   "notifyPasswordChanged": {
-    "message": "Password successfully changed.",
+    "message": "Пароль успешно изменен.",
     "context": "This notification will appear after the user successfully changes their password."
   },
   "notifyUnsubscribed": {
-    "message": "You are no longer subscribed to receive notifications.",
+    "message": "Вы больше не подписаны на получение уведомлений",
     "context": "This notification will appear after the user unsubscribed from recieving notifications."
   },
   "notifySubscribed": {
-    "message": "You are now subscribed to receive notifications.",
+    "message": "Вы подписаны на получение уведомлений.",
     "context": "This notification will appear after the user subscribes to recieving notifications."
   },
   "notifyResetPassword": {
-    "message": "You have been emailed instructions how to reset your password.",
+    "message": "Инструкции о восстановлении пароля были отправлены вам по электронной почте.",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
   },
   "pad1login": {
-    "message": "Login",
+    "message": "Вход",
     "context": "This is the name of the first tab of the user dialog allowing a user to login."
   },
   "pad1register": {
-    "message": "Register",
+    "message": "Регистрация",
     "context": "This is the name of the second tab of the user dialog allowing a user to register."
   },
   "pad1forgotText": {
-    "message": "Enter your email address and we will send you instructions how to reset your password.",
+    "message": "Введите свой адрес электронной почты, и мы отправим вам инструкции по восстановлении пароля.",
     "context": "This text informs the user of what they must do in order to reset their password ~ they must enter their email address."
   },
   "pad1forgotSend": {
-    "message": "Send",
+    "message": "Отправить",
     "context": "This is the text label on the forgot my password dialog to submit the form."
   },
   "pad1loginForgot": {
-    "message": "Forgot password?",
+    "message": "Забыли пароль?",
     "context": "This is the text label for the forgot my password button on the login dialog."
   },
   "pad1loginUsernamePlaceholder": {
-    "message": "Username",
+    "message": "Имя пользователя",
     "context": "This is the placeholder text for the username input."
   },
   "pad1loginPasswordPlaceholder": {
-    "message": "Password",
+    "message": "Пароль",
     "context": "This is the placeholder text for the password input."
   },
   "pad1registerEmailPlaceholder": {
-    "message": "Email",
+    "message": "Электронная почта",
     "context": "This is the placeholder text for the email input."
   },
   "pad1registerText": {
-    "message": "Your password must contain a number, a lowercase letter, an uppercase letter, and be 8-16 characters long.",
+    "message": "Ваш пароль должен иметь длину 8-16 символов и должен иметь как минимум один прописной, один строчный и один цифровой символ.",
     "context": "This is the text displayed while the user is in the process of registering informing them of our minimum password requirements."
   },
   "omb7notice": {
-    "message": "Notice",
+    "message": "Уведомление",
     "context": "This is the first word of the OMB notice."
   },
   "omb7submission": {
-    "message": "Submission of information is voluntary. All submitted information will be made publicly available.",
+    "message": "Представление информации является добровольным. Вся представленная информация будет общедоступной.",
     "context": "These are the first two sentences of the OMB notice."
   },
   "omb7text": {
