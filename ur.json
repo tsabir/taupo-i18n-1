@@ -72,7 +72,7 @@
     "context": "Error message presented when a user fails to login repeatedly."
   },
   "restError3": {
-    "message": "Error: cannot sign in until your email address is confirmed, please check email for the link",
+    "message": "خرابی: جب تک آپ کا ای میل ایڈریس کی تصدیق نہیں کی جاتی ہے اس میں سائن ان نہیں کر سکتے ہیں، براہ کرم لنک کے لئے ای میل چیک کریں",
     "context": "Error message presented when a user account is not yet active."
   },
   "restError2000": {
@@ -100,7 +100,7 @@
     "context": "Error message presented when entered password is of incorrect length, must be 8-16 characters long."
   },
   "passError1": {
-    "message": "نقص: پاس ورڈ میں لازمی طور پر ایک اَپر کیس حرف (A-Z) ہو",
+    "message": "نقص: پاس ورڈ میں لازمی طور پر ایک اَپر کیس حرف (الف-Z) ہو",
     "context": "Error message presented when entered password does not contain at least one uppercase letter."
   },
   "passError2": {
@@ -152,7 +152,7 @@
     "context": "This notification will appear after the user subscribes to recieving notifications."
   },
   "notifyResetPassword": {
-    "message": "You have been emailed instructions how to reset your password.",
+    "message": "آپ کو اپنا پاس ورڈ دوبارہ ترتیب دینے کے لئے ہدایات ای میل کردی گئی ہے.",
     "context": "This notification appears when a user has successfully sent a request to reset their password."
   },
   "pad1login": {
@@ -172,7 +172,7 @@
     "context": "This is the text label on the forgot my password dialog to submit the form."
   },
   "pad1loginForgot": {
-    "message": "Forgot password?",
+    "message": "پاسورڈ بھول گے؟",
     "context": "This is the text label for the forgot my password button on the login dialog."
   },
   "pad1loginUsernamePlaceholder": {
@@ -276,7 +276,7 @@
     "context": "This is the title of the help page section on how to find/search."
   },
   "helpFindText": {
-    "message": "If you are in search of a missing person or animal, you may attempt to locate them by searching one of our disaster events. When you first arrive at PEOPLE LOCATOR, you are presented with a list of available disaster events. Each event has a name, a descriptive image related to the event, and some text describing the situation. If you scroll down, you will see there are a few different events from which you may select. Choose the event which you believe the person or animal you are trying to locate would most likely be associated with. For example, if there was an event named Haiti Earthquake and the person you are seeking was last seen in Haiti, you would choose this event. You would select an event by tapping on the large green button under the image; this will take you directly to the search engine for this particular disaster event. A new search box will appear at the top after you have made your selection. Enter the name of the person you are attempting to locate in this search box. The search results update automatically with the most relevant results on near the top. You may acquire more information about by tapping on the details link near the bottom of any partuclar record, this opens a detail view. On this detail view, you may view more detailed record information, add a comment of your own, or begin following a record for updates.",
+    "message": "اگر آپ کسی گمشدہ شخص یا جانور کی تلاش میں ہیں تو، آپ اپنے آفتوں کے واقعات میں سے ایک تلاش کرکے انہیں تلاش کرنے کی کوشش کر سکتے ہیں. جب آپ سب سے پہلے PEOPLE LOCATOR پر پہنچتے ہیں تو، آپ کو دستیاب آفت کے واقعات کی ایک فہرست کے ساتھ پیش کیا جاتا ہے. ہر ایونٹ میں ایک نام، واقعہ سے متعلق بیاناتی تصویر، اور بعض متن کی صورت حال بیان کی گئی ہے. اگر آپ نیچے سکرال کریں گے، تو آپ دیکھیں گے کہ آپ مختلف منتخب ہونے والے واقعات ہیں جن سے آپ منتخب کرسکتے ہیں. ایونٹ کو منتخب کریں جسے آپ اس بات کا یقین کرتے ہیں کہ آپ جو شخص یا جانور تلاش کرنے کی کوشش کررہے ہیں، زیادہ سے زیادہ امکان ہوسکتے ہیں. مثال کے طور پر، اگر ہیٹی زلزلے کا نام تھا اور جو شخص آپ چاہتے ہیں وہ ہیٹی میں آخری بار دیکھا گیا تھا، آپ اس ایونٹ کا انتخاب کریں گے. آپ تصویر کے تحت بڑی سبز بٹن پر ٹپ کرکے ایک ایونٹ منتخب کریں گے؛ یہ آپ کو اس خاص آفت کے واقعہ کے لئے سرچ انجن میں براہ راست لے جائے گا. آپ کے انتخاب کے بعد آپ کو نیا تلاش باکس سب سے اوپر پیش ہوگا. اس شخص کا نام درج کریں جسے آپ اس تلاش باکس میں تلاش کرنے کی کوشش کر رہے ہیں. تلاش کے نتائج خود کار طریقے سے سب سے زیادہ متعلقہ نتائج کے ساتھ خود کار طریقے سے اپ ڈیٹ کرتے ہیں. کسی بھی جزوی ریکارڈ کے نچلے حصے کے قریب تفصیلات لنک پر ٹپ کرکے آپ کے بارے میں مزید معلومات حاصل کر سکتے ہیں، یہ تفصیل کا نظارہ کھولتا ہے. اس تفصیل کے نقطہ نظر پر، آپ مزید تفصیلی ریکارڈ معلومات دیکھ سکتے ہیں، اپنے آپ کو ایک تبصرہ شامل کر سکتے ہیں، یا اپ ڈیٹس کے لۓ ایک ریکارڈ درج کریں.",
     "context": "This is the help page article body describing in detail how to find/search for a person or animal."
   },
   "helpReportTitle": {
@@ -344,7 +344,7 @@
     "context": "The title for a subsection on the Privacy page with links to more topics."
   },
   "the": {
-    "message": "the",
+    "message": "یہ",
     "context": "The word the."
   },
   "backButton": {
@@ -740,7 +740,7 @@
     "context": "This toast notification is displayed when a user attempts to use a feature that their web browser does not support."
   },
   "photoOnly": {
-    "message": "JPEG, PNG, and TIFF image files only.",
+    "message": "صرف JPEG، PNG، اور TIFF تصویر کی فائلیں.",
     "context": "This toast notification is displayed when a user attempts to use an unsupported image file format in search by photo or report."
   },
   "reportChoicePhotoP": {
@@ -840,7 +840,7 @@
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
-    "message": "Report Complete and Submitted, Thank you.",
+    "message": "رپورٹ مکمل اور جمع، شکریہ",
     "context": "This is the section title on the final page of the reporting wizard. The report has been completed."
   },
   "explainCopy1": {
