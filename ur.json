@@ -936,79 +936,79 @@
     "context": "This is the page title for the OMB Notice."
   },
   "abuseReportAbuse": {
-    "message": "Report Abuse",
+    "message": "اطلاع دیں",
     "context": "This is used as a sectional header and the label of the report abuse button."
   },
   "abuseWhatReport": {
-    "message": "What would you like to report?",
+    "message": "آپ کیا رپورٹ کرنا چاہتے ہیں؟",
     "context": "This is the query presented to a user when asked to be more specific about the type of abuse report the user is filing."
   },
   "abuseReportSpam": {
-    "message": "Spam",
+    "message": "اسپام",
     "context": "This is the button label to select a report abuse claim of type spam."
   },
   "abuseReportSex": {
-    "message": "Sexually Explicit",
+    "message": "جنسی طور پر واضح",
     "context": "This is the button label to select a report abuse claim of type sexually explicit."
   },
   "abuseReportHate": {
-    "message": "Hate Speech",
+    "message": "نفرت انگیز تقریر",
     "context": "This is the button label to select a report abuse claim of type hate speech."
   },
   "abuseReportViolence": {
-    "message": "Violence",
+    "message": "تشدد",
     "context": "This is the button label to select a report abuse claim of type violence"
   },
   "abuseReportElse": {
-    "message": "Something Else",
+    "message": "اس کے علاوہ کچھ اور",
     "context": "This button label is to select a report abuse claim of type something else."
   },
   "abuseThanks": {
-    "message": "Thanks. We have received your abuse claim. Our site staff will review this record and remove any inappropriate content.",
+    "message": "شکریہ. ہمیں آپ کا غلط استعمال کا دعوی مل گیا ہے. ہمارے سائٹ کا عملہ اس ریکارڈ کا جائزہ لیں گے اور کسی بھی غیر مناسب مواد کو ہٹا دیں گے",
     "context": ""
   },
   "deleteRecord": {
-    "message": "Delete Record",
+    "message": "ریکارڈ حذف کریں",
     "context": "This is used as a button label and dialog header allowing a user to delete a record from the system."
   },
   "deleteRecordConfirm": {
-    "message": "Are you sure you want to delete this record? There is no way to recover your record data once it has been deleted.",
+    "message": "کیا آپ واقعی یہ ریکارڈ حذف کرنا چاہتے ہیں؟ اس وقت حذف ہونے کے بعد آپ کے ریکارڈ کا ڈیٹا بحال کرنے کا کوئی طریقہ نہیں ہے..",
     "context": "This is the question prompting a user when they choose to delete a record. We confirm they are certain with their decision."
   },
   "deleteRecordCancel": {
-    "message": "Cancel",
+    "message": "منسوخ کریں",
     "context": "Button label to cancel the action of deleting a record."
   },
   "deleteRecordDelete": {
-    "message": "Delete",
+    "message": "حذف کریں",
     "context": "Button label to confirm the deletion of a record."
   },
   "deleteRecordDone": {
-    "message": "Record Deleted",
+    "message": "ریکارڈ ختم ہوگیا",
     "context": "A toast notification displayed to inform the user the deletion of a record action has been completed."
   },
   "seconds": {
-    "message": "seconds",
+    "message": "سیکنڈ",
     "context": "This word means seconds of time."
   },
   "record": {
-    "message": "record",
+    "message": "ریکارڈ",
     "context": "When a search is performed this word is prefixed with the number of results, ie. 1 record -- special case when only 1 result"
   },
   "notifyLogout": {
-    "message": "Logged out.",
+    "message": "لاگ آؤٹ.",
     "context": "This notification will appear after the user successfully logs out."
   },
   "uploadingPhoto": {
-    "message": "Uploading Photo...",
+    "message": "تصویر اپ لوڈ کر رہا ہے...",
     "context": "This message is displayed after a user selects an image file to search by photo as the file is being uploaded."
   },
   "searchByPhoto": {
-    "message": "Search by Photo",
+    "message": "تصویر کی طرف سے تلاش کریں",
     "context": "When a user elects to search by photo from the search query bar, a dialog box appears with this as the title."
   },
   "dragAndDrop": {
-    "message": "Drag and drop",
+    "message": "ڈریگ اور ڈراپ",
     "context": "A user may drag and drop a file to search by image. This message shows the user where to drag and drop the file ~ the target."
   }
 }
