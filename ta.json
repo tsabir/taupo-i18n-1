@@ -543,10 +543,6 @@
     "message": "கடைசியாகப் பார்த்த இடம்",
     "context": "This is a label displayed below a text box showing a person or animal last known location."
   },
-  "lastKnownInformation": {
-    "message": "கடைசியாக அறியப்பட்ட தகவல்",
-    "context": "This is a label displayed below a text box showing a person or animal last known information in text form."
-  },
   "otherInformation": {
     "message": "பிற தகவல்",
     "context": "This is a label displayed below a text box showing other information about a person or animal."
@@ -785,7 +781,7 @@
   },
   "information": {
     "message": "தகவல்",
-    "context": "This a label for a tab in the reporting wizard where a user enters free text about Last Known Information."
+    "context": "This a label for a tab in the reporting wizard where a user enters free text about additional Information."
   },
   "submit": {
     "message": "சமர்ப்பி",
@@ -794,10 +790,6 @@
   "submitAnon": {
     "message": "அநாமதேயமாக சமர்ப்பிக்கவும்",
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report anonymously."
-  },
-  "reportChoiceInformation": {
-    "message": "கடைசியாக தெரிந்த தகவல்",
-    "context": "This is the section title for allowing the user to enter free text information about the person/animal."
   },
   "reportChoiceInformationHelpP": {
     "message": "இந்த நபரை அடையாளம் காணவோ அல்லது கண்டுபிடிப்பதில் மற்றவர்களுக்கு உதவுவதாக நீங்கள் நினைக்கும் எந்த கூடுதல் தகவலையும் விருப்பமாக வழங்கலாம்.",
@@ -837,6 +829,10 @@
   },
   "explainAnonA": {
     "message": "அநாமதேயமாக சமர்ப்பிக்கவும், இந்த மிருகத்தைப் பற்றிய கூடுதல் தகவல்கள் கிடைக்கும்போது உங்களுக்கு அறிவிக்கப்படமாட்டாது.",
+    "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
+  },
+  "explainAnon2": {
+    "message": "This record will expire after 90 days. Use the “Report Abuse” button in the MORE DETAILS view later on to request an earlier expiration.",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
@@ -1090,5 +1086,9 @@
   "shareRecord": {
     "message": "Share this record",
     "context": "This is a menu button action allowing a user to share a direct link to a record."
+  },
+  "additionalInformation": {
+    "message": "Additional Information",
+    "context": "This is a label displayed several places titled Additional Information."
   }
 }

@@ -543,10 +543,6 @@
     "message": "已知的最後位置",
     "context": "This is a label displayed below a text box showing a person or animal last known location."
   },
-  "lastKnownInformation": {
-    "message": "已知的最後信息",
-    "context": "This is a label displayed below a text box showing a person or animal last known information in text form."
-  },
   "otherInformation": {
     "message": "其他信息",
     "context": "This is a label displayed below a text box showing other information about a person or animal."
@@ -795,10 +791,6 @@
     "message": "匿名提交",
     "context": "This a label for a tab in the reporting wizard where a user finalizes and submits the report anonymously."
   },
-  "reportChoiceInformation": {
-    "message": "最新的信息",
-    "context": "This is the section title for allowing the user to enter free text information about the person/animal."
-  },
   "reportChoiceInformationHelpP": {
     "message": "您可以提供任何更多有用的信息，以便於他人辨認或尋找此人。",
     "context": "This is help text informing the user that the information they enter will assist in locating or identifying the person."
@@ -837,6 +829,10 @@
   },
   "explainAnonA": {
     "message": "如果您選擇匿名提交，以後，每當我們得到這個寵物的最新消息時，我們不會通知您。",
+    "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
+  },
+  "explainAnon2": {
+    "message": "This record will expire after 90 days. Use the “Report Abuse” button in the MORE DETAILS view later on to request an earlier expiration.",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
@@ -1090,5 +1086,9 @@
   "shareRecord": {
     "message": "Share this record",
     "context": "This is a menu button action allowing a user to share a direct link to a record."
+  },
+  "additionalInformation": {
+    "message": "Additional Information",
+    "context": "This is a label displayed several places titled Additional Information."
   }
 }
