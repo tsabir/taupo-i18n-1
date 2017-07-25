@@ -872,7 +872,7 @@
     "context": "This label is displayed below the follow user toggle button explaining what the button does."
   },
   "followButtonAnon": {
-    "message": "ایک ریکارڈ کی پیروی اور جب اسے اپ ڈیٹ کیا ہے اطلاعات کے recieve کرنے کے، آپ سب سے پہلے سائن ان کرنا ضروری",
+    "message": "جب صارف کسی سائن ان نہیں ہوتا تو پیروی شدہ ریکارڈ کے بٹن کو غیر فعال کردیا جاتا ہے. ہم ان کو مطلع کرتے ہیں کہ ایک ریکارڈ کی پیروی کرنے کے لئے انہیں سب سے پہلے سائن ان کرنا ہوگا",
     "context": "The follow record button is disabled when a user is not signed in, aka anonymous. We inform them that to follow a record they must first sign in."
   },
   "longerComment": {
