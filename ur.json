@@ -1035,7 +1035,6 @@
     "message": "You must visit the link below in order to complete the registration process:",
     "context": "We email new users after they register, this is the second line of said email providing them a link complete the registration process."
   },
-  "emailNewUserLine3": {
     "message": "Failure to visit the link will result in your account being deleted after 30 days.",
     "context": "We email new users after they register, this is the last line of said email warning the user about account deletion for failure to activate their account."
   },
