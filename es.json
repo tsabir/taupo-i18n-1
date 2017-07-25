@@ -316,7 +316,7 @@
     "context": "Beginning of the second paragraph on the Privacy page."
   },
   "pagePrivacyText2b": {
-    "message": "La página no está moderada,  otras organizaciones contribuyentes no están obligadas  a revisar ni a verificar la exactitud  de la información de esta página. Tenga en cuenta que los datos son recibidos directamente",
+    "message": "La página no es monitoreada,  otras organizaciones contribuyentes no están obligadas  a revisar ni a verificar la exactitud  de la información de esta página. Tenga en cuenta que los datos son recibidos directamente",
     "context": "Large portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText2c": {
@@ -1008,87 +1008,87 @@
     "context": "A user may drag and drop a file to search by image. This message shows the user where to drag and drop the file ~ the target."
   },
   "emailRecordRevisionSubject": {
-    "message": "A record you are following has been updated",
+    "message": "Uno de los registros que Ud. está siguiendo ha sido actualizado",
     "context": "We email users following a record when a revision is made or a comment is added, this is the subject of that email."
   },
   "emailRecordRevisionLine1": {
-    "message": "A comment has been added or a revision made to a record you are following.",
+    "message": "Uno de los registros que Ud. está siguiendo ha sido actualizado o se le ha agregado un comentario.",
     "context": "We email users following a record when a revision is made or a comment is added, this is the first line of that email."
   },
   "emailRecordRevisionLine2": {
-    "message": "You can review the record at this location:",
+    "message": "Puede ver este registro en esta ubicación:",
     "context": "We email users following a record when a revision is made or a comment is added, this line prefixes the direct record url."
   },
   "emailRecordRevisionLine3": {
-    "message": "If you want to unsubscribe from these email alerts, visit the link above and untoggle the Following button.",
+    "message": "Si quiere dejar de recibir alertas por correo electrónico vaya al enlace en la parte superior y quite la marca del botón de Siguiendo.",
     "context": "We email users following a record when a revision is made or a comment is added, at the end we inform the user of how to unsubscribe to these emails."
   },
   "emailNewUserSubject": {
-    "message": "Confirm your email address",
+    "message": "Confirme su correo electrónico",
     "context": "We email new users after they register, this is the subject line of said email."
   },
   "emailNewUserLine1": {
-    "message": "Thank you for registering.",
+    "message": "Gracias por registrarse.",
     "context": "We email new users after they register, this is the first line of said email thanking them for registering."
   },
   "emailNewUserLine2": {
-    "message": "You must visit the link below in order to complete the registration process:",
+    "message": "Debe ir al enlace debajo de esta linea para completar el proceso de registro:",
     "context": "We email new users after they register, this is the second line of said email providing them a link complete the registration process."
   },
   "emailNewUserLine3": {
-    "message": "Failure to visit the link will result in your account being deleted after 30 days.",
+    "message": "Si no va al enlace su cuenta sera borrada despues de 30 dias.",
     "context": "We email new users after they register, this is the last line of said email warning the user about account deletion for failure to activate their account."
   },
   "emailForgot1Subject": {
-    "message": "Password reset request",
+    "message": "Solicitud de nueva contraseña",
     "context": "We email a user when they initiate the forgot password sequence, this is the subject of that email."
   },
   "emailForgot1Line1": {
-    "message": "Someone has initiated a password reset request for your account.",
+    "message": "Hemos recibido una solicitud de nueva contraseña para su cuenta.",
     "context": "We email a user when they initiate the forgot password sequence, this is the first line of that email."
   },
   "emailForgot1Line2": {
-    "message": "If you did not initiate this request, it is safe to ignore this email and your password will not be changed.",
+    "message": "Si Ud. no solicitó una nueva contraseña simplemente ignore este mensaje. Su contraseña no sera cambiada",
     "context": "We email a user when they initiate the forgot password sequence, we inform the user it is safe to ignore this request if they did not initiate it."
   },
   "emailForgot1Line3": {
-    "message": "However, if you did initiate this request and would prefer to reset your password, you must visit the following link:",
+    "message": "Si Ud. solicito una nueva contraseña, vaya al siguiente enlace:",
     "context": "We email a user when they initiate the forgot password sequence, this line prefixes a url the user must click on to continue in the forgot password sequence."
   },
   "emailForgot1Line4": {
-    "message": "Once this link has been visited, a new password will be generated and sent to you in a second email.",
+    "message": "Una vez Ud. vaya al enlace, se creará una nueva contraseña y recibirá otro mensaje.",
     "context": "We email a user when they initiate the forgot password sequence, final line of this email informing a new password will be generated."
   },
   "emailForgot2Subject": {
-    "message": "New password",
+    "message": "Nueva Contraseña",
     "context": "This is the second email in the forgot password sequence, and this is the subject of that email."
   },
   "emailForgot2Line1": {
-    "message": "Your new password is:",
+    "message": "La nueva contraseña es:",
     "context": "This is the second email in the forgot password sequence, this line prefixes the new password we generated for the user."
   },
   "emailForgot2Line2": {
-    "message": "You may optionally change your password after signing in:",
+    "message": "Tiene la opcion de cambiar la contraseña despues de ingresar a su cuenta:",
     "context": "This is the second email in the forgot password sequence, lastly, we inform the user that they may change their password after logging in."
   },
   "welcomeTo": {
-    "message": "Welcome to",
+    "message": "Bienvenido a",
     "context": "The first time a user comes to PL, we welcome them like: Welcome to PEOPLE LOCATOR. However PEOPLE LOCATOR is not translated in this welcome message."
   },
   "chooseLanguage": {
-    "message": "Choose a language",
+    "message": "Escoja un Idioma",
     "context": "We prompt the user to select a language at first visit."
   },
   "zoomPhoto": {
-    "message": "Enlarge Photo",
+    "message": "Agrande la foto",
     "context": "This is s menu button action that shows a larger version of the image from a record."
   },
   "shareRecord": {
-    "message": "Share this record",
+    "message": "Comparta este registro",
     "context": "This is a menu button action allowing a user to share a direct link to a record."
   },
   "additionalInformation": {
-    "message": "Additional Information",
+    "message": "Información adicional",
     "context": "This is a label displayed several places titled Additional Information."
   }
 }
