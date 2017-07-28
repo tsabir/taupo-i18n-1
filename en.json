@@ -268,8 +268,8 @@
     "context": "This text tells the user that their current web browser does not support the push notification feature."
   },
   "pushNotificationsDisallowed": {
-    "message": "You prohibited this site from displaying notifications. You must re-enable this permission to use this feature.",
-    "context": "This text tells the user that they have prohibited the site from using push notifications and that they must re-enable this feature to subscribe."
+    "message": "You prohibited this application from displaying notifications. You must re-enable this permission to use this feature.",
+    "context": "This text tells the user that they have prohibited the application from using push notifications and that they must re-enable this feature to subscribe."
   },
   "helpFindTitle": {
     "message": "Help Locating a Person or Animal",
@@ -288,7 +288,7 @@
     "context": "This is the help page article body describing in detail how to report a person or animal."
   },
   "pageAboutTextAbout": {
-    "message": "This site is provided by the United States National Library of Medicine in Bethesda, Maryland. NLM is part of the National Institutes of Health, United States Department of Health and Human Services, and has in its mission the development and coordination of communication technology to improve the delivery of health services. This site is provided for the purpose of studying the utility of such tools in responding to disasters. The underlying technology was developed through the Lost Person Finder project, part of NLM's contribution to the Bethesda Hospitals' Emergency Preparedness Partnership. The partnership received initial federal funding for LPF and other NLM IT projects in 2008. The LPF project is currently supported by the Intramural Research Program of the NIH, through NLM's Lister Hill National Center for Biomedical Communications. Software development is headed by LHNCBC's Communication Engineering Branch, with additional content from LHNCBC's Computer Science Branch and the Disaster Information Management Research Center, part of NLM's Specialized Information Services.",
+    "message": "This application is provided by the United States National Library of Medicine in Bethesda, Maryland. NLM is part of the National Institutes of Health, United States Department of Health and Human Services, and has in its mission the development and coordination of communication technology to improve the delivery of health services. This application is provided for the purpose of studying the utility of such tools in responding to disasters. The underlying technology was developed through the Lost Person Finder project, part of NLM's contribution to the Bethesda Hospitals' Emergency Preparedness Partnership. The partnership received initial federal funding for LPF and other NLM IT projects in 2008. The LPF project is currently supported by the Intramural Research Program of the NIH, through NLM's Lister Hill National Center for Biomedical Communications. Software development is headed by LHNCBC's Communication Engineering Branch, with additional content from LHNCBC's Computer Science Branch and the Disaster Information Management Research Center, part of NLM's Specialized Information Services.",
     "context": "This is the first paragraph of verbiage on the About page describing the purpose of the PEOPLE LOCATOR."
   },
   "pageAboutTextBrowser": {
@@ -308,7 +308,7 @@
     "context": "Frequently Asked Questions link title on About page."
   },
   "pagePrivacyText1": {
-    "message": "Unless otherwise indicated, community-based data contained on this Web site are available to the public and are searchable by all visitors to the Web site. Data may be received from various sources, as indicated on individual records by direct reporting to NLM through :",
+    "message": "Unless otherwise indicated, community-based data contained in this application is available to the public and are searchable by all users of this application. Data may be received from various sources, as indicated on individual records by direct reporting to NLM through :",
     "context": "This is the first text paragraph on the Privacy page describing how user data is handled."
   },
   "pagePrivacyText2a": {
@@ -316,7 +316,7 @@
     "context": "Beginning of the second paragraph on the Privacy page."
   },
   "pagePrivacyText2b": {
-    "message": "site are not moderated and other contributing organizations should not be expected to review or verify the accuracy of any of the data presented on this Web site. Note that data received by direct submission to",
+    "message": "application are not moderated and other contributing organizations should not be expected to review or verify the accuracy of any of the data presented in this application. Note that data received by direct submission to",
     "context": "Large portion of the second paragraph of the Privacy page."
   },
   "pagePrivacyText2c": {
@@ -885,15 +885,15 @@
   },
   "eventInvalid": {
     "message": "This event does not exist.",
-    "context": "If the user comes to the site with a direct URL linking to an invalid event, this toast notification will appear."
+    "context": "If the user comes to the app with a direct URL linking to an invalid event, this toast notification will appear."
   },
   "moduleInvalid": {
     "message": "This module does not exist.",
-    "context": "If the user attempts to access a non-existant portion of the site (very unlikely) this toast notification will appear."
+    "context": "If the user attempts to access a non-existant portion of the app (very unlikely) this toast notification will appear."
   },
   "moduleAccess": {
     "message": "You do not have permission to access this module.",
-    "context": "If the user attempts to access a portion of the site they do not have permission for, this toast notification will appear."
+    "context": "If the user attempts to access a portion of the app they do not have permission for, this toast notification will appear."
   },
   "copyTrue": {
     "message": "URL copied to clipboard.",
@@ -960,7 +960,7 @@
     "context": "This button label is to select a report abuse claim of type something else."
   },
   "abuseThanks": {
-    "message": "Thanks. We have received your abuse claim. Our site staff will review this record and remove any inappropriate content.",
+    "message": "Thanks. We have received your abuse claim. Our staff will review this record and remove any inappropriate content.",
     "context": ""
   },
   "deleteRecord": {
@@ -1079,6 +1079,8 @@
     "message": "Choose a language",
     "context": "We prompt the user to select a language at first visit."
   },
+  
+  
   "zoomPhoto": {
     "message": "Enlarge Photo",
     "context": "This is s menu button action that shows a larger version of the image from a record."
@@ -1087,6 +1089,8 @@
     "message": "Share this record",
     "context": "This is a menu button action allowing a user to share a direct link to a record."
   },
+  
+  
   "additionalInformation": {
     "message": "Additional Information",
     "context": "This is a label displayed several places titled Additional Information."
