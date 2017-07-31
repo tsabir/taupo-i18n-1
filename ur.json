@@ -856,7 +856,7 @@
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },  
   "notifyRecordUnfollow": {
-    "message": "اب آپ اس ریکارڈ پیروی کر رہے ہیں",
+    "message": "آپ اس ریکارڈ کو ابھی نہیں پیروی کرتے ہیں",
     "context": "This notification will appear after the user unfollows a record via the full record view."
   },
   "followStatusTrue": {
