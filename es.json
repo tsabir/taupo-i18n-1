@@ -832,7 +832,7 @@
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "explainAnon2": {
-    "message": "This record will expire after 90 days. Use the “Report Abuse” button in the MORE DETAILS view later on to request an earlier expiration.",
+    "message": "Este registro caduca en 90 dias. Use el botón “Informar Abuso” bajo la sección de MAS DETALLES para modificar la fecha de caducidad.",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
