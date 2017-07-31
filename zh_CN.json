@@ -832,7 +832,7 @@
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "explainAnon2": {
-    "message": "本記錄90天後自動失效。如果需要縮短有效期，可以在提供更多詳細信息的視窗中，選擇‘舉告濫用’按鈕， 重新指定。",
+    "message": "本记录90天后自动失效。如果需要缩短有效期，可以在提供更多详细信息的视窗中，选择‘举告滥用’按钮， 重新指定。",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
