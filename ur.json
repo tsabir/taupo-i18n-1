@@ -832,7 +832,7 @@
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "explainAnon2": {
-    "message": "This record will expire after 90 days. Use the “Report Abuse” button in the MORE DETAILS view later on to request an earlier expiration.",
+    "message": "یہ ریکارڈ 90 دن کے بعد ختم ہو جائے گا. پہلے سے ہی ختم ہونے کی درخواست کرنے کے لئے مزید تفصیلات میں 'بدعنوانی کی اطلاع دیں' کے بٹن کا استعمال کریں.",
     "context": "The user is prompted that they may choose to submit their report anonymoysly and not recieve any updates afterwards."
   },
   "reportComplete": {
@@ -920,7 +920,7 @@
     "context": "This section text is displayed on the paper action dialog when a user clicks the share event button."
   },
   "eurl2": {
-    "message": ".آپ کے کلپ بورڈ پر اس ایونٹ URL کاپی کرنے کے لئے آپ کو اس کا اشتراک یا بک مارک کر سکتے ہیں تاکہ بٹن دبائیں",
+    "message": ".اس ایونٹ یو آر ایل کو اپنے کلپ بورڈ میں کاپی کرنے کیلئے بٹن پر دبائیں تاکہ آپ اس کا اشتراک کرسکتے ہیں یا اسے نشان زد کرسکیں"
     "context": "This text is displayed below the -copy to clipboard- button on the share event paper action dialog."
   },
   "page404": {
